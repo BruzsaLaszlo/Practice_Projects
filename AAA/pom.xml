@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>Benchmark</module>
+        <module>XML_Binding</module>
     </modules>
 
     <properties>
