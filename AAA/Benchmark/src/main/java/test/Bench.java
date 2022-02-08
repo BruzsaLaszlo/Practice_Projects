@@ -1,7 +1,6 @@
-package bruzsal.betfair.util;
+package test;
 
 import org.openjdk.jmh.annotations.*;
-import org.openjdk.jmh.infra.Blackhole;
 
 import java.io.IOException;
 import java.util.Arrays;

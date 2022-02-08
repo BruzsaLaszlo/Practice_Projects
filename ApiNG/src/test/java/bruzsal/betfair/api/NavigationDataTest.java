@@ -2,10 +2,16 @@ package bruzsal.betfair.api;
 
 import bruzsal.betfair.navigation.NavigationData;
 import com.fasterxml.jackson.core.JsonProcessingException;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
+import javax.persistence.Entity;
+import javax.persistence.EntityManager;
+import javax.persistence.Table;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -35,17 +41,32 @@ class NavigationDataTest {
 
     @Test
     @DisplayName("NavigationDataTest.test készítés")
-    void updateNavigationData() throws IOException {
+    void getAllData() throws IOException {
 
         var data = ND.getAllData();
+        System.out.println(getSizeOfLists());
 
-        Path path = Path.of("c:\\temp\\NavigationDataTest.test");
+        Path path = Path.of("src/test/temp/NavigationDataTest.test");
         Files.writeString(path, data);
 
         assertEquals(data, Files.readString(path));
 
     }
 
+    @Test
+    void entityManager() {
+
+        @Entity
+        @Table(name = "navigation")
+        @Getter
+        @NoArgsConstructor
+        @AllArgsConstructor
+        class NavigationData{
+            private String data;
+        }
+
+//        EntityManager entityManager =
+    }
 
     @Test
     @DisplayName("Van Soccer az EventType-ok között")

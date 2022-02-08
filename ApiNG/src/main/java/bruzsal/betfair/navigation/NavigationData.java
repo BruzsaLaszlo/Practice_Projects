@@ -80,6 +80,7 @@ public class NavigationData {
 
     public Path updateNavigationData() throws JsonProcessingException {
         String dataJson = downLoadAndSaveNavigationData();
+
         createTree(dataJson);
         return NAVIGATION_DATA_JSON;
     }

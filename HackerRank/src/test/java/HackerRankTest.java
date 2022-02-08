@@ -55,7 +55,6 @@ class HackerRankTest {
             } catch (NumberFormatException exception) {
                 System.out.println(in + " can't be fitted anywhere.");
             }
-
     }
 
 

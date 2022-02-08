@@ -77,8 +77,7 @@ public enum Properties {
     private static String sessionToken;
 
     static {
-//        try (InputStream in = new FileInputStream(new File("d:\\.DOK\\private\\betfair\\apingdemo.properties"))) {
-            try (InputStream in = Properties.class.getResourceAsStream("/apingdemo.properties")) {
+        try (InputStream in = Properties.class.getResourceAsStream("/apingdemo.properties")) {
 
             PROP.load(in);
             sessionToken = updateSessionToken();
