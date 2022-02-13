@@ -7,10 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Benchmark" />
         <module name="HackerRank" />
-        <module name="ApiNG" />
         <module name="Spring_Boot" />
+        <module name="XML_Binding" />
+        <module name="Benchmark" />
+        <module name="JPA" />
+        <module name="ApiNG" />
         <module name="Webotlet" />
         <module name="OCR" />
       </profile>
