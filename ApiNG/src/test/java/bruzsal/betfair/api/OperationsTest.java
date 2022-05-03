@@ -23,15 +23,17 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.time.Duration;
 import java.time.temporal.ChronoUnit;
-import java.util.*;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
+import java.util.List;
+import java.util.Set;
 
 import static bruzsal.betfair.enums.CountryCodes.HUNGARY;
 import static bruzsal.betfair.enums.CountryCodes.UNITED_KINGDOM;
 import static bruzsal.betfair.enums.EventTypeIds.SOCCER;
 import static java.time.LocalDateTime.now;
+import static java.util.Collections.singletonList;
 import static java.util.Comparator.comparing;
+import static org.assertj.core.api.Assertions.assertThat;
+import static org.assertj.core.api.Assertions.assertThatExceptionOfType;
 import static org.junit.jupiter.api.Assertions.*;
 
 class OperationsTest {
@@ -45,7 +47,7 @@ class OperationsTest {
         List<EventTypeResult> list = operations.listEventTypes(MarketFilter.empty());
         list.forEach(System.out::println);
 
-        assertTrue(list.size() > 0);
+        assertThat(list).isNotEmpty();
 
     }
 
@@ -67,7 +69,7 @@ class OperationsTest {
 
         lmb.forEach(System.out::println);
 
-        assertFalse(lmb.isEmpty());
+        assertThat(lmb).isNotEmpty();
 
     }
 
@@ -82,7 +84,7 @@ class OperationsTest {
         list.sort(comparing(CountryCodeResult::marketCount));
         list.forEach(System.out::println);
 
-        assertTrue(list.size() > 0);
+        assertThat(list).isNotEmpty();
     }
 
     @Test
@@ -96,7 +98,7 @@ class OperationsTest {
         list.sort(comparing(TimeRangeResult::marketCount));
         list.forEach(System.out::println);
 
-        assertTrue(list.size() > 0);
+        assertThat(list).isNotEmpty();
 
     }
 
@@ -112,7 +114,7 @@ class OperationsTest {
 
         mc.forEach(System.out::println);
 
-        assertFalse(mc.isEmpty());
+        assertThat(mc).isNotEmpty();
 
     }
 
@@ -128,38 +130,40 @@ class OperationsTest {
 
         list.forEach(System.out::println);
 
-        assertTrue(list.size() > 0);
+        assertThat(list).isNotEmpty();
     }
 
     @Test
     void placeOrders() {
 
-        PlaceInstruction pi = PlaceInstruction.builder()
-                .orderType(OrderType.LIMIT)
-                .side(Side.BACK)
-                .selectionId(4234234L)
-                .build();
+        var pi = singletonList(
+                PlaceInstruction.builder()
+                        .orderType(OrderType.LIMIT)
+                        .side(Side.BACK)
+                        .selectionId(4234234L)
+                        .build());
 
-        assertThrows(ApiNgException.class, () -> operations.placeOrders("1.183689747", List.of(pi), "1.183689747L"));
+        assertThatExceptionOfType(ApiNgException.class)
+                .isThrownBy(() -> operations.placeOrders("1.183689747", pi, "1.183689747L"));
 
     }
 
     @Test
     void cancelOrders() {
 
-        CancelInstruction ci = new CancelInstruction("231231", 0.1);
+        var ci = singletonList(new CancelInstruction("231231", 0.1));
 
-        assertThrows(ApiNgException.class, () -> operations.cancelOrders("1.183689747", List.of(ci), "1.183689747L"));
+        assertThatExceptionOfType(ApiNgException.class)
+                .isThrownBy(() -> operations.cancelOrders("1.183689747", ci, "1.183689747L"));
 
     }
 
     @Test
     void replaceOrders() {
 
-        var ri = new ReplaceInstruction("251188825177", 5d);
-
-        assertThrows(ApiNgException.class, () ->
-                operations.replaceOrders("1.190116217", List.of(ri), "customerRefReplaceTest"));
+        var ri = singletonList(new ReplaceInstruction("251188825177", 5d));
+        assertThatExceptionOfType(ApiNgException.class)
+                .isThrownBy(() -> operations.replaceOrders("1.190116217", ri, "customerRefReplaceTest"));
 
     }
 
@@ -167,10 +171,11 @@ class OperationsTest {
     @Description("csak akkor müxik,ha valós marketId-t és betId-t adok meg")
     void updateOrders() {
 
-        UpdateInstruction updateInstruction = new UpdateInstruction("251188825177", PersistenceType.MARKET_ON_CLOSE);
+        var updateInstruction = singletonList(
+                new UpdateInstruction("251188825177", PersistenceType.MARKET_ON_CLOSE));
 
-        assertThrows(ApiNgException.class, () ->
-                operations.updateOrders("1.190116217", List.of(updateInstruction), "customerRefUpdateTest"));
+        assertThatExceptionOfType(ApiNgException.class)
+                .isThrownBy(() -> operations.updateOrders("1.190116217", updateInstruction, "customerRefUpdateTest"));
 
     }
 
@@ -187,9 +192,8 @@ class OperationsTest {
 
         System.out.println(cosr);
 
-        assertNotNull(cosr);
+        assertThat(cosr.moreAvailable()).isFalse();
 
-        assertFalse(cosr.moreAvailable());
     }
 
     @Test
@@ -197,8 +201,7 @@ class OperationsTest {
 
         TimeRange timeRange = new TimeRange(
                 now().minusDays(1),
-                now()
-        );
+                now());
 
         var params = ClearedOrderSummaryParameters.builder()
                 .settledDateRange(timeRange)
@@ -207,7 +210,7 @@ class OperationsTest {
 
         ClearedOrderSummaryReport cosr = operations.listClearedOrders(params);
 
-        assertNotNull(cosr);
+        assertThat(cosr).isNotNull();
 
     }
 
@@ -223,7 +226,7 @@ class OperationsTest {
         list.sort(comparing(CompetitionResult::marketCount));
         list.forEach(System.out::println);
 
-        assertTrue(list.size() > 0);
+        assertThat(list).isNotEmpty();
 
     }
 
@@ -238,7 +241,7 @@ class OperationsTest {
         listEvents.sort(comparing(o -> o.event().getOpenDate()));
         listEvents.forEach(System.out::println);
 
-        assertFalse(listEvents.isEmpty());
+        assertThat(listEvents).isNotEmpty();
 
     }
 
@@ -254,7 +257,7 @@ class OperationsTest {
         hbr = operations.heartbeat(0);
         System.out.println(hbr);
 
-        assertEquals(0, hbr.actualTimeoutSeconds());
+        assertThat(hbr.actualTimeoutSeconds()).isZero();
 
     }
 
@@ -265,7 +268,8 @@ class OperationsTest {
         AccountFundsResponse acr = operations.getAccountFunds();
         assertNotNull(acr);
         System.out.println(acr);
-        assertTrue(acr.exposureLimit() < 0);
+
+        assertThat(acr.exposureLimit()).isNegative();
 
     }
 
@@ -273,9 +277,10 @@ class OperationsTest {
     void getAccountDetails() throws ApiNgException, JsonProcessingException {
 
         AccountDetailsResponse adr = operations.getAccountDetails();
-        assertNotNull(adr);
+
         System.out.println(adr);
-        assertEquals("Laszlo", adr.firstName());
+
+        assertThat(adr.firstName()).isEqualTo("Laszlo");
 
     }
 
@@ -283,8 +288,11 @@ class OperationsTest {
     void getDeveloperAppKeys() throws ApiNgException, JsonProcessingException {
 
         List<DeveloperApp> list = operations.getDeveloperAppKeys();
+
         assertNotNull(list);
+
         list.forEach(System.out::println);
+
         assertEquals("bruzsal", list.get(0).appVersions().get(0).owner());
 
     }
@@ -299,12 +307,13 @@ class OperationsTest {
     void getNavigationData() throws JsonProcessingException {
 
         new NavigationData().updateNavigationData();
-        assertFalse(now().isEqual(NavigationData.lastUpdateTime));
+
+        assertThat(NavigationData.lastUpdateTime).isEqualToIgnoringMinutes(now());
 
     }
 
     @Test
-    @Disabled
+    @Disabled("nem oparion test")
     void testObjectMapper() throws JsonProcessingException {
 
         String json = """
@@ -327,7 +336,7 @@ class OperationsTest {
     }
 
     @Test
-    @Disabled
+    @Disabled("nem oparion test")
     void testObjectMapper2() throws JsonProcessingException {
 
         String json = """
@@ -385,7 +394,7 @@ class OperationsTest {
 
 
     @Test
-    @Disabled
+    @Disabled("http test")
     void htttp() throws IOException, InterruptedException, URISyntaxException {
         String url = "https://api.betfair.com/exchange/account/rest/v1.0/getAccountDetails/";
 
