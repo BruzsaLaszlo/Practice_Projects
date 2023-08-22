@@ -23,29 +23,22 @@ public class HumanService {
         return humanRepository.findAll();
     }
 
+    @Transactional
     public String addAllHumans() {
         List<Human> humans = List.of(
                 new Human("Pistike", 8, MALE),
                 new Human("dr. Kovács István", 55, FEMALE));
-        humans.forEach(human -> humanRepository.findHumanByName(human.getName())
-                .ifPresent(humanOptinal -> {
-                    throw new IllegalStateException("van már ilyen név: " + humanOptinal.getName());
-                }));
+        humans = humans.stream()
+                .filter(human -> humanRepository.findHumanByName(human.getName()).isEmpty())
+                .toList();
         humanRepository.saveAll(humans);
         return humans.toString();
     }
 
-    public HumanRepository getHumanRepository() {
-        return humanRepository;
-    }
-
     public void deleteHuman(long id) {
-        humanRepository.findHumanById(id)
-                .ifPresentOrElse(
-                        humanRepository::delete,
-                        () -> {
-                            throw new IllegalArgumentException("nincs ilyen id, nem lehet törölni!");
-                        });
+        Human human = humanRepository.findHumanById(id)
+                .orElseThrow(() -> new IllegalArgumentException("nincs ilyen id, nem lehet törölni!"));
+        humanRepository.delete(human);
     }
 
     @Transactional
@@ -57,10 +50,9 @@ public class HumanService {
     }
 
     public void addHuman(Human human) {
-        humanRepository.equalsHumanByNameAndAge(human.getName(), human.getAge())
-                .ifPresent(h -> {
-                    throw new IllegalStateException("Van már ilyen nevü és korú!");
-                });
+        if (humanRepository.equalsHumanByNameAndAge(human.getName(), human.getAge()).isPresent()) {
+            throw new IllegalStateException("Van már ilyen nevü és korú! " + human);
+        }
         humanRepository.save(human);
     }
 }

@@ -9,17 +9,24 @@
         <outputRelativeToContentRoot value="true" />
         <module name="HackerRank" />
         <module name="Spring_Boot" />
+        <module name="SpringTest" />
         <module name="XML_Binding" />
         <module name="Benchmark" />
         <module name="JPA" />
         <module name="ApiNG" />
         <module name="Webotlet" />
+        <module name="webotlet" />
         <module name="OCR" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ApiNg" target="20" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ApiNg" options="" />
+      <module name="SpringTest" options="-parameters" />
       <module name="Spring_Boot" options="-parameters" />
     </option>
   </component>

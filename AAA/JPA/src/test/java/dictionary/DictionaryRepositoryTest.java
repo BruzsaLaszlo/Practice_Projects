@@ -1,7 +1,7 @@
 package dictionary;
 
 import lombok.SneakyThrows;
-import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 
 import javax.persistence.EntityManagerFactory;
@@ -11,20 +11,23 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 
 class DictionaryRepositoryTest {
 
-    DictionaryRepository repository;
+    public static final boolean IMDB = false;
 
-    @BeforeEach
-    void setUp() {
-        EntityManagerFactory factory = Persistence.createEntityManagerFactory("pu");
-        repository = new DictionaryRepository(factory);
+    EntityManagerFactory factory = Persistence.createEntityManagerFactory(IMDB ? "h2_pu" : "pu");
+    DictionaryRepository repository = new DictionaryRepository(factory);
+
+    @AfterEach
+    void tearDown() {
+        factory.close();
     }
 
     @SneakyThrows
-    private List<EnglishHungarian> getTranslatesFromFile() {
+    private List<EnglishHungarian> getWordsFromFile() {
         var hungarian = Files.readAllLines(Path.of("src/main/resources/Magyar.txt"));
         var english = Files.readAllLines(Path.of("src/main/resources/Angol.txt"));
 
@@ -37,7 +40,11 @@ class DictionaryRepositoryTest {
 
     @Test
     void saveAll() {
-        repository.saveAll(getTranslatesFromFile());
+        repository.saveAll(getWordsFromFile());
+
+        var result = repository.loadAll();
+
+        assertEquals(185118, result.size());
     }
 
     @Test

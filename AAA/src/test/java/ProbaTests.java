@@ -28,6 +28,19 @@ class ProbaTests {
         assertTrue(s.startsWith("a"));
     }
 
+    private boolean tryProba() {
+        try {
+            return true;
+        } finally {
+            return false;
+        }
+    }
+
+    @Test
+    void tryTest() {
+        System.out.println(tryProba());
+    }
+
     @Test
     void ize() {
 

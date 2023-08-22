@@ -5,13 +5,12 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
 
 import java.util.List;
-import java.util.NoSuchElementException;
 import java.util.Optional;
 
 import static Human.Gender.FEMALE;
 import static Human.Gender.MALE;
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertThrows;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 @DataJpaTest
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
@@ -42,18 +41,20 @@ class HumanRepositoryTest {
     @Test
     void equalsHumanByNameAndAge() {
         Optional<Human> juliska = repository.equalsHumanByNameAndAge("Juliska", 10);
+        assertTrue(juliska.isPresent());
         assertEquals(10, juliska.get().getAge());
         Optional<Human> juli = repository.equalsHumanByNameAndAge("Juli", 10);
-        assertEquals(Optional.empty(), juli);
+        assertTrue(juli.isEmpty());
     }
 
     @Test
     @Order(1)
     void findHumanById() {
         Optional<Human> jancsi = repository.findHumanById(1);
+        assertTrue(jancsi.isPresent());
         assertEquals("Jancsi", jancsi.get().getName());
         Optional<Human> none = repository.findHumanById(3);
-        assertThrows(NoSuchElementException.class, none::get);
+        assertTrue(none.isEmpty());
     }
 
     @Test

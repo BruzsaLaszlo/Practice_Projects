@@ -25,12 +25,12 @@ public class DictionaryRepository {
 
     public List<EnglishHungarian> loadAll() {
         EntityManager entityManager = factory.createEntityManager();
-        entityManager.getTransaction().begin();
 
-        var result =
-                entityManager.createQuery("select t from EnglishHungarian t", EnglishHungarian.class).getResultList();
+        var result = entityManager.createQuery(
+                        "select t from EnglishHungarian t",
+                        EnglishHungarian.class)
+                .getResultList();
 
-        entityManager.getTransaction().commit();
         entityManager.close();
         return result;
     }
