@@ -1,0 +1,1994 @@
+Poker Hand #TM80534757: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level13(250) - 2024/08/03 16:47:11
+Table '43' 6-max Seat #3 is the button
+Seat 2: bed8caa5 (10,000 in chips)
+Seat 3: Hero (2,996 in chips)
+Seat 4: 6c553f1c (89,832 in chips)
+Seat 5: 2e03bbf1 (4,550 in chips)
+Seat 6: 7fd36043 (29,851 in chips)
+bed8caa5: posts the ante 250
+6c553f1c: posts the ante 250
+2e03bbf1: posts the ante 250
+7fd36043: posts the ante 250
+Hero: posts the ante 250
+Hero: posts button blind 250
+*** HOLE CARDS ***
+Dealt to bed8caa5 
+Dealt to Hero [Kd Ac]
+Dealt to 6c553f1c 
+Dealt to 2e03bbf1 
+Dealt to 7fd36043 
+6c553f1c: folds
+2e03bbf1: folds
+7fd36043: raises 29,351 to 29,601 and is all-in
+bed8caa5: folds
+Hero: calls 2,496 and is all-in
+Uncalled bet (26,855) returned to 7fd36043
+7fd36043: shows [8d 8c]
+Hero: shows [Kd Ac]
+*** FLOP *** [Jc 7h 9h]
+*** TURN *** [Jc 7h 9h] [6c]
+*** RIVER *** [Jc 7h 9h 6c] [9d]
+6c553f1c: shows [Jh] (Pair of Jacks and Pair of Nines)
+*** SHOWDOWN ***
+7fd36043 collected 6,742 from pot
+*** SUMMARY ***
+Total pot 6,742 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jc 7h 9h 6c 9d]
+Seat 2: bed8caa5 folded before Flop
+Seat 3: Hero (button) showed [Kd Ac] and lost with Pair of Nines
+Seat 4: 6c553f1c folded before Flop
+Seat 5: 2e03bbf1 folded before Flop
+Seat 6: 7fd36043 showed [8d 8c] and won (6,742) with Pair of Nines and Pair of Eights
+
+
+Poker Hand #TM80534756: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level13(250) - 2024/08/03 16:46:30
+Table '43' 6-max Seat #1 is the button
+Seat 1: 2d876f9f (1,440 in chips)
+Seat 3: Hero (3,746 in chips)
+Seat 4: 6c553f1c (93,664 in chips)
+Seat 5: 2e03bbf1 (4,800 in chips)
+Seat 6: 7fd36043 (23,579 in chips)
+6c553f1c: posts the ante 250
+2e03bbf1: posts the ante 250
+2d876f9f: posts the ante 250
+7fd36043: posts the ante 250
+Hero: posts the ante 250
+2d876f9f: posts button blind 250
+*** HOLE CARDS ***
+Dealt to 2d876f9f 
+Dealt to Hero [Ks Kd]
+Dealt to 6c553f1c 
+Dealt to 2e03bbf1 
+Dealt to 7fd36043 
+Hero: raises 250 to 500
+6c553f1c: calls 500
+2e03bbf1: folds
+7fd36043: calls 500
+2d876f9f: calls 250
+*** FLOP *** [Ac Jh 9c]
+Hero: checks
+6c553f1c: bets 1,073
+7fd36043: calls 1,073
+2d876f9f: calls 690 and is all-in
+Hero: folds
+*** TURN *** [Ac Jh 9c] [9h]
+6c553f1c: checks
+7fd36043: bets 2,009
+6c553f1c: calls 2,009
+*** RIVER *** [Ac Jh 9c 9h] [Qc]
+6c553f1c: checks
+7fd36043: bets 7,578
+6c553f1c: folds
+Uncalled bet (7,578) returned to 7fd36043
+7fd36043: shows [9s 8d] (Three Nines)
+2d876f9f: shows [Jd Ts] (Pair of Jacks and Pair of Nines)
+*** SHOWDOWN ***
+7fd36043 collected 5,320 from pot
+7fd36043 collected 4,784 from pot
+*** SUMMARY ***
+Total pot 10,104 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac Jh 9c 9h Qc]
+Seat 1: 2d876f9f (button) showed [Jd Ts] and lost with Pair of Jacks and Pair of Nines
+Seat 3: Hero folded on the Flop
+Seat 4: 6c553f1c folded on the River
+Seat 5: 2e03bbf1 folded before Flop
+Seat 6: 7fd36043 showed [9s 8d] and won (10,104) with Three Nines
+
+
+Poker Hand #TM80534753: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level12(200) - 2024/08/03 16:45:13
+Table '43' 6-max Seat #6 is the button
+Seat 1: 2d876f9f (1,640 in chips)
+Seat 2: ff26b895 (21,520 in chips)
+Seat 3: Hero (4,146 in chips)
+Seat 4: 6c553f1c (67,144 in chips)
+Seat 5: 2e03bbf1 (8,800 in chips)
+Seat 6: 7fd36043 (23,979 in chips)
+6c553f1c: posts the ante 200
+ff26b895: posts the ante 200
+2e03bbf1: posts the ante 200
+2d876f9f: posts the ante 200
+7fd36043: posts the ante 200
+Hero: posts the ante 200
+7fd36043: posts button blind 200
+*** HOLE CARDS ***
+Dealt to 2d876f9f 
+Dealt to ff26b895 
+Dealt to Hero [9c Qh]
+Dealt to 6c553f1c 
+Dealt to 2e03bbf1 
+Dealt to 7fd36043 
+2d876f9f: folds
+ff26b895: calls 200
+Hero: calls 200
+6c553f1c: raises 1,000 to 1,200
+2e03bbf1: calls 1,200
+7fd36043: folds
+ff26b895: calls 1,000
+Hero: folds
+*** FLOP *** [7c Js Qs]
+ff26b895: checks
+6c553f1c: checks
+2e03bbf1: bets 2,600
+ff26b895: raises 10,400 to 13,000
+6c553f1c: calls 13,000
+2e03bbf1: folds
+*** TURN *** [7c Js Qs] [Jd]
+ff26b895: checks
+6c553f1c: bets 16,900
+ff26b895: calls 7,120 and is all-in
+Uncalled bet (9,780) returned to 6c553f1c
+6c553f1c: shows [Jh 8h] (Three Jacks)
+ff26b895: shows [Ks Td] (Pair of Jacks)
+*** RIVER *** [7c Js Qs Jd] [7d]
+*** SHOWDOWN ***
+6c553f1c collected 48,040 from pot
+*** SUMMARY ***
+Total pot 48,040 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7c Js Qs Jd 7d]
+Seat 1: 2d876f9f folded before Flop
+Seat 2: ff26b895 showed [Ks Td] and lost with Pair of Jacks and Pair of Sevens
+Seat 3: Hero folded before Flop
+Seat 4: 6c553f1c showed [Jh 8h] and won (48,040) with Jacks Full over Sevens
+Seat 5: 2e03bbf1 folded on the Flop
+Seat 6: 7fd36043 (button) folded before Flop
+
+
+Poker Hand #TM80534750: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level12(200) - 2024/08/03 16:44:17
+Table '43' 6-max Seat #5 is the button
+Seat 1: 2d876f9f (10,000 in chips)
+Seat 2: ff26b895 (8,360 in chips)
+Seat 3: Hero (6,346 in chips)
+Seat 5: 2e03bbf1 (9,200 in chips)
+Seat 6: 7fd36043 (26,179 in chips)
+ff26b895: posts the ante 200
+2e03bbf1: posts the ante 200
+2d876f9f: posts the ante 200
+7fd36043: posts the ante 200
+Hero: posts the ante 200
+2e03bbf1: posts button blind 200
+*** HOLE CARDS ***
+Dealt to 2d876f9f 
+Dealt to ff26b895 
+Dealt to Hero [Ah Js]
+Dealt to 2e03bbf1 
+Dealt to 7fd36043 
+7fd36043: calls 200
+2d876f9f: calls 200
+ff26b895: raises 1,800 to 2,000
+Hero: calls 2,000
+2e03bbf1: folds
+7fd36043: calls 1,800
+2d876f9f: calls 1,800
+*** FLOP *** [7h Qc 9h]
+7fd36043: checks
+2d876f9f: bets 7,800 and is all-in
+ff26b895: calls 6,160 and is all-in
+Hero: folds
+7fd36043: folds
+Uncalled bet (1,640) returned to 2d876f9f
+2d876f9f: shows [Jd Qs] (Pair of Queens)
+ff26b895: shows [9c 9d] (Three Nines)
+*** TURN *** [7h Qc 9h] [Tc]
+*** RIVER *** [7h Qc 9h Tc] [7c]
+*** SHOWDOWN ***
+ff26b895 collected 21,520 from pot
+*** SUMMARY ***
+Total pot 21,520 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h Qc 9h Tc 7c]
+Seat 1: 2d876f9f showed [Jd Qs] and lost with Pair of Queens and Pair of Sevens
+Seat 2: ff26b895 showed [9c 9d] and won (21,520) with Nines Full over Sevens
+Seat 3: Hero folded on the Flop
+Seat 5: 2e03bbf1 (button) folded before Flop
+Seat 6: 7fd36043 folded on the Flop
+
+
+Poker Hand #TM80534747: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level12(200) - 2024/08/03 16:43:38
+Table '43' 6-max Seat #3 is the button
+Seat 2: ff26b895 (19,960 in chips)
+Seat 3: Hero (6,746 in chips)
+Seat 4: 11883600 (2,179 in chips)
+Seat 5: 2e03bbf1 (9,600 in chips)
+Seat 6: 7fd36043 (11,600 in chips)
+ff26b895: posts the ante 200
+2e03bbf1: posts the ante 200
+7fd36043: posts the ante 200
+11883600: posts the ante 200
+Hero: posts the ante 200
+Hero: posts button blind 200
+*** HOLE CARDS ***
+Dealt to ff26b895 
+Dealt to Hero [8s 6s]
+Dealt to 11883600 
+Dealt to 2e03bbf1 
+Dealt to 7fd36043 
+11883600: calls 200
+2e03bbf1: calls 200
+7fd36043: raises 11,200 to 11,400 and is all-in
+ff26b895: calls 11,400
+Hero: folds
+11883600: calls 1,779 and is all-in
+2e03bbf1: folds
+7fd36043: shows [Ah 7d]
+ff26b895: shows [Ad 8d]
+11883600: shows [9d Jd]
+*** FLOP *** [9h Ks 8c]
+*** TURN *** [9h Ks 8c] [6d]
+*** RIVER *** [9h Ks 8c 6d] [6c]
+Hero: shows [8s 6s] (Sixes Full over Eights)
+*** SHOWDOWN ***
+7fd36043 collected 7,337 from pot
+7fd36043 collected 18,842 from pot
+*** SUMMARY ***
+Total pot 26,179 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h Ks 8c 6d 6c]
+Seat 2: ff26b895 showed [Ad 8d] and lost with Pair of Eights and Pair of Sixes
+Seat 3: Hero (button) folded before Flop
+Seat 4: 11883600 showed [9d Jd] and lost with Pair of Nines and Pair of Sixes
+Seat 5: 2e03bbf1 folded before Flop
+Seat 6: 7fd36043 showed [Ah 7d] and won (26,179) with Nines-High Straight
+
+
+Poker Hand #TM80534745: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level12(200) - 2024/08/03 16:43:18
+Table '43' 6-max Seat #2 is the button
+Seat 2: ff26b895 (20,360 in chips)
+Seat 3: Hero (7,146 in chips)
+Seat 4: 11883600 (2,579 in chips)
+Seat 5: 2e03bbf1 (10,000 in chips)
+Seat 6: 7fd36043 (10,000 in chips)
+ff26b895: posts the ante 200
+2e03bbf1: posts the ante 200
+7fd36043: posts the ante 200
+11883600: posts the ante 200
+Hero: posts the ante 200
+ff26b895: posts button blind 200
+*** HOLE CARDS ***
+Dealt to ff26b895 
+Dealt to Hero [8h 9s]
+Dealt to 11883600 
+Dealt to 2e03bbf1 
+Dealt to 7fd36043 
+Hero: calls 200
+11883600: calls 200
+2e03bbf1: calls 200
+7fd36043: raises 9,600 to 9,800 and is all-in
+ff26b895: folds
+Hero: folds
+11883600: folds
+2e03bbf1: folds
+Uncalled bet (9,600) returned to 7fd36043
+*** SHOWDOWN ***
+7fd36043 collected 2,000 from pot
+*** SUMMARY ***
+Total pot 2,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: ff26b895 (button) folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 11883600 folded before Flop
+Seat 5: 2e03bbf1 folded before Flop
+Seat 6: 7fd36043 collected (2,000)
+
+
+Poker Hand #TM80534742: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level11(180) - 2024/08/03 16:42:30
+Table '43' 6-max Seat #1 is the button
+Seat 1: 61422d36 (10,000 in chips)
+Seat 2: ff26b895 (10,000 in chips)
+Seat 3: Hero (7,506 in chips)
+61422d36: posts the ante 180
+ff26b895: posts the ante 180
+Hero: posts the ante 180
+61422d36: posts button blind 180
+*** HOLE CARDS ***
+Dealt to 61422d36 
+Dealt to ff26b895 
+Dealt to Hero [6d 6h]
+ff26b895: calls 180
+Hero: calls 180
+61422d36: checks
+*** FLOP *** [Tc Qh Kc]
+ff26b895: checks
+Hero: checks
+61422d36: bets 9,640 and is all-in
+ff26b895: calls 9,640 and is all-in
+Hero: folds
+61422d36: shows [9h Qs] (Pair of Queens)
+ff26b895: shows [Ks 9s] (Pair of Kings)
+*** TURN *** [Tc Qh Kc] [As]
+*** RIVER *** [Tc Qh Kc As] [9d]
+*** SHOWDOWN ***
+ff26b895 collected 20,360 from pot
+*** SUMMARY ***
+Total pot 20,360 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc Qh Kc As 9d]
+Seat 1: 61422d36 (button) showed [9h Qs] and lost with Pair of Queens and Pair of Nines
+Seat 2: ff26b895 showed [Ks 9s] and won (20,360) with Pair of Kings and Pair of Nines
+Seat 3: Hero folded on the Flop
+
+
+Poker Hand #TM80436868: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level11(180) - 2024/08/03 16:41:42
+Table '36' 6-max Seat #1 is the button
+Seat 1: dd595c44 (76,574 in chips)
+Seat 2: 78e0c887 (10,652 in chips)
+Seat 3: b4f662ab (9,626 in chips)
+Seat 4: 6a041256 (16,722 in chips)
+Seat 5: b716da00 (23,841 in chips)
+Seat 6: Hero (8,766 in chips)
+b4f662ab: posts the ante 180
+78e0c887: posts the ante 180
+6a041256: posts the ante 180
+dd595c44: posts the ante 180
+Hero: posts the ante 180
+b716da00: posts the ante 180
+dd595c44: posts button blind 180
+*** HOLE CARDS ***
+Dealt to dd595c44 
+Dealt to 78e0c887 
+Dealt to b4f662ab 
+Dealt to 6a041256 
+Dealt to b716da00 
+Dealt to Hero [Jd Ac]
+78e0c887: folds
+b4f662ab: calls 180
+6a041256: folds
+b716da00: calls 180
+Hero: calls 180
+dd595c44: checks
+*** FLOP *** [Kc Ad Qs]
+b4f662ab: checks
+b716da00: checks
+Hero: checks
+dd595c44: checks
+*** TURN *** [Kc Ad Qs] [Jh]
+b4f662ab: checks
+b716da00: bets 900
+Hero: calls 900
+dd595c44: folds
+b4f662ab: folds
+*** RIVER *** [Kc Ad Qs Jh] [Qd]
+b716da00: checks
+Hero: checks
+b716da00: shows [Tc As] (Aces-High Straight)
+Hero: shows [Jd Ac] (Pair of Aces and Pair of Queens)
+*** SHOWDOWN ***
+b716da00 collected 3,600 from pot
+*** SUMMARY ***
+Total pot 3,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc Ad Qs Jh Qd]
+Seat 1: dd595c44 (button) folded on the Turn
+Seat 2: 78e0c887 folded before Flop
+Seat 3: b4f662ab folded on the Turn
+Seat 4: 6a041256 folded before Flop
+Seat 5: b716da00 showed [Tc As] and won (3,600) with Aces-High Straight
+Seat 6: Hero showed [Jd Ac] and lost with Pair of Aces and Pair of Queens
+
+
+Poker Hand #TM80436864: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level11(180) - 2024/08/03 16:40:48
+Table '36' 6-max Seat #6 is the button
+Seat 1: dd595c44 (76,934 in chips)
+Seat 2: 78e0c887 (10,832 in chips)
+Seat 3: b4f662ab (10,640 in chips)
+Seat 4: 6a041256 (22,309 in chips)
+Seat 5: b716da00 (16,340 in chips)
+Seat 6: Hero (9,126 in chips)
+b4f662ab: posts the ante 180
+78e0c887: posts the ante 180
+6a041256: posts the ante 180
+Hero: posts the ante 180
+b716da00: posts the ante 180
+dd595c44: posts the ante 180
+Hero: posts button blind 180
+*** HOLE CARDS ***
+Dealt to dd595c44 
+Dealt to 78e0c887 
+Dealt to b4f662ab 
+Dealt to 6a041256 
+Dealt to b716da00 
+Dealt to Hero [Ah Js]
+dd595c44: calls 180
+78e0c887: folds
+b4f662ab: calls 180
+6a041256: calls 180
+b716da00: calls 180
+Hero: checks
+*** FLOP *** [Ks Kd 6d]
+dd595c44: checks
+b4f662ab: checks
+6a041256: bets 654
+b716da00: calls 654
+Hero: folds
+dd595c44: folds
+b4f662ab: calls 654
+*** TURN *** [Ks Kd 6d] [Qd]
+b4f662ab: checks
+6a041256: checks
+b716da00: bets 1,301
+b4f662ab: folds
+6a041256: calls 1,301
+*** RIVER *** [Ks Kd 6d Qd] [Jc]
+6a041256: checks
+b716da00: bets 3,272
+6a041256: calls 3,272
+b716da00: shows [7d 8d] (King High Flush)
+6a041256: shows [8s 6s] (Pair of Kings and Pair of Sixes)
+*** SHOWDOWN ***
+b716da00 collected 13,088 from pot
+*** SUMMARY ***
+Total pot 13,088 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks Kd 6d Qd Jc]
+Seat 1: dd595c44 folded on the Flop
+Seat 2: 78e0c887 folded before Flop
+Seat 3: b4f662ab folded on the Turn
+Seat 4: 6a041256 showed [8s 6s] and lost with Pair of Kings and Pair of Sixes
+Seat 5: b716da00 showed [7d 8d] and won (13,088) with King High Flush
+Seat 6: Hero (button) folded on the Flop
+
+
+Poker Hand #TM80436859: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level10(160) - 2024/08/03 16:39:55
+Table '36' 6-max Seat #5 is the button
+Seat 1: dd595c44 (77,094 in chips)
+Seat 2: 78e0c887 (10,992 in chips)
+Seat 3: b4f662ab (11,120 in chips)
+Seat 4: 6a041256 (15,453 in chips)
+Seat 5: b716da00 (22,236 in chips)
+Seat 6: Hero (9,286 in chips)
+b4f662ab: posts the ante 160
+78e0c887: posts the ante 160
+6a041256: posts the ante 160
+b716da00: posts the ante 160
+dd595c44: posts the ante 160
+Hero: posts the ante 160
+b716da00: posts button blind 160
+*** HOLE CARDS ***
+Dealt to dd595c44 
+Dealt to 78e0c887 
+Dealt to b4f662ab 
+Dealt to 6a041256 
+Dealt to b716da00 
+Dealt to Hero [Ks 7c]
+Hero: folds
+dd595c44: folds
+78e0c887: folds
+b4f662ab: raises 160 to 320
+6a041256: calls 320
+b716da00: calls 160
+*** FLOP *** [8d 7h Ts]
+b4f662ab: checks
+6a041256: checks
+b716da00: bets 960
+b4f662ab: folds
+6a041256: calls 960
+*** TURN *** [8d 7h Ts] [Jc]
+6a041256: checks
+b716da00: bets 1,268
+6a041256: calls 1,268
+*** RIVER *** [8d 7h Ts Jc] [As]
+6a041256: bets 3,188
+b716da00: calls 3,188
+6a041256: shows [Jh Th] (Pair of Jacks and Pair of Tens)
+b716da00: shows [Td 8s] (Pair of Tens and Pair of Eights)
+*** SHOWDOWN ***
+6a041256 collected 12,752 from pot
+*** SUMMARY ***
+Total pot 12,752 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d 7h Ts Jc As]
+Seat 1: dd595c44 folded before Flop
+Seat 2: 78e0c887 folded before Flop
+Seat 3: b4f662ab folded on the Flop
+Seat 4: 6a041256 showed [Jh Th] and won (12,752) with Pair of Jacks and Pair of Tens
+Seat 5: b716da00 (button) showed [Td 8s] and lost with Pair of Tens and Pair of Eights
+Seat 6: Hero folded before Flop
+
+
+Poker Hand #TM80436856: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level10(160) - 2024/08/03 16:39:34
+Table '36' 6-max Seat #4 is the button
+Seat 1: dd595c44 (77,254 in chips)
+Seat 2: 78e0c887 (11,152 in chips)
+Seat 3: b4f662ab (10,000 in chips)
+Seat 4: 6a041256 (15,773 in chips)
+Seat 5: b716da00 (22,396 in chips)
+Seat 6: Hero (9,606 in chips)
+b4f662ab: posts the ante 160
+78e0c887: posts the ante 160
+6a041256: posts the ante 160
+dd595c44: posts the ante 160
+Hero: posts the ante 160
+b716da00: posts the ante 160
+6a041256: posts button blind 160
+*** HOLE CARDS ***
+Dealt to dd595c44 
+Dealt to 78e0c887 
+Dealt to b4f662ab 
+Dealt to 6a041256 
+Dealt to b716da00 
+Dealt to Hero [Jh As]
+b716da00: folds
+Hero: calls 160
+dd595c44: folds
+78e0c887: folds
+b4f662ab: raises 1,440 to 1,600
+6a041256: folds
+Hero: folds
+Uncalled bet (1,440) returned to b4f662ab
+*** SHOWDOWN ***
+b4f662ab collected 1,440 from pot
+*** SUMMARY ***
+Total pot 1,440 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: dd595c44 folded before Flop
+Seat 2: 78e0c887 folded before Flop
+Seat 3: b4f662ab collected (1,440)
+Seat 4: 6a041256 (button) folded before Flop
+Seat 5: b716da00 folded before Flop
+Seat 6: Hero folded before Flop
+
+
+Poker Hand #TM80436853: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level10(160) - 2024/08/03 16:38:50
+Table '36' 6-max Seat #2 is the button
+Seat 1: dd595c44 (77,414 in chips)
+Seat 2: 78e0c887 (9,240 in chips)
+Seat 4: 6a041256 (16,569 in chips)
+Seat 5: b716da00 (22,556 in chips)
+Seat 6: Hero (10,402 in chips)
+78e0c887: posts the ante 160
+6a041256: posts the ante 160
+dd595c44: posts the ante 160
+Hero: posts the ante 160
+b716da00: posts the ante 160
+78e0c887: posts button blind 160
+*** HOLE CARDS ***
+Dealt to dd595c44 
+Dealt to 78e0c887 
+Dealt to 6a041256 
+Dealt to b716da00 
+Dealt to Hero [9c 9d]
+6a041256: raises 476 to 636
+b716da00: folds
+Hero: calls 636
+dd595c44: folds
+78e0c887: raises 8,444 to 9,080 and is all-in
+6a041256: folds
+Hero: folds
+Uncalled bet (8,444) returned to 78e0c887
+*** SHOWDOWN ***
+78e0c887 collected 2,708 from pot
+*** SUMMARY ***
+Total pot 2,708 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: dd595c44 folded before Flop
+Seat 2: 78e0c887 (button) collected (2,708)
+Seat 4: 6a041256 folded before Flop
+Seat 5: b716da00 folded before Flop
+Seat 6: Hero folded before Flop
+
+
+Poker Hand #TM80436847: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level10(160) - 2024/08/03 16:37:56
+Table '36' 6-max Seat #1 is the button
+Seat 1: dd595c44 (75,371 in chips)
+Seat 2: 78e0c887 (9,560 in chips)
+Seat 3: 6bf66a99 (43,446 in chips)
+Seat 4: 6a041256 (17,090 in chips)
+Seat 5: b716da00 (23,077 in chips)
+Seat 6: Hero (10,923 in chips)
+78e0c887: posts the ante 160
+6a041256: posts the ante 160
+dd595c44: posts the ante 160
+Hero: posts the ante 160
+b716da00: posts the ante 160
+6bf66a99: posts the ante 160
+dd595c44: posts button blind 160
+*** HOLE CARDS ***
+Dealt to dd595c44 
+Dealt to 78e0c887 
+Dealt to 6bf66a99 
+Dealt to 6a041256 
+Dealt to b716da00 
+Dealt to Hero [Ad 9d]
+78e0c887: calls 160
+6bf66a99: folds
+6a041256: raises 201 to 361
+b716da00: calls 361
+Hero: calls 361
+dd595c44: raises 74,850 to 75,211 and is all-in
+78e0c887: folds
+6a041256: folds
+b716da00: folds
+Hero: folds
+Uncalled bet (74,850) returned to dd595c44
+*** SHOWDOWN ***
+dd595c44 collected 2,564 from pot
+*** SUMMARY ***
+Total pot 2,564 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: dd595c44 (button) collected (2,564)
+Seat 2: 78e0c887 folded before Flop
+Seat 3: 6bf66a99 folded before Flop
+Seat 4: 6a041256 folded before Flop
+Seat 5: b716da00 folded before Flop
+Seat 6: Hero folded before Flop
+
+
+Poker Hand #TM80436844: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level10(160) - 2024/08/03 16:37:23
+Table '36' 6-max Seat #6 is the button
+Seat 1: dd595c44 (75,531 in chips)
+Seat 2: 78e0c887 (9,720 in chips)
+Seat 3: 6bf66a99 (43,606 in chips)
+Seat 4: 6a041256 (15,005 in chips)
+Seat 5: b716da00 (23,237 in chips)
+Seat 6: Hero (12,368 in chips)
+78e0c887: posts the ante 160
+6a041256: posts the ante 160
+Hero: posts the ante 160
+b716da00: posts the ante 160
+dd595c44: posts the ante 160
+6bf66a99: posts the ante 160
+Hero: posts button blind 160
+*** HOLE CARDS ***
+Dealt to dd595c44 
+Dealt to 78e0c887 
+Dealt to 6bf66a99 
+Dealt to 6a041256 
+Dealt to b716da00 
+Dealt to Hero [9d 6d]
+dd595c44: folds
+78e0c887: folds
+6bf66a99: folds
+6a041256: raises 423 to 583
+b716da00: folds
+Hero: calls 423
+*** FLOP *** [6s Qc Td]
+6a041256: bets 702
+Hero: calls 702
+*** TURN *** [6s Qc Td] [Js]
+6a041256: bets 1,165
+Hero: folds
+Uncalled bet (1,165) returned to 6a041256
+*** SHOWDOWN ***
+6a041256 collected 3,530 from pot
+*** SUMMARY ***
+Total pot 3,530 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s Qc Td Js]
+Seat 1: dd595c44 folded before Flop
+Seat 2: 78e0c887 folded before Flop
+Seat 3: 6bf66a99 folded before Flop
+Seat 4: 6a041256 won (3,530)
+Seat 5: b716da00 folded before Flop
+Seat 6: Hero (button) folded on the Turn
+
+
+Poker Hand #TM80436840: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level9(140) - 2024/08/03 16:36:29
+Table '36' 6-max Seat #5 is the button
+Seat 2: 78e0c887 (9,860 in chips)
+Seat 3: 6bf66a99 (44,331 in chips)
+Seat 4: 6a041256 (13,720 in chips)
+Seat 5: b716da00 (23,517 in chips)
+Seat 6: Hero (12,508 in chips)
+78e0c887: posts the ante 140
+6a041256: posts the ante 140
+b716da00: posts the ante 140
+Hero: posts the ante 140
+6bf66a99: posts the ante 140
+b716da00: posts button blind 140
+*** HOLE CARDS ***
+Dealt to 78e0c887 
+Dealt to 6bf66a99 
+Dealt to 6a041256 
+Dealt to b716da00 
+Dealt to Hero [Kc 7h]
+Hero: folds
+78e0c887: folds
+6bf66a99: calls 140
+6a041256: raises 445 to 585
+b716da00: folds
+6bf66a99: calls 445
+*** FLOP *** [Th Ah 8s]
+6bf66a99: checks
+6a041256: checks
+*** TURN *** [Th Ah 8s] [As]
+6bf66a99: checks
+6a041256: bets 664
+6bf66a99: folds
+Uncalled bet (664) returned to 6a041256
+*** SHOWDOWN ***
+6a041256 collected 2,010 from pot
+*** SUMMARY ***
+Total pot 2,010 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Th Ah 8s As]
+Seat 2: 78e0c887 folded before Flop
+Seat 3: 6bf66a99 folded on the Turn
+Seat 4: 6a041256 won (2,010)
+Seat 5: b716da00 (button) folded before Flop
+Seat 6: Hero folded before Flop
+
+
+Poker Hand #TM80436832: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level9(140) - 2024/08/03 16:35:33
+Table '36' 6-max Seat #4 is the button
+Seat 1: d90adbd7 (19,733 in chips)
+Seat 2: 78e0c887 (10,000 in chips)
+Seat 3: 6bf66a99 (23,618 in chips)
+Seat 4: 6a041256 (14,000 in chips)
+Seat 5: b716da00 (23,797 in chips)
+Seat 6: Hero (12,788 in chips)
+78e0c887: posts the ante 140
+6a041256: posts the ante 140
+d90adbd7: posts the ante 140
+Hero: posts the ante 140
+b716da00: posts the ante 140
+6bf66a99: posts the ante 140
+6a041256: posts button blind 140
+*** HOLE CARDS ***
+Dealt to d90adbd7 
+Dealt to 78e0c887 
+Dealt to 6bf66a99 
+Dealt to 6a041256 
+Dealt to b716da00 
+Dealt to Hero [8d Ad]
+b716da00: calls 140
+Hero: calls 140
+d90adbd7: raises 19,453 to 19,593 and is all-in
+78e0c887: folds
+6bf66a99: raises 3,885 to 23,478 and is all-in
+6a041256: folds
+b716da00: folds
+Hero: folds
+Uncalled bet (3,885) returned to 6bf66a99
+6bf66a99: shows [As Kh]
+d90adbd7: shows [Qs Kc]
+*** FLOP *** [Jd Jc 8c]
+*** TURN *** [Jd Jc 8c] [8h]
+*** RIVER *** [Jd Jc 8c 8h] [Ac]
+Hero: shows [8d Ad] (Eights Full over Aces)
+*** SHOWDOWN ***
+6bf66a99 collected 40,446 from pot
+*** SUMMARY ***
+Total pot 40,446 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jd Jc 8c 8h Ac]
+Seat 1: d90adbd7 showed [Qs Kc] and lost with Pair of Jacks and Pair of Eights
+Seat 2: 78e0c887 folded before Flop
+Seat 3: 6bf66a99 showed [As Kh] and won (40,446) with Pair of Aces and Pair of Jacks
+Seat 4: 6a041256 (button) folded before Flop
+Seat 5: b716da00 folded before Flop
+Seat 6: Hero folded before Flop
+
+
+Poker Hand #TM80436828: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level9(140) - 2024/08/03 16:35:09
+Table '36' 6-max Seat #3 is the button
+Seat 1: d90adbd7 (18,613 in chips)
+Seat 3: 6bf66a99 (24,038 in chips)
+Seat 4: 6a041256 (14,140 in chips)
+Seat 5: b716da00 (23,937 in chips)
+Seat 6: Hero (13,208 in chips)
+6a041256: posts the ante 140
+d90adbd7: posts the ante 140
+Hero: posts the ante 140
+b716da00: posts the ante 140
+6bf66a99: posts the ante 140
+6bf66a99: posts button blind 140
+*** HOLE CARDS ***
+Dealt to d90adbd7 
+Dealt to 6bf66a99 
+Dealt to 6a041256 
+Dealt to b716da00 
+Dealt to Hero [Jc Ad]
+6a041256: folds
+b716da00: folds
+Hero: raises 140 to 280
+d90adbd7: calls 280
+6bf66a99: calls 140
+*** FLOP *** [Tc 7d 7c]
+Hero: checks
+d90adbd7: bets 1,155
+6bf66a99: folds
+Hero: folds
+Uncalled bet (1,155) returned to d90adbd7
+*** SHOWDOWN ***
+d90adbd7 collected 1,540 from pot
+*** SUMMARY ***
+Total pot 1,540 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc 7d 7c]
+Seat 1: d90adbd7 won (1,540)
+Seat 3: 6bf66a99 (button) folded on the Flop
+Seat 4: 6a041256 folded before Flop
+Seat 5: b716da00 folded before Flop
+Seat 6: Hero folded on the Flop
+
+
+Poker Hand #TM80436824: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level9(140) - 2024/08/03 16:34:19
+Table '36' 6-max Seat #2 is the button
+Seat 1: d90adbd7 (18,753 in chips)
+Seat 2: 40038a6d (3,377 in chips)
+Seat 3: 6bf66a99 (24,318 in chips)
+Seat 4: 6a041256 (14,280 in chips)
+Seat 5: b716da00 (10,000 in chips)
+Seat 6: Hero (23,208 in chips)
+6a041256: posts the ante 140
+40038a6d: posts the ante 140
+d90adbd7: posts the ante 140
+Hero: posts the ante 140
+b716da00: posts the ante 140
+6bf66a99: posts the ante 140
+40038a6d: posts button blind 140
+*** HOLE CARDS ***
+Dealt to d90adbd7 
+Dealt to 40038a6d 
+Dealt to 6bf66a99 
+Dealt to 6a041256 
+Dealt to b716da00 
+Dealt to Hero [8d 9h]
+6bf66a99: calls 140
+6a041256: folds
+b716da00: calls 140
+Hero: calls 140
+d90adbd7: folds
+40038a6d: raises 3,097 to 3,237 and is all-in
+6bf66a99: folds
+b716da00: calls 3,097
+Hero: calls 3,097
+*** FLOP *** [6d 7d Kh]
+b716da00: checks
+Hero: bets 19,831 and is all-in
+b716da00: calls 6,623 and is all-in
+Uncalled bet (13,208) returned to Hero
+Hero: shows [8d 9h] (King-High)
+40038a6d: shows [6h 6s] (Three Sixes)
+b716da00: shows [Jd Qd] (King-High)
+*** TURN *** [6d 7d Kh] [Td]
+*** RIVER *** [6d 7d Kh Td] [8s]
+*** SHOWDOWN ***
+b716da00 collected 10,691 from pot
+b716da00 collected 13,246 from pot
+*** SUMMARY ***
+Total pot 23,937 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d 7d Kh Td 8s]
+Seat 1: d90adbd7 folded before Flop
+Seat 2: 40038a6d (button) showed [6h 6s] and lost with Three Sixes
+Seat 3: 6bf66a99 folded before Flop
+Seat 4: 6a041256 folded before Flop
+Seat 5: b716da00 showed [Jd Qd] and won (23,937) with Queen High Flush
+Seat 6: Hero showed [8d 9h] and lost with Tens-High Straight
+
+
+Poker Hand #TM80427711: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level8(120) - 2024/08/03 16:33:20
+Table '6' 6-max Seat #2 is the button
+Seat 1: Hero (14,304 in chips)
+Seat 2: a749f235 (42,190 in chips)
+Seat 3: 22df9218 (15,441 in chips)
+Seat 4: ee9b0e1f (8,304 in chips)
+Seat 5: 95adbdad (16,486 in chips)
+Seat 6: 612c5313 (28,182 in chips)
+ee9b0e1f: posts the ante 120
+a749f235: posts the ante 120
+95adbdad: posts the ante 120
+612c5313: posts the ante 120
+22df9218: posts the ante 120
+Hero: posts the ante 120
+a749f235: posts button blind 120
+*** HOLE CARDS ***
+Dealt to Hero [Ac Ad]
+Dealt to a749f235 
+Dealt to 22df9218 
+Dealt to ee9b0e1f 
+Dealt to 95adbdad 
+Dealt to 612c5313 
+22df9218: folds
+ee9b0e1f: raises 8,064 to 8,184 and is all-in
+95adbdad: folds
+612c5313: folds
+Hero: raises 6,000 to 14,184 and is all-in
+a749f235: folds
+Uncalled bet (6,000) returned to Hero
+Hero: shows [Ac Ad]
+ee9b0e1f: shows [6s As]
+*** FLOP *** [Jc Th Jh]
+*** TURN *** [Jc Th Jh] [8h]
+*** RIVER *** [Jc Th Jh 8h] [Qs]
+a749f235: shows [9h Js] (Queens-High Straight)
+*** SHOWDOWN ***
+Hero collected 17,208 from pot
+*** SUMMARY ***
+Total pot 17,208 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jc Th Jh 8h Qs]
+Seat 1: Hero showed [Ac Ad] and won (17,208) with Pair of Aces and Pair of Jacks
+Seat 2: a749f235 (button) folded before Flop
+Seat 3: 22df9218 folded before Flop
+Seat 4: ee9b0e1f showed [6s As] and lost with Pair of Jacks
+Seat 5: 95adbdad folded before Flop
+Seat 6: 612c5313 folded before Flop
+
+
+Poker Hand #TM80427709: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level8(120) - 2024/08/03 16:31:25
+Table '6' 6-max Seat #1 is the button
+Seat 1: Hero (14,544 in chips)
+Seat 2: a749f235 (46,480 in chips)
+Seat 3: 22df9218 (15,681 in chips)
+Seat 4: ee9b0e1f (9,900 in chips)
+Seat 5: 95adbdad (10,000 in chips)
+Seat 6: 612c5313 (28,302 in chips)
+ee9b0e1f: posts the ante 120
+95adbdad: posts the ante 120
+a749f235: posts the ante 120
+612c5313: posts the ante 120
+22df9218: posts the ante 120
+Hero: posts the ante 120
+Hero: posts button blind 120
+*** HOLE CARDS ***
+Dealt to Hero [Ks 6h]
+Dealt to a749f235 
+Dealt to 22df9218 
+Dealt to ee9b0e1f 
+Dealt to 95adbdad 
+Dealt to 612c5313 
+a749f235: calls 120
+22df9218: calls 120
+ee9b0e1f: raises 396 to 516
+95adbdad: calls 516
+612c5313: folds
+Hero: folds
+a749f235: calls 396
+22df9218: folds
+*** FLOP *** [7h Jd Ts]
+a749f235: bets 840
+ee9b0e1f: calls 840
+95adbdad: calls 840
+*** TURN *** [7h Jd Ts] [Qd]
+a749f235: bets 120
+ee9b0e1f: calls 120
+95adbdad: raises 2,694 to 2,814
+a749f235: calls 2,694
+ee9b0e1f: folds
+*** RIVER *** [7h Jd Ts Qd] [Qc]
+a749f235: checks
+95adbdad: bets 5,710 and is all-in
+a749f235: folds
+Uncalled bet (5,710) returned to 95adbdad
+*** SHOWDOWN ***
+95adbdad collected 10,776 from pot
+*** SUMMARY ***
+Total pot 10,776 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h Jd Ts Qd Qc]
+Seat 1: Hero (button) folded before Flop
+Seat 2: a749f235 folded on the River
+Seat 3: 22df9218 folded before Flop
+Seat 4: ee9b0e1f folded on the Turn
+Seat 5: 95adbdad won (10,776)
+Seat 6: 612c5313 folded before Flop
+
+
+Poker Hand #TM80427705: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level7(100) - 2024/08/03 16:29:53
+Table '6' 6-max Seat #6 is the button
+Seat 1: Hero (15,594 in chips)
+Seat 2: a749f235 (29,556 in chips)
+Seat 3: 22df9218 (23,468 in chips)
+Seat 4: ee9b0e1f (10,000 in chips)
+Seat 5: aef36825 (7,787 in chips)
+Seat 6: 612c5313 (28,502 in chips)
+ee9b0e1f: posts the ante 100
+aef36825: posts the ante 100
+a749f235: posts the ante 100
+612c5313: posts the ante 100
+22df9218: posts the ante 100
+Hero: posts the ante 100
+612c5313: posts button blind 100
+*** HOLE CARDS ***
+Dealt to Hero [9s Ts]
+Dealt to a749f235 
+Dealt to 22df9218 
+Dealt to ee9b0e1f 
+Dealt to aef36825 
+Dealt to 612c5313 
+Hero: raises 100 to 200
+a749f235: calls 200
+22df9218: calls 200
+ee9b0e1f: folds
+aef36825: calls 200
+612c5313: folds
+*** FLOP *** [6c 9h 8s]
+Hero: bets 750
+a749f235: raises 750 to 1,500
+22df9218: calls 1,500
+aef36825: raises 5,987 to 7,487 and is all-in
+Hero: folds
+a749f235: calls 5,987
+22df9218: calls 5,987
+*** TURN *** [6c 9h 8s] [6d]
+a749f235: checks
+22df9218: checks
+*** RIVER *** [6c 9h 8s 6d] [6h]
+a749f235: checks
+22df9218: checks
+a749f235: shows [7c As] (Nines-High Straight)
+22df9218: shows [Jc Td] (Three Sixes)
+aef36825: shows [Th Jd] (Three Sixes)
+*** SHOWDOWN ***
+a749f235 collected 24,711 from pot
+*** SUMMARY ***
+Total pot 24,711 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6c 9h 8s 6d 6h]
+Seat 1: Hero folded on the Flop
+Seat 2: a749f235 showed [7c As] and won (24,711) with Nines-High Straight
+Seat 3: 22df9218 showed [Jc Td] and lost with Three Sixes
+Seat 4: ee9b0e1f folded before Flop
+Seat 5: aef36825 showed [Th Jd] and lost with Three Sixes
+Seat 6: 612c5313 (button) folded before Flop
+
+
+Poker Hand #TM80427701: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level6(90) - 2024/08/03 16:27:55
+Table '6' 6-max Seat #5 is the button
+Seat 1: Hero (15,864 in chips)
+Seat 2: a749f235 (26,946 in chips)
+Seat 3: 22df9218 (24,503 in chips)
+Seat 5: aef36825 (8,822 in chips)
+Seat 6: 612c5313 (28,772 in chips)
+aef36825: posts the ante 90
+a749f235: posts the ante 90
+22df9218: posts the ante 90
+612c5313: posts the ante 90
+Hero: posts the ante 90
+aef36825: posts button blind 90
+*** HOLE CARDS ***
+Dealt to Hero [Ac Kh]
+Dealt to a749f235 
+Dealt to 22df9218 
+Dealt to aef36825 
+Dealt to 612c5313 
+612c5313: raises 90 to 180
+Hero: calls 180
+a749f235: calls 180
+22df9218: calls 180
+aef36825: calls 90
+*** FLOP *** [6c 8d Js]
+612c5313: checks
+Hero: checks
+a749f235: checks
+22df9218: bets 675
+aef36825: calls 675
+612c5313: folds
+Hero: folds
+a749f235: calls 675
+*** TURN *** [6c 8d Js] [6d]
+a749f235: bets 90
+22df9218: calls 90
+aef36825: calls 90
+*** RIVER *** [6c 8d Js 6d] [6h]
+a749f235: bets 540
+22df9218: folds
+aef36825: folds
+Uncalled bet (540) returned to a749f235
+*** SHOWDOWN ***
+a749f235 collected 3,645 from pot
+*** SUMMARY ***
+Total pot 3,645 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6c 8d Js 6d 6h]
+Seat 1: Hero folded on the Flop
+Seat 2: a749f235 won (3,645)
+Seat 3: 22df9218 folded on the River
+Seat 5: aef36825 (button) folded on the River
+Seat 6: 612c5313 folded on the Flop
+
+
+Poker Hand #TM80427697: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level6(90) - 2024/08/03 16:26:54
+Table '6' 6-max Seat #4 is the button
+Seat 1: Hero (16,044 in chips)
+Seat 2: bd989db7 (10,610 in chips)
+Seat 3: 22df9218 (11,358 in chips)
+Seat 4: 901a605a (2,175 in chips)
+Seat 5: aef36825 (8,912 in chips)
+Seat 6: 612c5313 (28,862 in chips)
+bd989db7: posts the ante 90
+aef36825: posts the ante 90
+901a605a: posts the ante 90
+22df9218: posts the ante 90
+612c5313: posts the ante 90
+Hero: posts the ante 90
+901a605a: posts button blind 90
+*** HOLE CARDS ***
+Dealt to Hero [Qc Ts]
+Dealt to bd989db7 
+Dealt to 22df9218 
+Dealt to 901a605a 
+Dealt to aef36825 
+Dealt to 612c5313 
+aef36825: folds
+612c5313: folds
+Hero: calls 90
+bd989db7: calls 90
+22df9218: raises 900 to 990
+901a605a: raises 1,095 to 2,085 and is all-in
+Hero: folds
+bd989db7: calls 1,995
+22df9218: raises 9,183 to 11,268 and is all-in
+bd989db7: calls 8,435 and is all-in
+Uncalled bet (748) returned to 22df9218
+22df9218: shows [Ah Ks]
+901a605a: shows [Qh Td]
+bd989db7: shows [9h Jc]
+*** FLOP *** [Qd 8c Kh]
+*** TURN *** [Qd 8c Kh] [7d]
+*** RIVER *** [Qd 8c Kh 7d] [Jd]
+Hero: shows [Qc Ts] (Pair of Queens)
+*** SHOWDOWN ***
+22df9218 collected 6,885 from pot
+22df9218 collected 16,870 from pot
+*** SUMMARY ***
+Total pot 23,755 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd 8c Kh 7d Jd]
+Seat 1: Hero folded before Flop
+Seat 2: bd989db7 showed [9h Jc] and lost with Pair of Jacks
+Seat 3: 22df9218 showed [Ah Ks] and won (23,755) with Pair of Kings
+Seat 4: 901a605a (button) showed [Qh Td] and lost with Pair of Queens
+Seat 5: aef36825 folded before Flop
+Seat 6: 612c5313 folded before Flop
+
+
+Poker Hand #TM80427694: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level6(90) - 2024/08/03 16:25:29
+Table '6' 6-max Seat #3 is the button
+Seat 1: Hero (16,314 in chips)
+Seat 2: bd989db7 (11,150 in chips)
+Seat 3: 22df9218 (11,628 in chips)
+Seat 4: 901a605a (2,265 in chips)
+Seat 5: aef36825 (9,002 in chips)
+Seat 6: 612c5313 (27,602 in chips)
+bd989db7: posts the ante 90
+aef36825: posts the ante 90
+901a605a: posts the ante 90
+22df9218: posts the ante 90
+612c5313: posts the ante 90
+Hero: posts the ante 90
+22df9218: posts button blind 90
+*** HOLE CARDS ***
+Dealt to Hero [7s Ac]
+Dealt to bd989db7 
+Dealt to 22df9218 
+Dealt to 901a605a 
+Dealt to aef36825 
+Dealt to 612c5313 
+901a605a: folds
+aef36825: folds
+612c5313: raises 90 to 180
+Hero: calls 180
+bd989db7: calls 180
+22df9218: calls 90
+*** FLOP *** [8h 7d Qs]
+612c5313: checks
+Hero: checks
+bd989db7: checks
+22df9218: checks
+*** TURN *** [8h 7d Qs] [Qc]
+612c5313: bets 270
+Hero: folds
+bd989db7: calls 270
+22df9218: folds
+*** RIVER *** [8h 7d Qs Qc] [Jc]
+612c5313: checks
+bd989db7: checks
+612c5313: shows [9h 9c] (Pair of Queens and Pair of Nines)
+bd989db7: shows [Kc 7c] (Pair of Queens and Pair of Sevens)
+*** SHOWDOWN ***
+612c5313 collected 1,800 from pot
+*** SUMMARY ***
+Total pot 1,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8h 7d Qs Qc Jc]
+Seat 1: Hero folded on the Turn
+Seat 2: bd989db7 showed [Kc 7c] and lost with Pair of Queens and Pair of Sevens
+Seat 3: 22df9218 (button) folded on the Turn
+Seat 4: 901a605a folded before Flop
+Seat 5: aef36825 folded before Flop
+Seat 6: 612c5313 showed [9h 9c] and won (1,800) with Pair of Queens and Pair of Nines
+
+
+Poker Hand #TM80427688: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level5(80) - 2024/08/03 16:23:51
+Table '6' 6-max Seat #2 is the button
+Seat 1: Hero (7,917 in chips)
+Seat 2: bd989db7 (11,310 in chips)
+Seat 3: 22df9218 (11,708 in chips)
+Seat 4: 901a605a (10,182 in chips)
+Seat 5: aef36825 (9,162 in chips)
+Seat 6: 612c5313 (27,682 in chips)
+bd989db7: posts the ante 80
+aef36825: posts the ante 80
+901a605a: posts the ante 80
+612c5313: posts the ante 80
+22df9218: posts the ante 80
+Hero: posts the ante 80
+bd989db7: posts button blind 80
+*** HOLE CARDS ***
+Dealt to Hero [Js 8s]
+Dealt to bd989db7 
+Dealt to 22df9218 
+Dealt to 901a605a 
+Dealt to aef36825 
+Dealt to 612c5313 
+22df9218: folds
+901a605a: calls 80
+aef36825: calls 80
+612c5313: folds
+Hero: calls 80
+bd989db7: checks
+*** FLOP *** [6h 7h Jc]
+901a605a: bets 800
+aef36825: folds
+Hero: raises 1,280 to 2,080
+bd989db7: folds
+901a605a: calls 1,280
+*** TURN *** [6h 7h Jc] [Ad]
+901a605a: checks
+Hero: bets 2,480
+901a605a: calls 2,480
+*** RIVER *** [6h 7h Jc Ad] [Qc]
+901a605a: bets 5,462 and is all-in
+Hero: calls 3,197 and is all-in
+Uncalled bet (2,265) returned to 901a605a
+901a605a: shows [7c 8c] (Pair of Sevens)
+Hero: shows [Js 8s] (Pair of Jacks)
+*** SHOWDOWN ***
+Hero collected 16,314 from pot
+*** SUMMARY ***
+Total pot 16,314 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 7h Jc Ad Qc]
+Seat 1: Hero showed [Js 8s] and won (16,314) with Pair of Jacks
+Seat 2: bd989db7 (button) folded on the Flop
+Seat 3: 22df9218 folded before Flop
+Seat 4: 901a605a showed [7c 8c] and lost with Pair of Sevens
+Seat 5: aef36825 folded on the Flop
+Seat 6: 612c5313 folded before Flop
+
+
+Poker Hand #TM80427687: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level5(80) - 2024/08/03 16:22:31
+Table '6' 6-max Seat #1 is the button
+Seat 1: Hero (8,077 in chips)
+Seat 2: bd989db7 (11,470 in chips)
+Seat 3: 22df9218 (11,788 in chips)
+Seat 4: 901a605a (10,342 in chips)
+Seat 5: aef36825 (8,522 in chips)
+Seat 6: 612c5313 (27,762 in chips)
+bd989db7: posts the ante 80
+aef36825: posts the ante 80
+901a605a: posts the ante 80
+612c5313: posts the ante 80
+22df9218: posts the ante 80
+Hero: posts the ante 80
+Hero: posts button blind 80
+*** HOLE CARDS ***
+Dealt to Hero [Ad Qc]
+Dealt to bd989db7 
+Dealt to 22df9218 
+Dealt to 901a605a 
+Dealt to aef36825 
+Dealt to 612c5313 
+bd989db7: calls 80
+22df9218: folds
+901a605a: calls 80
+aef36825: calls 80
+612c5313: folds
+Hero: checks
+*** FLOP *** [Qs 6c Tc]
+bd989db7: checks
+901a605a: checks
+aef36825: checks
+Hero: checks
+*** TURN *** [Qs 6c Tc] [Kc]
+bd989db7: checks
+901a605a: checks
+aef36825: bets 264
+Hero: folds
+bd989db7: folds
+901a605a: folds
+Uncalled bet (264) returned to aef36825
+*** SHOWDOWN ***
+aef36825 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs 6c Tc Kc]
+Seat 1: Hero (button) folded on the Turn
+Seat 2: bd989db7 folded on the Turn
+Seat 3: 22df9218 folded before Flop
+Seat 4: 901a605a folded on the Turn
+Seat 5: aef36825 won (800)
+Seat 6: 612c5313 folded before Flop
+
+
+Poker Hand #TM80427686: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level4(70) - 2024/08/03 16:21:35
+Table '6' 6-max Seat #6 is the button
+Seat 1: Hero (8,147 in chips)
+Seat 2: bd989db7 (11,540 in chips)
+Seat 3: 22df9218 (11,858 in chips)
+Seat 4: 901a605a (10,000 in chips)
+Seat 5: aef36825 (8,180 in chips)
+Seat 6: 612c5313 (28,236 in chips)
+bd989db7: posts the ante 70
+aef36825: posts the ante 70
+901a605a: posts the ante 70
+612c5313: posts the ante 70
+22df9218: posts the ante 70
+Hero: posts the ante 70
+612c5313: posts button blind 70
+*** HOLE CARDS ***
+Dealt to Hero [Kh 7h]
+Dealt to bd989db7 
+Dealt to 22df9218 
+Dealt to 901a605a 
+Dealt to aef36825 
+Dealt to 612c5313 
+Hero: folds
+bd989db7: folds
+22df9218: folds
+901a605a: calls 70
+aef36825: calls 70
+612c5313: checks
+*** FLOP *** [6c Th Ad]
+901a605a: checks
+aef36825: checks
+612c5313: bets 334
+901a605a: calls 334
+aef36825: calls 334
+*** TURN *** [6c Th Ad] [9c]
+901a605a: checks
+aef36825: checks
+612c5313: checks
+*** RIVER *** [6c Th Ad 9c] [As]
+901a605a: checks
+aef36825: checks
+612c5313: checks
+901a605a: shows [Jc 9d] (Pair of Aces and Pair of Nines)
+aef36825: shows [9s Jd] (Pair of Aces and Pair of Nines)
+612c5313: shows [6h Ks] (Pair of Aces and Pair of Sixes)
+*** SHOWDOWN ***
+901a605a collected 816 from pot
+aef36825 collected 816 from pot
+*** SUMMARY ***
+Total pot 1,632 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6c Th Ad 9c As]
+Seat 1: Hero folded before Flop
+Seat 2: bd989db7 folded before Flop
+Seat 3: 22df9218 folded before Flop
+Seat 4: 901a605a showed [Jc 9d] and won (816) with Pair of Aces and Pair of Nines
+Seat 5: aef36825 showed [9s Jd] and won (816) with Pair of Aces and Pair of Nines
+Seat 6: 612c5313 (button) showed [6h Ks] and lost with Pair of Aces and Pair of Sixes
+
+
+Poker Hand #TM80427685: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level4(70) - 2024/08/03 16:20:53
+Table '6' 6-max Seat #5 is the button
+Seat 1: Hero (8,217 in chips)
+Seat 2: bd989db7 (9,720 in chips)
+Seat 3: 22df9218 (11,998 in chips)
+Seat 5: aef36825 (9,720 in chips)
+Seat 6: 612c5313 (28,306 in chips)
+bd989db7: posts the ante 70
+aef36825: posts the ante 70
+22df9218: posts the ante 70
+612c5313: posts the ante 70
+Hero: posts the ante 70
+aef36825: posts button blind 70
+*** HOLE CARDS ***
+Dealt to Hero [7s Th]
+Dealt to bd989db7 
+Dealt to 22df9218 
+Dealt to aef36825 
+Dealt to 612c5313 
+612c5313: folds
+Hero: folds
+bd989db7: calls 70
+22df9218: calls 70
+aef36825: checks
+*** FLOP *** [Ah 8h Ac]
+bd989db7: bets 280
+22df9218: folds
+aef36825: calls 280
+*** TURN *** [Ah 8h Ac] [Kh]
+bd989db7: bets 1,120
+aef36825: calls 1,120
+*** RIVER *** [Ah 8h Ac Kh] [8s]
+bd989db7: bets 3,360
+aef36825: folds
+Uncalled bet (3,360) returned to bd989db7
+*** SHOWDOWN ***
+bd989db7 collected 3,360 from pot
+*** SUMMARY ***
+Total pot 3,360 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ah 8h Ac Kh 8s]
+Seat 1: Hero folded before Flop
+Seat 2: bd989db7 won (3,360)
+Seat 3: 22df9218 folded on the Flop
+Seat 5: aef36825 (button) folded on the River
+Seat 6: 612c5313 folded before Flop
+
+
+Poker Hand #TM80427684: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level4(70) - 2024/08/03 16:20:00
+Table '6' 6-max Seat #4 is the button
+Seat 1: Hero (8,287 in chips)
+Seat 2: bd989db7 (9,930 in chips)
+Seat 3: 22df9218 (12,068 in chips)
+Seat 4: 57534292 (6,927 in chips)
+Seat 5: aef36825 (9,930 in chips)
+Seat 6: 612c5313 (27,536 in chips)
+bd989db7: posts the ante 70
+aef36825: posts the ante 70
+22df9218: posts the ante 70
+612c5313: posts the ante 70
+57534292: posts the ante 70
+Hero: posts the ante 70
+57534292: posts button blind 70
+*** HOLE CARDS ***
+Dealt to Hero [7h Kc]
+Dealt to bd989db7 
+Dealt to 22df9218 
+Dealt to 57534292 
+Dealt to aef36825 
+Dealt to 612c5313 
+aef36825: calls 70
+612c5313: raises 70 to 140
+Hero: folds
+bd989db7: calls 140
+22df9218: folds
+57534292: calls 70
+aef36825: calls 70
+*** FLOP *** [Qs 6s 6d]
+aef36825: checks
+612c5313: bets 324
+bd989db7: folds
+57534292: folds
+aef36825: folds
+Uncalled bet (324) returned to 612c5313
+*** SHOWDOWN ***
+612c5313 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs 6s 6d]
+Seat 1: Hero folded before Flop
+Seat 2: bd989db7 folded on the Flop
+Seat 3: 22df9218 folded before Flop
+Seat 4: 57534292 (button) folded on the Flop
+Seat 5: aef36825 folded on the Flop
+Seat 6: 612c5313 won (980)
+
+
+Poker Hand #TM80427683: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level4(70) - 2024/08/03 16:19:36
+Table '6' 6-max Seat #3 is the button
+Seat 1: Hero (8,357 in chips)
+Seat 2: bd989db7 (10,000 in chips)
+Seat 3: 22df9218 (11,718 in chips)
+Seat 4: 57534292 (6,997 in chips)
+Seat 5: aef36825 (10,000 in chips)
+Seat 6: 612c5313 (27,606 in chips)
+bd989db7: posts the ante 70
+aef36825: posts the ante 70
+22df9218: posts the ante 70
+612c5313: posts the ante 70
+Hero: posts the ante 70
+57534292: posts the ante 70
+22df9218: posts button blind 70
+*** HOLE CARDS ***
+Dealt to Hero [Kd 6s]
+Dealt to bd989db7 
+Dealt to 22df9218 
+Dealt to 57534292 
+Dealt to aef36825 
+Dealt to 612c5313 
+57534292: folds
+aef36825: folds
+612c5313: folds
+Hero: folds
+bd989db7: folds
+Uncalled bet (70) returned to 22df9218
+*** SHOWDOWN ***
+22df9218 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: bd989db7 folded before Flop
+Seat 3: 22df9218 (button) collected (420)
+Seat 4: 57534292 folded before Flop
+Seat 5: aef36825 folded before Flop
+Seat 6: 612c5313 folded before Flop
+
+
+Poker Hand #TM80427682: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level3(60) - 2024/08/03 16:18:55
+Table '6' 6-max Seat #1 is the button
+Seat 1: Hero (8,477 in chips)
+Seat 2: f5754717 (1,208 in chips)
+Seat 3: 22df9218 (10,270 in chips)
+Seat 4: 57534292 (7,057 in chips)
+Seat 6: 612c5313 (27,666 in chips)
+f5754717: posts the ante 60
+612c5313: posts the ante 60
+22df9218: posts the ante 60
+Hero: posts the ante 60
+57534292: posts the ante 60
+Hero: posts button blind 60
+*** HOLE CARDS ***
+Dealt to Hero [7s 8s]
+Dealt to f5754717 
+Dealt to 22df9218 
+Dealt to 57534292 
+Dealt to 612c5313 
+f5754717: raises 210 to 270
+22df9218: raises 9,940 to 10,210 and is all-in
+57534292: folds
+612c5313: folds
+Hero: folds
+f5754717: calls 878 and is all-in
+Uncalled bet (9,062) returned to 22df9218
+22df9218: shows [Ac Ad]
+f5754717: shows [Ts Qs]
+*** FLOP *** [7c Ah Ks]
+*** TURN *** [7c Ah Ks] [Kc]
+*** RIVER *** [7c Ah Ks Kc] [6c]
+*** SHOWDOWN ***
+22df9218 collected 2,656 from pot
+*** SUMMARY ***
+Total pot 2,656 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7c Ah Ks Kc 6c]
+Seat 1: Hero (button) folded before Flop
+Seat 2: f5754717 showed [Ts Qs] and lost with Pair of Kings
+Seat 3: 22df9218 showed [Ac Ad] and won (2,656) with Aces Full over Kings
+Seat 4: 57534292 folded before Flop
+Seat 6: 612c5313 folded before Flop
+
+
+Poker Hand #TM80427681: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level3(60) - 2024/08/03 16:18:20
+Table '6' 6-max Seat #6 is the button
+Seat 1: Hero (8,657 in chips)
+Seat 2: f5754717 (424 in chips)
+Seat 3: 22df9218 (10,330 in chips)
+Seat 4: 57534292 (7,481 in chips)
+Seat 6: 612c5313 (27,786 in chips)
+f5754717: posts the ante 60
+612c5313: posts the ante 60
+22df9218: posts the ante 60
+57534292: posts the ante 60
+Hero: posts the ante 60
+612c5313: posts button blind 60
+*** HOLE CARDS ***
+Dealt to Hero [8c 7h]
+Dealt to f5754717 
+Dealt to 22df9218 
+Dealt to 57534292 
+Dealt to 612c5313 
+Hero: raises 60 to 120
+f5754717: raises 244 to 364 and is all-in
+22df9218: folds
+57534292: raises 7,057 to 7,421 and is all-in
+612c5313: folds
+Hero: folds
+Uncalled bet (7,057) returned to 57534292
+57534292: shows [Ts Td]
+f5754717: shows [Qd Jd]
+*** FLOP *** [Qs As 6s]
+*** TURN *** [Qs As 6s] [7d]
+*** RIVER *** [Qs As 6s 7d] [Kd]
+*** SHOWDOWN ***
+f5754717 collected 1,208 from pot
+*** SUMMARY ***
+Total pot 1,208 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs As 6s 7d Kd]
+Seat 1: Hero folded before Flop
+Seat 2: f5754717 showed [Qd Jd] and won (1,208) with Pair of Queens
+Seat 3: 22df9218 folded before Flop
+Seat 4: 57534292 showed [Ts Td] and lost with Pair of Tens
+Seat 6: 612c5313 (button) folded before Flop
+
+
+Poker Hand #TM80427680: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level3(60) - 2024/08/03 16:17:53
+Table '6' 6-max Seat #4 is the button
+Seat 1: Hero (8,837 in chips)
+Seat 2: f5754717 (484 in chips)
+Seat 3: 22df9218 (9,790 in chips)
+Seat 4: 57534292 (7,601 in chips)
+Seat 6: 612c5313 (27,966 in chips)
+f5754717: posts the ante 60
+22df9218: posts the ante 60
+612c5313: posts the ante 60
+57534292: posts the ante 60
+Hero: posts the ante 60
+57534292: posts button blind 60
+*** HOLE CARDS ***
+Dealt to Hero [Js Qh]
+Dealt to f5754717 
+Dealt to 22df9218 
+Dealt to 57534292 
+Dealt to 612c5313 
+612c5313: raises 60 to 120
+Hero: calls 120
+f5754717: folds
+22df9218: raises 720 to 840
+57534292: folds
+612c5313: folds
+Hero: folds
+Uncalled bet (720) returned to 22df9218
+*** SHOWDOWN ***
+22df9218 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: f5754717 folded before Flop
+Seat 3: 22df9218 collected (720)
+Seat 4: 57534292 (button) folded before Flop
+Seat 6: 612c5313 folded before Flop
+
+
+Poker Hand #TM80427679: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level3(60) - 2024/08/03 16:17:10
+Table '6' 6-max Seat #2 is the button
+Seat 1: Hero (8,897 in chips)
+Seat 2: f5754717 (9,525 in chips)
+Seat 4: 57534292 (7,661 in chips)
+Seat 5: 339fe4e2 (9,523 in chips)
+Seat 6: 612c5313 (9,282 in chips)
+f5754717: posts the ante 60
+612c5313: posts the ante 60
+Hero: posts the ante 60
+57534292: posts the ante 60
+339fe4e2: posts the ante 60
+f5754717: posts button blind 60
+*** HOLE CARDS ***
+Dealt to Hero [8c 8s]
+Dealt to f5754717 
+Dealt to 57534292 
+Dealt to 339fe4e2 
+Dealt to 612c5313 
+57534292: folds
+339fe4e2: raises 9,403 to 9,463 and is all-in
+612c5313: calls 9,222 and is all-in
+Hero: folds
+f5754717: calls 9,403
+339fe4e2: shows [Qs Ah]
+612c5313: shows [Ks Kc]
+f5754717: shows [Jc Td]
+*** FLOP *** [Jh Qc Tc]
+*** TURN *** [Jh Qc Tc] [7c]
+*** RIVER *** [Jh Qc Tc 7c] [9d]
+*** SHOWDOWN ***
+612c5313 collected 27,966 from pot
+f5754717 collected 482 from pot
+*** SUMMARY ***
+Total pot 28,448 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh Qc Tc 7c 9d]
+Seat 1: Hero folded before Flop
+Seat 2: f5754717 (button) showed [Jc Td] and won (482) with Pair of Jacks and Pair of Tens
+Seat 4: 57534292 folded before Flop
+Seat 5: 339fe4e2 showed [Qs Ah] and lost with Pair of Queens
+Seat 6: 612c5313 showed [Ks Kc] and won (27,966) with Kings-High Straight
+
+
+Poker Hand #TM80427678: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level2(50) - 2024/08/03 16:15:44
+Table '6' 6-max Seat #1 is the button
+Seat 1: Hero (9,222 in chips)
+Seat 2: f5754717 (9,850 in chips)
+Seat 3: 355eb824 (13,319 in chips)
+Seat 4: 57534292 (7,711 in chips)
+Seat 5: 339fe4e2 (9,848 in chips)
+Seat 6: 612c5313 (10,160 in chips)
+f5754717: posts the ante 50
+355eb824: posts the ante 50
+612c5313: posts the ante 50
+Hero: posts the ante 50
+57534292: posts the ante 50
+339fe4e2: posts the ante 50
+Hero: posts button blind 50
+*** HOLE CARDS ***
+Dealt to Hero [6h 7d]
+Dealt to f5754717 
+Dealt to 355eb824 
+Dealt to 57534292 
+Dealt to 339fe4e2 
+Dealt to 612c5313 
+f5754717: calls 50
+355eb824: raises 225 to 275
+57534292: folds
+339fe4e2: calls 275
+612c5313: calls 275
+Hero: calls 225
+f5754717: calls 225
+*** FLOP *** [Qd 7s Qs]
+f5754717: checks
+355eb824: checks
+339fe4e2: checks
+612c5313: checks
+Hero: checks
+*** TURN *** [Qd 7s Qs] [Jh]
+f5754717: checks
+355eb824: checks
+339fe4e2: checks
+612c5313: bets 553
+Hero: folds
+f5754717: folds
+355eb824: calls 553
+339fe4e2: folds
+*** RIVER *** [Qd 7s Qs Jh] [7c]
+355eb824: checks
+612c5313: checks
+355eb824: shows [9s 9h] (Pair of Queens and Pair of Nines)
+612c5313: shows [Ac Kc] (Pair of Queens and Pair of Sevens)
+*** SHOWDOWN ***
+355eb824 collected 2,781 from pot
+*** SUMMARY ***
+Total pot 2,781 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd 7s Qs Jh 7c]
+Seat 1: Hero (button) folded on the Turn
+Seat 2: f5754717 folded on the Turn
+Seat 3: 355eb824 showed [9s 9h] and won (2,781) with Pair of Queens and Pair of Nines
+Seat 4: 57534292 folded before Flop
+Seat 5: 339fe4e2 folded on the Turn
+Seat 6: 612c5313 showed [Ac Kc] and lost with Pair of Queens and Pair of Sevens
+
+
+Poker Hand #TM80427677: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level2(50) - 2024/08/03 16:15:02
+Table '6' 6-max Seat #6 is the button
+Seat 1: Hero (9,272 in chips)
+Seat 2: f5754717 (10,000 in chips)
+Seat 3: 355eb824 (13,469 in chips)
+Seat 4: 57534292 (7,761 in chips)
+Seat 5: 339fe4e2 (9,898 in chips)
+Seat 6: 612c5313 (9,710 in chips)
+f5754717: posts the ante 50
+355eb824: posts the ante 50
+612c5313: posts the ante 50
+57534292: posts the ante 50
+Hero: posts the ante 50
+339fe4e2: posts the ante 50
+612c5313: posts button blind 50
+*** HOLE CARDS ***
+Dealt to Hero [As 7d]
+Dealt to f5754717 
+Dealt to 355eb824 
+Dealt to 57534292 
+Dealt to 339fe4e2 
+Dealt to 612c5313 
+Hero: folds
+f5754717: calls 50
+355eb824: calls 50
+57534292: folds
+339fe4e2: folds
+612c5313: raises 50 to 100
+f5754717: calls 50
+355eb824: calls 50
+*** FLOP *** [8c 6c 6s]
+f5754717: checks
+355eb824: checks
+612c5313: bets 198
+f5754717: folds
+355eb824: folds
+Uncalled bet (198) returned to 612c5313
+*** SHOWDOWN ***
+612c5313 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c 6c 6s]
+Seat 1: Hero folded before Flop
+Seat 2: f5754717 folded on the Flop
+Seat 3: 355eb824 folded on the Flop
+Seat 4: 57534292 folded before Flop
+Seat 5: 339fe4e2 folded before Flop
+Seat 6: 612c5313 (button) won (600)
+
+
+Poker Hand #TM80427675: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level2(50) - 2024/08/03 16:13:32
+Table '6' 6-max Seat #5 is the button
+Seat 1: Hero (9,322 in chips)
+Seat 2: 230aa366 (10,120 in chips)
+Seat 3: 355eb824 (10,731 in chips)
+Seat 4: 57534292 (9,574 in chips)
+Seat 5: 339fe4e2 (10,573 in chips)
+Seat 6: 612c5313 (9,760 in chips)
+230aa366: posts the ante 50
+355eb824: posts the ante 50
+612c5313: posts the ante 50
+57534292: posts the ante 50
+Hero: posts the ante 50
+339fe4e2: posts the ante 50
+339fe4e2: posts button blind 50
+*** HOLE CARDS ***
+Dealt to Hero [Ah 9d]
+Dealt to 230aa366 
+Dealt to 355eb824 
+Dealt to 57534292 
+Dealt to 339fe4e2 
+Dealt to 612c5313 
+612c5313: folds
+Hero: folds
+230aa366: raises 50 to 100
+355eb824: calls 100
+57534292: calls 100
+339fe4e2: calls 50
+*** FLOP *** [6d Kc As]
+230aa366: checks
+355eb824: checks
+57534292: bets 525
+339fe4e2: calls 525
+230aa366: folds
+355eb824: calls 525
+*** TURN *** [6d Kc As] [Tc]
+355eb824: checks
+57534292: checks
+339fe4e2: checks
+*** RIVER *** [6d Kc As Tc] [7h]
+355eb824: bets 1,138
+57534292: calls 1,138
+339fe4e2: folds
+355eb824: shows [Qc Jd] (Aces-High Straight)
+57534292: shows [7d Ad] (Pair of Aces and Pair of Sevens)
+*** SHOWDOWN ***
+355eb824 collected 4,551 from pot
+*** SUMMARY ***
+Total pot 4,551 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d Kc As Tc 7h]
+Seat 1: Hero folded before Flop
+Seat 2: 230aa366 folded on the Flop
+Seat 3: 355eb824 showed [Qc Jd] and won (4,551) with Aces-High Straight
+Seat 4: 57534292 showed [7d Ad] and lost with Pair of Aces and Pair of Sevens
+Seat 5: 339fe4e2 (button) folded on the River
+Seat 6: 612c5313 folded before Flop
+
+
+Poker Hand #TM80427672: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level1(40) - 2024/08/03 16:12:12
+Table '6' 6-max Seat #4 is the button
+Seat 1: Hero (9,442 in chips)
+Seat 2: 230aa366 (9,680 in chips)
+Seat 3: 355eb824 (10,771 in chips)
+Seat 4: 57534292 (9,694 in chips)
+Seat 5: 339fe4e2 (10,613 in chips)
+Seat 6: 612c5313 (9,880 in chips)
+230aa366: posts the ante 40
+355eb824: posts the ante 40
+612c5313: posts the ante 40
+57534292: posts the ante 40
+Hero: posts the ante 40
+339fe4e2: posts the ante 40
+57534292: posts button blind 40
+*** HOLE CARDS ***
+Dealt to Hero [6c 7c]
+Dealt to 230aa366 
+Dealt to 355eb824 
+Dealt to 57534292 
+Dealt to 339fe4e2 
+Dealt to 612c5313 
+339fe4e2: folds
+612c5313: raises 40 to 80
+Hero: calls 80
+230aa366: calls 80
+355eb824: folds
+57534292: calls 40
+*** FLOP *** [6s Tc 8d]
+612c5313: checks
+Hero: checks
+230aa366: checks
+57534292: checks
+*** TURN *** [6s Tc 8d] [Ts]
+612c5313: checks
+Hero: checks
+230aa366: checks
+57534292: checks
+*** RIVER *** [6s Tc 8d Ts] [Qc]
+612c5313: checks
+Hero: checks
+230aa366: checks
+57534292: checks
+612c5313: shows [7s Ac] (Pair of Tens)
+Hero: shows [6c 7c] (Pair of Tens and Pair of Sixes)
+230aa366: shows [Qd 9s] (Pair of Queens and Pair of Tens)
+57534292: shows [Ks Jd] (Pair of Tens)
+*** SHOWDOWN ***
+230aa366 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s Tc 8d Ts Qc]
+Seat 1: Hero showed [6c 7c] and lost with Pair of Tens and Pair of Sixes
+Seat 2: 230aa366 showed [Qd 9s] and won (560) with Pair of Queens and Pair of Tens
+Seat 3: 355eb824 folded before Flop
+Seat 4: 57534292 (button) showed [Ks Jd] and lost with Pair of Tens
+Seat 5: 339fe4e2 folded before Flop
+Seat 6: 612c5313 showed [7s Ac] and lost with Pair of Tens
+
+
+Poker Hand #TM80427670: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level1(40) - 2024/08/03 16:11:48
+Table '6' 6-max Seat #3 is the button
+Seat 1: Hero (9,482 in chips)
+Seat 2: 230aa366 (9,720 in chips)
+Seat 3: 355eb824 (10,851 in chips)
+Seat 4: 57534292 (9,774 in chips)
+Seat 5: 339fe4e2 (10,333 in chips)
+Seat 6: 612c5313 (9,920 in chips)
+230aa366: posts the ante 40
+355eb824: posts the ante 40
+612c5313: posts the ante 40
+Hero: posts the ante 40
+57534292: posts the ante 40
+339fe4e2: posts the ante 40
+355eb824: posts button blind 40
+*** HOLE CARDS ***
+Dealt to Hero [8s Tc]
+Dealt to 230aa366 
+Dealt to 355eb824 
+Dealt to 57534292 
+Dealt to 339fe4e2 
+Dealt to 612c5313 
+57534292: calls 40
+339fe4e2: raises 10,253 to 10,293 and is all-in
+612c5313: folds
+Hero: folds
+230aa366: folds
+355eb824: folds
+57534292: folds
+Uncalled bet (10,253) returned to 339fe4e2
+*** SHOWDOWN ***
+339fe4e2 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: 230aa366 folded before Flop
+Seat 3: 355eb824 (button) folded before Flop
+Seat 4: 57534292 folded before Flop
+Seat 5: 339fe4e2 collected (360)
+Seat 6: 612c5313 folded before Flop
+
+
+Poker Hand #TM80427667: Tournament #156268742, Short Deck Bounty Hyper $1.08 ShortDeck No Limit - Level1(40) - 2024/08/03 16:10:57
+Table '6' 6-max Seat #2 is the button
+Seat 1: Hero (10,000 in chips)
+Seat 2: 230aa366 (9,960 in chips)
+Seat 3: 355eb824 (10,891 in chips)
+Seat 4: 57534292 (9,814 in chips)
+Seat 5: 339fe4e2 (9,455 in chips)
+Seat 6: 612c5313 (9,960 in chips)
+230aa366: posts the ante 40
+355eb824: posts the ante 40
+612c5313: posts the ante 40
+Hero: posts the ante 40
+57534292: posts the ante 40
+339fe4e2: posts the ante 40
+230aa366: posts button blind 40
+*** HOLE CARDS ***
+Dealt to Hero [7c 7s]
+Dealt to 230aa366 
+Dealt to 355eb824 
+Dealt to 57534292 
+Dealt to 339fe4e2 
+Dealt to 612c5313 
+355eb824: folds
+57534292: folds
+339fe4e2: raises 40 to 80
+612c5313: folds
+Hero: calls 80
+230aa366: raises 120 to 200
+339fe4e2: calls 120
+Hero: calls 120
+*** FLOP *** [As 8d Ah]
+339fe4e2: checks
+Hero: checks
+230aa366: checks
+*** TURN *** [As 8d Ah] [Ad]
+339fe4e2: checks
+Hero: bets 278
+230aa366: folds
+339fe4e2: calls 278
+*** RIVER *** [As 8d Ah Ad] [Jh]
+339fe4e2: checks
+Hero: checks
+339fe4e2: shows [Tc Td] (Aces Full over Tens)
+Hero: shows [7c 7s] (Aces Full over Sevens)
+*** SHOWDOWN ***
+339fe4e2 collected 1,396 from pot
+*** SUMMARY ***
+Total pot 1,396 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [As 8d Ah Ad Jh]
+Seat 1: Hero showed [7c 7s] and lost with Aces Full over Sevens
+Seat 2: 230aa366 (button) folded on the Turn
+Seat 3: 355eb824 folded before Flop
+Seat 4: 57534292 folded before Flop
+Seat 5: 339fe4e2 showed [Tc Td] and won (1,396) with Aces Full over Tens
+Seat 6: 612c5313 folded before Flop
+
+

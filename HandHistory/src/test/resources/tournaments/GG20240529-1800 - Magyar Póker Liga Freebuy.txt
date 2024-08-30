@@ -1,0 +1,2663 @@
+Poker Hand #TM3336335817: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level4(60/120) - 2024/05/29 20:33:16
+Table '16' 8-max Seat #1 is the button
+Seat 1: cf893aea (3,541 in chips)
+Seat 2: b0dd6600 (1,094 in chips)
+Seat 3: 3253d67b (3,516 in chips)
+Seat 4: Hero (3,471 in chips)
+Seat 5: cd407653 (4,236 in chips)
+Seat 6: 5f758273 (1,843 in chips)
+Seat 7: 95361340 (1,459 in chips)
+Seat 8: cd85716 (8,622 in chips)
+95361340: posts the ante 15
+5f758273: posts the ante 15
+cd407653: posts the ante 15
+cd85716: posts the ante 15
+b0dd6600: posts the ante 15
+cf893aea: posts the ante 15
+3253d67b: posts the ante 15
+Hero: posts the ante 15
+b0dd6600: posts small blind 60
+3253d67b: posts big blind 120
+*** HOLE CARDS ***
+Dealt to cf893aea 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [Qh Qc]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to 95361340 
+Dealt to cd85716 
+Hero: raises 120 to 240
+cd407653: folds
+5f758273: folds
+95361340: folds
+cd85716: folds
+cf893aea: calls 240
+b0dd6600: folds
+3253d67b: calls 120
+*** FLOP *** [8h 7d 4h]
+3253d67b: checks
+Hero: bets 297
+cf893aea: calls 297
+3253d67b: calls 297
+*** TURN *** [8h 7d 4h] [9c]
+3253d67b: checks
+Hero: bets 896
+cf893aea: calls 896
+3253d67b: folds
+*** RIVER *** [8h 7d 4h 9c] [Tc]
+Hero: bets 1,183
+cf893aea: raises 910 to 2,093 and is all-in
+Hero: calls 840 and is all-in
+Uncalled bet (70) returned to cf893aea
+cf893aea: shows [Kc Jd] (Jacks-High Straight)
+Hero: shows [Qh Qc] (Pair of Queens)
+*** SHOWDOWN ***
+cf893aea collected 7,629 from pot
+*** SUMMARY ***
+Total pot 7,629 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8h 7d 4h 9c Tc]
+Seat 1: cf893aea (button) showed [Kc Jd] and won (7,629) with Jacks-High Straight
+Seat 2: b0dd6600 (small blind) folded before Flop
+Seat 3: 3253d67b (big blind) folded on the Turn
+Seat 4: Hero showed [Qh Qc] and lost with Pair of Queens
+Seat 5: cd407653 folded before Flop
+Seat 6: 5f758273 folded before Flop
+Seat 7: 95361340 folded before Flop
+Seat 8: cd85716 folded before Flop
+
+
+Poker Hand #TM3336335781: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level4(60/120) - 2024/05/29 20:32:54
+Table '16' 8-max Seat #8 is the button
+Seat 1: cf893aea (3,196 in chips)
+Seat 2: b0dd6600 (1,229 in chips)
+Seat 3: 3253d67b (3,531 in chips)
+Seat 4: Hero (3,486 in chips)
+Seat 5: cd407653 (4,251 in chips)
+Seat 6: 5f758273 (1,858 in chips)
+Seat 7: 95361340 (1,474 in chips)
+Seat 8: cd85716 (8,757 in chips)
+95361340: posts the ante 15
+5f758273: posts the ante 15
+cd407653: posts the ante 15
+cd85716: posts the ante 15
+b0dd6600: posts the ante 15
+3253d67b: posts the ante 15
+cf893aea: posts the ante 15
+Hero: posts the ante 15
+cf893aea: posts small blind 60
+b0dd6600: posts big blind 120
+*** HOLE CARDS ***
+Dealt to cf893aea 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [9h Js]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to 95361340 
+Dealt to cd85716 
+3253d67b: folds
+Hero: folds
+cd407653: folds
+5f758273: folds
+95361340: folds
+cd85716: calls 120
+cf893aea: calls 60
+b0dd6600: checks
+*** FLOP *** [Kd Kh 8h]
+cf893aea: bets 480
+b0dd6600: folds
+cd85716: folds
+Uncalled bet (480) returned to cf893aea
+*** SHOWDOWN ***
+cf893aea collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kd Kh 8h]
+Seat 1: cf893aea (small blind) won (480)
+Seat 2: b0dd6600 (big blind) folded on the Flop
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 folded before Flop
+Seat 6: 5f758273 folded before Flop
+Seat 7: 95361340 folded before Flop
+Seat 8: cd85716 (button) folded on the Flop
+
+
+Poker Hand #TM3336335720: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level4(60/120) - 2024/05/29 20:32:11
+Table '16' 8-max Seat #7 is the button
+Seat 1: cf893aea (3,451 in chips)
+Seat 2: b0dd6600 (1,244 in chips)
+Seat 3: 3253d67b (3,546 in chips)
+Seat 4: Hero (3,501 in chips)
+Seat 5: cd407653 (4,266 in chips)
+Seat 6: 5f758273 (1,873 in chips)
+Seat 7: 95361340 (1,489 in chips)
+Seat 8: cd85716 (8,412 in chips)
+95361340: posts the ante 15
+5f758273: posts the ante 15
+cd407653: posts the ante 15
+b0dd6600: posts the ante 15
+cd85716: posts the ante 15
+3253d67b: posts the ante 15
+cf893aea: posts the ante 15
+Hero: posts the ante 15
+cd85716: posts small blind 60
+cf893aea: posts big blind 120
+*** HOLE CARDS ***
+Dealt to cf893aea 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [8s 6c]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to 95361340 
+Dealt to cd85716 
+b0dd6600: folds
+3253d67b: folds
+Hero: folds
+cd407653: folds
+5f758273: folds
+95361340: folds
+cd85716: calls 60
+cf893aea: checks
+*** FLOP *** [9s 3c Ad]
+cd85716: bets 120
+cf893aea: calls 120
+*** TURN *** [9s 3c Ad] [7h]
+cd85716: checks
+cf893aea: checks
+*** RIVER *** [9s 3c Ad 7h] [Th]
+cd85716: checks
+cf893aea: checks
+cd85716: shows [2c 2h] (Pair of Twos)
+cf893aea: shows [2s 4d] (Ace-High)
+*** SHOWDOWN ***
+cd85716 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9s 3c Ad 7h Th]
+Seat 1: cf893aea (big blind) showed [2s 4d] and lost with Ace-High
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 folded before Flop
+Seat 6: 5f758273 folded before Flop
+Seat 7: 95361340 (button) folded before Flop
+Seat 8: cd85716 (small blind) showed [2c 2h] and won (600) with Pair of Twos
+
+
+Poker Hand #TM3336335633: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level4(60/120) - 2024/05/29 20:31:04
+Table '16' 8-max Seat #6 is the button
+Seat 1: cf893aea (5,389 in chips)
+Seat 2: b0dd6600 (1,259 in chips)
+Seat 3: 3253d67b (3,561 in chips)
+Seat 4: Hero (3,636 in chips)
+Seat 5: cd407653 (1,938 in chips)
+Seat 6: 5f758273 (1,888 in chips)
+Seat 7: 95361340 (1,564 in chips)
+Seat 8: cd85716 (8,547 in chips)
+95361340: posts the ante 15
+5f758273: posts the ante 15
+cd407653: posts the ante 15
+b0dd6600: posts the ante 15
+cd85716: posts the ante 15
+3253d67b: posts the ante 15
+cf893aea: posts the ante 15
+Hero: posts the ante 15
+95361340: posts small blind 60
+cd85716: posts big blind 120
+*** HOLE CARDS ***
+Dealt to cf893aea 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [4s 4d]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to 95361340 
+Dealt to cd85716 
+cf893aea: calls 120
+b0dd6600: folds
+3253d67b: folds
+Hero: calls 120
+cd407653: calls 120
+5f758273: folds
+95361340: folds
+cd85716: checks
+*** FLOP *** [8h 5d Th]
+cd85716: checks
+cf893aea: bets 660
+Hero: folds
+cd407653: raises 1,143 to 1,803 and is all-in
+cd85716: folds
+cf893aea: calls 1,143
+cd407653: shows [Js 9s] (Jack-High)
+cf893aea: shows [As 8d] (Pair of Eights)
+*** TURN *** [8h 5d Th] [Qc]
+*** RIVER *** [8h 5d Th Qc] [7d]
+*** SHOWDOWN ***
+cd407653 collected 4,266 from pot
+*** SUMMARY ***
+Total pot 4,266 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8h 5d Th Qc 7d]
+Seat 1: cf893aea showed [As 8d] and lost with Pair of Eights
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero folded on the Flop
+Seat 5: cd407653 showed [Js 9s] and won (4,266) with Queens-High Straight
+Seat 6: 5f758273 (button) folded before Flop
+Seat 7: 95361340 (small blind) folded before Flop
+Seat 8: cd85716 (big blind) folded on the Flop
+
+
+Poker Hand #TM3336335551: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level4(60/120) - 2024/05/29 20:30:05
+Table '16' 8-max Seat #5 is the button
+Seat 1: cf893aea (5,404 in chips)
+Seat 2: b0dd6600 (1,274 in chips)
+Seat 3: 3253d67b (3,366 in chips)
+Seat 4: Hero (3,651 in chips)
+Seat 5: cd407653 (1,743 in chips)
+Seat 6: 5f758273 (1,963 in chips)
+Seat 7: 95361340 (1,699 in chips)
+Seat 8: cd85716 (8,682 in chips)
+95361340: posts the ante 15
+cd407653: posts the ante 15
+5f758273: posts the ante 15
+b0dd6600: posts the ante 15
+cd85716: posts the ante 15
+3253d67b: posts the ante 15
+cf893aea: posts the ante 15
+Hero: posts the ante 15
+5f758273: posts small blind 60
+95361340: posts big blind 120
+*** HOLE CARDS ***
+Dealt to cf893aea 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [3d 2s]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to 95361340 
+Dealt to cd85716 
+cd85716: calls 120
+cf893aea: folds
+b0dd6600: folds
+3253d67b: raises 270 to 390
+Hero: folds
+cd407653: calls 390
+5f758273: folds
+95361340: folds
+cd85716: folds
+*** FLOP *** [3h 4d 3s]
+3253d67b: bets 396
+cd407653: calls 396
+*** TURN *** [3h 4d 3s] [Ts]
+3253d67b: bets 658
+cd407653: calls 658
+*** RIVER *** [3h 4d 3s Ts] [Th]
+3253d67b: bets 240
+cd407653: calls 240
+3253d67b: shows [Qd Ac] (Pair of Tens and Pair of Treys)
+cd407653: shows [5s As] (Pair of Tens and Pair of Treys)
+Hero: shows [3d] (Treys Full over Tens)
+*** SHOWDOWN ***
+cd407653 collected 1,894 from pot
+3253d67b collected 1,894 from pot
+*** SUMMARY ***
+Total pot 3,788 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h 4d 3s Ts Th]
+Seat 1: cf893aea folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b showed [Qd Ac] and won (1,894) with Pair of Tens and Pair of Treys
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 (button) showed [5s As] and won (1,894) with Pair of Tens and Pair of Treys
+Seat 6: 5f758273 (small blind) folded before Flop
+Seat 7: 95361340 (big blind) folded before Flop
+Seat 8: cd85716 folded before Flop
+
+
+Poker Hand #TM3336335502: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level3(50/100) - 2024/05/29 20:29:29
+Table '16' 8-max Seat #4 is the button
+Seat 1: cf893aea (5,416 in chips)
+Seat 2: b0dd6600 (1,486 in chips)
+Seat 3: 3253d67b (3,378 in chips)
+Seat 4: Hero (3,863 in chips)
+Seat 5: cd407653 (1,159 in chips)
+Seat 6: 5f758273 (2,075 in chips)
+Seat 7: 95361340 (1,711 in chips)
+Seat 8: cd85716 (8,694 in chips)
+95361340: posts the ante 12
+5f758273: posts the ante 12
+cd407653: posts the ante 12
+b0dd6600: posts the ante 12
+cd85716: posts the ante 12
+3253d67b: posts the ante 12
+cf893aea: posts the ante 12
+Hero: posts the ante 12
+cd407653: posts small blind 50
+5f758273: posts big blind 100
+*** HOLE CARDS ***
+Dealt to cf893aea 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [Ks 7s]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to 95361340 
+Dealt to cd85716 
+95361340: folds
+cd85716: folds
+cf893aea: folds
+b0dd6600: calls 100
+3253d67b: folds
+Hero: calls 100
+cd407653: raises 100 to 200
+5f758273: folds
+b0dd6600: calls 100
+Hero: calls 100
+*** FLOP *** [6d 8s Tc]
+cd407653: checks
+b0dd6600: checks
+Hero: checks
+*** TURN *** [6d 8s Tc] [2c]
+cd407653: bets 947 and is all-in
+b0dd6600: folds
+Hero: folds
+Uncalled bet (947) returned to cd407653
+*** SHOWDOWN ***
+cd407653 collected 796 from pot
+*** SUMMARY ***
+Total pot 796 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d 8s Tc 2c]
+Seat 1: cf893aea folded before Flop
+Seat 2: b0dd6600 folded on the Turn
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero (button) folded on the Turn
+Seat 5: cd407653 (small blind) won (796)
+Seat 6: 5f758273 (big blind) folded before Flop
+Seat 7: 95361340 folded before Flop
+Seat 8: cd85716 folded before Flop
+
+
+Poker Hand #TM3336335445: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level3(50/100) - 2024/05/29 20:28:34
+Table '16' 8-max Seat #3 is the button
+Seat 1: cf893aea (4,632 in chips)
+Seat 2: b0dd6600 (1,798 in chips)
+Seat 3: 3253d67b (3,390 in chips)
+Seat 4: Hero (3,975 in chips)
+Seat 5: cd407653 (1,471 in chips)
+Seat 6: 5f758273 (2,087 in chips)
+Seat 7: 95361340 (1,723 in chips)
+Seat 8: cd85716 (8,706 in chips)
+95361340: posts the ante 12
+5f758273: posts the ante 12
+cd407653: posts the ante 12
+b0dd6600: posts the ante 12
+cd85716: posts the ante 12
+3253d67b: posts the ante 12
+cf893aea: posts the ante 12
+Hero: posts the ante 12
+Hero: posts small blind 50
+cd407653: posts big blind 100
+*** HOLE CARDS ***
+Dealt to cf893aea 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [6d Jd]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to 95361340 
+Dealt to cd85716 
+5f758273: folds
+95361340: folds
+cd85716: folds
+cf893aea: calls 100
+b0dd6600: calls 100
+3253d67b: folds
+Hero: calls 50
+cd407653: raises 200 to 300
+cf893aea: calls 200
+b0dd6600: calls 200
+Hero: folds
+*** FLOP *** [Jh Qd 9h]
+cd407653: checks
+cf893aea: checks
+b0dd6600: checks
+*** TURN *** [Jh Qd 9h] [5s]
+cd407653: checks
+cf893aea: checks
+b0dd6600: checks
+*** RIVER *** [Jh Qd 9h 5s] [6c]
+cd407653: checks
+cf893aea: checks
+b0dd6600: checks
+cd407653: shows [As Kd] (Ace-High)
+cf893aea: shows [Kh Js] (Pair of Jacks)
+b0dd6600: shows [8c Jc] (Pair of Jacks)
+*** SHOWDOWN ***
+cf893aea collected 1,096 from pot
+*** SUMMARY ***
+Total pot 1,096 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh Qd 9h 5s 6c]
+Seat 1: cf893aea showed [Kh Js] and won (1,096) with Pair of Jacks
+Seat 2: b0dd6600 showed [8c Jc] and lost with Pair of Jacks
+Seat 3: 3253d67b (button) folded before Flop
+Seat 4: Hero (small blind) folded before Flop
+Seat 5: cd407653 (big blind) showed [As Kd] and lost with Ace-High
+Seat 6: 5f758273 folded before Flop
+Seat 7: 95361340 folded before Flop
+Seat 8: cd85716 folded before Flop
+
+
+Poker Hand #TM3336335405: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level3(50/100) - 2024/05/29 20:28:05
+Table '16' 8-max Seat #2 is the button
+Seat 1: cf893aea (4,298 in chips)
+Seat 2: b0dd6600 (1,810 in chips)
+Seat 3: 3253d67b (3,452 in chips)
+Seat 4: Hero (4,087 in chips)
+Seat 5: cd407653 (1,483 in chips)
+Seat 6: 5f758273 (2,099 in chips)
+Seat 7: 95361340 (1,735 in chips)
+Seat 8: cd85716 (8,818 in chips)
+95361340: posts the ante 12
+5f758273: posts the ante 12
+cd407653: posts the ante 12
+b0dd6600: posts the ante 12
+cd85716: posts the ante 12
+cf893aea: posts the ante 12
+3253d67b: posts the ante 12
+Hero: posts the ante 12
+3253d67b: posts small blind 50
+Hero: posts big blind 100
+*** HOLE CARDS ***
+Dealt to cf893aea 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [Qd 8c]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to 95361340 
+Dealt to cd85716 
+cd407653: folds
+5f758273: folds
+95361340: folds
+cd85716: calls 100
+cf893aea: raises 335 to 435
+b0dd6600: folds
+3253d67b: folds
+Hero: folds
+cd85716: folds
+Uncalled bet (335) returned to cf893aea
+cf893aea: shows [Ah]
+*** SHOWDOWN ***
+cf893aea collected 446 from pot
+*** SUMMARY ***
+Total pot 446 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: cf893aea showed [Ah] and collected (446)
+Seat 2: b0dd6600 (button) folded before Flop
+Seat 3: 3253d67b (small blind) folded before Flop
+Seat 4: Hero (big blind) folded before Flop
+Seat 5: cd407653 folded before Flop
+Seat 6: 5f758273 folded before Flop
+Seat 7: 95361340 folded before Flop
+Seat 8: cd85716 folded before Flop
+
+
+Poker Hand #TM3336335358: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level3(50/100) - 2024/05/29 20:27:26
+Table '16' 8-max Seat #8 is the button
+Seat 2: b0dd6600 (1,872 in chips)
+Seat 3: 3253d67b (3,130 in chips)
+Seat 4: Hero (4,099 in chips)
+Seat 5: cd407653 (1,695 in chips)
+Seat 6: 5f758273 (2,111 in chips)
+Seat 7: 95361340 (1,747 in chips)
+Seat 8: cd85716 (8,830 in chips)
+95361340: posts the ante 12
+5f758273: posts the ante 12
+cd407653: posts the ante 12
+cd85716: posts the ante 12
+b0dd6600: posts the ante 12
+3253d67b: posts the ante 12
+Hero: posts the ante 12
+b0dd6600: posts small blind 50
+3253d67b: posts big blind 100
+*** HOLE CARDS ***
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [As 6d]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to 95361340 
+Dealt to cd85716 
+Hero: folds
+cd407653: raises 100 to 200
+5f758273: folds
+95361340: folds
+cd85716: folds
+b0dd6600: folds
+3253d67b: calls 100
+*** FLOP *** [Td 4d 5s]
+3253d67b: checks
+cd407653: checks
+*** TURN *** [Td 4d 5s] [7s]
+3253d67b: checks
+cd407653: checks
+*** RIVER *** [Td 4d 5s 7s] [Ad]
+3253d67b: bets 177
+cd407653: folds
+Uncalled bet (177) returned to 3253d67b
+*** SHOWDOWN ***
+3253d67b collected 534 from pot
+*** SUMMARY ***
+Total pot 534 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Td 4d 5s 7s Ad]
+Seat 2: b0dd6600 (small blind) folded before Flop
+Seat 3: 3253d67b (big blind) won (534)
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 folded on the River
+Seat 6: 5f758273 folded before Flop
+Seat 7: 95361340 folded before Flop
+Seat 8: cd85716 (button) folded before Flop
+
+
+Poker Hand #TM3336335295: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level3(50/100) - 2024/05/29 20:26:32
+Table '16' 8-max Seat #6 is the button
+Seat 2: b0dd6600 (2,084 in chips)
+Seat 3: 3253d67b (3,142 in chips)
+Seat 4: Hero (3,639 in chips)
+Seat 5: cd407653 (1,707 in chips)
+Seat 6: 5f758273 (2,123 in chips)
+Seat 8: cd85716 (9,042 in chips)
+5f758273: posts the ante 12
+cd407653: posts the ante 12
+b0dd6600: posts the ante 12
+cd85716: posts the ante 12
+3253d67b: posts the ante 12
+Hero: posts the ante 12
+cd85716: posts small blind 50
+b0dd6600: posts big blind 100
+*** HOLE CARDS ***
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [Kh As]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to cd85716 
+3253d67b: folds
+Hero: raises 100 to 200
+cd407653: folds
+5f758273: folds
+cd85716: calls 150
+b0dd6600: calls 100
+*** FLOP *** [6c 5h Th]
+cd85716: checks
+b0dd6600: checks
+Hero: checks
+*** TURN *** [6c 5h Th] [2c]
+cd85716: checks
+b0dd6600: checks
+Hero: bets 222
+cd85716: folds
+b0dd6600: folds
+Uncalled bet (222) returned to Hero
+*** SHOWDOWN ***
+Hero collected 672 from pot
+*** SUMMARY ***
+Total pot 672 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6c 5h Th 2c]
+Seat 2: b0dd6600 (big blind) folded on the Turn
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero won (672)
+Seat 5: cd407653 folded before Flop
+Seat 6: 5f758273 (button) folded before Flop
+Seat 8: cd85716 (small blind) folded on the Turn
+
+
+Poker Hand #TM3336335243: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level3(50/100) - 2024/05/29 20:25:48
+Table '16' 8-max Seat #5 is the button
+Seat 1: 8b36a621 (2,275 in chips)
+Seat 2: b0dd6600 (2,096 in chips)
+Seat 3: 3253d67b (3,154 in chips)
+Seat 4: Hero (3,651 in chips)
+Seat 5: cd407653 (1,819 in chips)
+Seat 6: 5f758273 (2,185 in chips)
+Seat 8: cd85716 (8,820 in chips)
+cd407653: posts the ante 12
+5f758273: posts the ante 12
+b0dd6600: posts the ante 12
+cd85716: posts the ante 12
+3253d67b: posts the ante 12
+8b36a621: posts the ante 12
+Hero: posts the ante 12
+5f758273: posts small blind 50
+cd85716: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [5s 7d]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to cd85716 
+8b36a621: folds
+b0dd6600: folds
+3253d67b: folds
+Hero: folds
+cd407653: calls 100
+5f758273: folds
+cd85716: checks
+*** FLOP *** [Td Jd Ad]
+cd85716: checks
+cd407653: checks
+*** TURN *** [Td Jd Ad] [6d]
+cd85716: bets 100
+cd407653: folds
+Uncalled bet (100) returned to cd85716
+*** SHOWDOWN ***
+cd85716 collected 334 from pot
+*** SUMMARY ***
+Total pot 334 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Td Jd Ad 6d]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 (button) folded on the Turn
+Seat 6: 5f758273 (small blind) folded before Flop
+Seat 8: cd85716 (big blind) won (334)
+
+
+Poker Hand #TM3336335140: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level3(50/100) - 2024/05/29 20:24:29
+Table '16' 8-max Seat #4 is the button
+Seat 1: 8b36a621 (2,287 in chips)
+Seat 2: b0dd6600 (2,108 in chips)
+Seat 3: 3253d67b (3,166 in chips)
+Seat 4: Hero (3,663 in chips)
+Seat 5: cd407653 (2,131 in chips)
+Seat 6: 5f758273 (2,297 in chips)
+Seat 7: de2ebaee (572 in chips)
+Seat 8: cd85716 (7,776 in chips)
+de2ebaee: posts the ante 12
+5f758273: posts the ante 12
+cd407653: posts the ante 12
+b0dd6600: posts the ante 12
+cd85716: posts the ante 12
+3253d67b: posts the ante 12
+8b36a621: posts the ante 12
+Hero: posts the ante 12
+cd407653: posts small blind 50
+5f758273: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [8d Qs]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+de2ebaee: calls 100
+cd85716: raises 100 to 200
+8b36a621: folds
+b0dd6600: folds
+3253d67b: folds
+Hero: folds
+cd407653: raises 100 to 300
+5f758273: folds
+de2ebaee: calls 200
+cd85716: calls 100
+*** FLOP *** [3h 6c 8c]
+cd407653: checks
+de2ebaee: bets 260 and is all-in
+cd85716: raises 460 to 720
+cd407653: folds
+Uncalled bet (460) returned to cd85716
+cd85716: shows [Js Jd] (Pair of Jacks)
+de2ebaee: shows [8s 4s] (Pair of Eights)
+*** TURN *** [3h 6c 8c] [Qh]
+*** RIVER *** [3h 6c 8c Qh] [Ks]
+*** SHOWDOWN ***
+cd85716 collected 1,616 from pot
+*** SUMMARY ***
+Total pot 1,616 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h 6c 8c Qh Ks]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero (button) folded before Flop
+Seat 5: cd407653 (small blind) folded on the Flop
+Seat 6: 5f758273 (big blind) folded before Flop
+Seat 7: de2ebaee showed [8s 4s] and lost with Pair of Eights
+Seat 8: cd85716 showed [Js Jd] and won (1,616) with Pair of Jacks
+
+
+Poker Hand #TM3336335083: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level3(50/100) - 2024/05/29 20:23:45
+Table '16' 8-max Seat #3 is the button
+Seat 1: 8b36a621 (2,299 in chips)
+Seat 2: b0dd6600 (2,120 in chips)
+Seat 3: 3253d67b (3,178 in chips)
+Seat 4: Hero (3,379 in chips)
+Seat 5: cd407653 (2,343 in chips)
+Seat 6: 5f758273 (2,309 in chips)
+Seat 7: de2ebaee (584 in chips)
+Seat 8: cd85716 (7,788 in chips)
+de2ebaee: posts the ante 12
+5f758273: posts the ante 12
+cd407653: posts the ante 12
+b0dd6600: posts the ante 12
+cd85716: posts the ante 12
+3253d67b: posts the ante 12
+8b36a621: posts the ante 12
+Hero: posts the ante 12
+Hero: posts small blind 50
+cd407653: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [Kd Jc]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+5f758273: folds
+de2ebaee: folds
+cd85716: folds
+8b36a621: folds
+b0dd6600: folds
+3253d67b: folds
+Hero: raises 100 to 200
+cd407653: calls 100
+*** FLOP *** [8c Qd 3d]
+Hero: checks
+cd407653: checks
+*** TURN *** [8c Qd 3d] [Kh]
+Hero: bets 248
+cd407653: folds
+Uncalled bet (248) returned to Hero
+Hero: shows [Kd] (Pair of Kings)
+*** SHOWDOWN ***
+Hero collected 496 from pot
+*** SUMMARY ***
+Total pot 496 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c Qd 3d Kh]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b (button) folded before Flop
+Seat 4: Hero (small blind) showed [Kd] and won (496)
+Seat 5: cd407653 (big blind) folded on the Turn
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee folded before Flop
+Seat 8: cd85716 folded before Flop
+
+
+Poker Hand #TM3336335027: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level3(50/100) - 2024/05/29 20:23:03
+Table '16' 8-max Seat #2 is the button
+Seat 1: 8b36a621 (2,311 in chips)
+Seat 2: b0dd6600 (1,786 in chips)
+Seat 3: 3253d67b (3,240 in chips)
+Seat 4: Hero (3,491 in chips)
+Seat 5: cd407653 (2,455 in chips)
+Seat 6: 5f758273 (2,321 in chips)
+Seat 7: de2ebaee (596 in chips)
+Seat 8: cd85716 (7,800 in chips)
+de2ebaee: posts the ante 12
+5f758273: posts the ante 12
+cd407653: posts the ante 12
+b0dd6600: posts the ante 12
+cd85716: posts the ante 12
+3253d67b: posts the ante 12
+8b36a621: posts the ante 12
+Hero: posts the ante 12
+3253d67b: posts small blind 50
+Hero: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [Ts Kc]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+cd407653: calls 100
+5f758273: folds
+de2ebaee: folds
+cd85716: folds
+8b36a621: folds
+b0dd6600: calls 100
+3253d67b: folds
+Hero: checks
+*** FLOP *** [5d 3d 4c]
+Hero: checks
+cd407653: checks
+b0dd6600: checks
+*** TURN *** [5d 3d 4c] [Ah]
+Hero: checks
+cd407653: checks
+b0dd6600: bets 223
+Hero: folds
+cd407653: folds
+Uncalled bet (223) returned to b0dd6600
+*** SHOWDOWN ***
+b0dd6600 collected 446 from pot
+*** SUMMARY ***
+Total pot 446 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5d 3d 4c Ah]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 (button) won (446)
+Seat 3: 3253d67b (small blind) folded before Flop
+Seat 4: Hero (big blind) folded on the Turn
+Seat 5: cd407653 folded on the Turn
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee folded before Flop
+Seat 8: cd85716 folded before Flop
+
+
+Poker Hand #TM3336334924: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level3(50/100) - 2024/05/29 20:21:38
+Table '16' 8-max Seat #1 is the button
+Seat 1: 8b36a621 (2,323 in chips)
+Seat 2: b0dd6600 (1,848 in chips)
+Seat 3: 3253d67b (3,352 in chips)
+Seat 4: Hero (3,503 in chips)
+Seat 5: cd407653 (3,167 in chips)
+Seat 6: 5f758273 (2,333 in chips)
+Seat 7: de2ebaee (2,108 in chips)
+Seat 8: cd85716 (5,366 in chips)
+de2ebaee: posts the ante 12
+5f758273: posts the ante 12
+cd407653: posts the ante 12
+cd85716: posts the ante 12
+b0dd6600: posts the ante 12
+3253d67b: posts the ante 12
+8b36a621: posts the ante 12
+Hero: posts the ante 12
+b0dd6600: posts small blind 50
+3253d67b: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [Ks 6d]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+Hero: folds
+cd407653: raises 200 to 300
+5f758273: folds
+de2ebaee: calls 300
+cd85716: calls 300
+8b36a621: folds
+b0dd6600: folds
+3253d67b: folds
+*** FLOP *** [9d 3s 2d]
+cd407653: checks
+de2ebaee: checks
+cd85716: bets 400
+cd407653: calls 400
+de2ebaee: calls 400
+*** TURN *** [9d 3s 2d] [Js]
+cd407653: checks
+de2ebaee: checks
+cd85716: checks
+*** RIVER *** [9d 3s 2d Js] [Th]
+cd407653: checks
+de2ebaee: checks
+cd85716: bets 800
+cd407653: folds
+de2ebaee: calls 800
+cd85716: shows [8h 8d] (Pair of Eights)
+de2ebaee: shows [7d 7h] (Pair of Sevens)
+*** SHOWDOWN ***
+cd85716 collected 3,946 from pot
+*** SUMMARY ***
+Total pot 3,946 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9d 3s 2d Js Th]
+Seat 1: 8b36a621 (button) folded before Flop
+Seat 2: b0dd6600 (small blind) folded before Flop
+Seat 3: 3253d67b (big blind) folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 folded on the River
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee showed [7d 7h] and lost with Pair of Sevens
+Seat 8: cd85716 showed [8h 8d] and won (3,946) with Pair of Eights
+
+
+Poker Hand #TM3336334804: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level3(50/100) - 2024/05/29 20:20:04
+Table '16' 8-max Seat #8 is the button
+Seat 1: 8b36a621 (2,385 in chips)
+Seat 2: b0dd6600 (1,960 in chips)
+Seat 3: 3253d67b (4,870 in chips)
+Seat 4: Hero (3,615 in chips)
+Seat 5: cd407653 (3,692 in chips)
+Seat 6: 5f758273 (2,345 in chips)
+Seat 7: de2ebaee (2,220 in chips)
+Seat 8: cd85716 (2,913 in chips)
+de2ebaee: posts the ante 12
+5f758273: posts the ante 12
+cd407653: posts the ante 12
+cd85716: posts the ante 12
+b0dd6600: posts the ante 12
+3253d67b: posts the ante 12
+8b36a621: posts the ante 12
+Hero: posts the ante 12
+8b36a621: posts small blind 50
+b0dd6600: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [8s 8h]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+3253d67b: calls 100
+Hero: calls 100
+cd407653: calls 100
+5f758273: folds
+de2ebaee: calls 100
+cd85716: calls 100
+8b36a621: folds
+b0dd6600: checks
+*** FLOP *** [2h 6c Qh]
+b0dd6600: checks
+3253d67b: bets 100
+Hero: folds
+cd407653: raises 313 to 413
+de2ebaee: folds
+cd85716: calls 413
+b0dd6600: folds
+3253d67b: calls 313
+*** TURN *** [2h 6c Qh] [Kh]
+3253d67b: checks
+cd407653: checks
+cd85716: checks
+*** RIVER *** [2h 6c Qh Kh] [5h]
+3253d67b: checks
+cd407653: checks
+cd85716: bets 993
+3253d67b: calls 993
+cd407653: folds
+cd85716: shows [3h Ah] (Ace High Flush)
+3253d67b: shows [Qc Th] (King High Flush)
+*** SHOWDOWN ***
+cd85716 collected 3,971 from pot
+*** SUMMARY ***
+Total pot 3,971 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2h 6c Qh Kh 5h]
+Seat 1: 8b36a621 (small blind) folded before Flop
+Seat 2: b0dd6600 (big blind) folded on the Flop
+Seat 3: 3253d67b showed [Qc Th] and lost with King High Flush
+Seat 4: Hero folded on the Flop
+Seat 5: cd407653 folded on the River
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee folded on the Flop
+Seat 8: cd85716 (button) showed [3h Ah] and won (3,971) with Ace High Flush
+
+
+Poker Hand #TM3336334775: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level2(40/80) - 2024/05/29 20:19:43
+Table '16' 8-max Seat #7 is the button
+Seat 1: 8b36a621 (2,475 in chips)
+Seat 2: b0dd6600 (1,970 in chips)
+Seat 3: 3253d67b (4,880 in chips)
+Seat 4: Hero (3,625 in chips)
+Seat 5: cd407653 (3,702 in chips)
+Seat 6: 5f758273 (2,355 in chips)
+Seat 7: de2ebaee (2,030 in chips)
+Seat 8: cd85716 (2,963 in chips)
+de2ebaee: posts the ante 10
+5f758273: posts the ante 10
+cd407653: posts the ante 10
+b0dd6600: posts the ante 10
+cd85716: posts the ante 10
+3253d67b: posts the ante 10
+8b36a621: posts the ante 10
+Hero: posts the ante 10
+cd85716: posts small blind 40
+8b36a621: posts big blind 80
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [3s Jd]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+b0dd6600: folds
+3253d67b: folds
+Hero: folds
+cd407653: folds
+5f758273: folds
+de2ebaee: raises 1,940 to 2,020 and is all-in
+cd85716: folds
+8b36a621: folds
+Uncalled bet (1,940) returned to de2ebaee
+*** SHOWDOWN ***
+de2ebaee collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8b36a621 (big blind) folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 folded before Flop
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee (button) collected (280)
+Seat 8: cd85716 (small blind) folded before Flop
+
+
+Poker Hand #TM3336334718: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level2(40/80) - 2024/05/29 20:18:56
+Table '16' 8-max Seat #6 is the button
+Seat 1: 8b36a621 (2,485 in chips)
+Seat 2: b0dd6600 (1,980 in chips)
+Seat 3: 3253d67b (5,050 in chips)
+Seat 4: Hero (3,195 in chips)
+Seat 5: cd407653 (3,712 in chips)
+Seat 6: 5f758273 (2,365 in chips)
+Seat 7: de2ebaee (2,080 in chips)
+Seat 8: cd85716 (3,133 in chips)
+de2ebaee: posts the ante 10
+5f758273: posts the ante 10
+cd407653: posts the ante 10
+b0dd6600: posts the ante 10
+cd85716: posts the ante 10
+3253d67b: posts the ante 10
+8b36a621: posts the ante 10
+Hero: posts the ante 10
+de2ebaee: posts small blind 40
+cd85716: posts big blind 80
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [Jc Tc]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+8b36a621: folds
+b0dd6600: folds
+3253d67b: calls 80
+Hero: raises 80 to 160
+cd407653: folds
+5f758273: folds
+de2ebaee: folds
+cd85716: calls 80
+3253d67b: calls 80
+*** FLOP *** [6s 8h 9s]
+cd85716: checks
+3253d67b: checks
+Hero: bets 160
+cd85716: folds
+3253d67b: folds
+Uncalled bet (160) returned to Hero
+*** SHOWDOWN ***
+Hero collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s 8h 9s]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b folded on the Flop
+Seat 4: Hero won (600)
+Seat 5: cd407653 folded before Flop
+Seat 6: 5f758273 (button) folded before Flop
+Seat 7: de2ebaee (small blind) folded before Flop
+Seat 8: cd85716 (big blind) folded on the Flop
+
+
+Poker Hand #TM3336334639: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level2(40/80) - 2024/05/29 20:17:53
+Table '16' 8-max Seat #5 is the button
+Seat 1: 8b36a621 (2,495 in chips)
+Seat 2: b0dd6600 (2,150 in chips)
+Seat 3: 3253d67b (5,060 in chips)
+Seat 4: Hero (2,685 in chips)
+Seat 5: cd407653 (3,722 in chips)
+Seat 6: 5f758273 (2,415 in chips)
+Seat 7: de2ebaee (2,170 in chips)
+Seat 8: cd85716 (3,303 in chips)
+de2ebaee: posts the ante 10
+cd407653: posts the ante 10
+5f758273: posts the ante 10
+b0dd6600: posts the ante 10
+cd85716: posts the ante 10
+3253d67b: posts the ante 10
+8b36a621: posts the ante 10
+Hero: posts the ante 10
+5f758273: posts small blind 40
+de2ebaee: posts big blind 80
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [As Th]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+cd85716: calls 80
+8b36a621: folds
+b0dd6600: calls 80
+3253d67b: folds
+Hero: calls 80
+cd407653: folds
+5f758273: folds
+de2ebaee: checks
+*** FLOP *** [Js Td 8d]
+de2ebaee: checks
+cd85716: checks
+b0dd6600: checks
+Hero: checks
+*** TURN *** [Js Td 8d] [4d]
+de2ebaee: checks
+cd85716: bets 80
+b0dd6600: calls 80
+Hero: calls 80
+de2ebaee: folds
+*** RIVER *** [Js Td 8d 4d] [Ac]
+cd85716: checks
+b0dd6600: checks
+Hero: bets 240
+cd85716: folds
+b0dd6600: folds
+Uncalled bet (240) returned to Hero
+*** SHOWDOWN ***
+Hero collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js Td 8d 4d Ac]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 folded on the River
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero won (680)
+Seat 5: cd407653 (button) folded before Flop
+Seat 6: 5f758273 (small blind) folded before Flop
+Seat 7: de2ebaee (big blind) folded on the Turn
+Seat 8: cd85716 folded on the River
+
+
+Poker Hand #TM3336334603: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level2(40/80) - 2024/05/29 20:17:20
+Table '16' 8-max Seat #4 is the button
+Seat 1: 8b36a621 (2,505 in chips)
+Seat 2: b0dd6600 (2,160 in chips)
+Seat 3: 3253d67b (5,070 in chips)
+Seat 4: Hero (2,695 in chips)
+Seat 5: cd407653 (3,892 in chips)
+Seat 6: 5f758273 (2,505 in chips)
+Seat 7: de2ebaee (1,860 in chips)
+Seat 8: cd85716 (3,313 in chips)
+de2ebaee: posts the ante 10
+5f758273: posts the ante 10
+cd407653: posts the ante 10
+b0dd6600: posts the ante 10
+cd85716: posts the ante 10
+3253d67b: posts the ante 10
+8b36a621: posts the ante 10
+Hero: posts the ante 10
+cd407653: posts small blind 40
+5f758273: posts big blind 80
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [Ks 3c]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+de2ebaee: raises 80 to 160
+cd85716: folds
+8b36a621: folds
+b0dd6600: folds
+3253d67b: folds
+Hero: folds
+cd407653: calls 120
+5f758273: folds
+*** FLOP *** [2s 6h Th]
+cd407653: checks
+de2ebaee: bets 264
+cd407653: folds
+Uncalled bet (264) returned to de2ebaee
+*** SHOWDOWN ***
+de2ebaee collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2s 6h Th]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero (button) folded before Flop
+Seat 5: cd407653 (small blind) folded on the Flop
+Seat 6: 5f758273 (big blind) folded before Flop
+Seat 7: de2ebaee won (480)
+Seat 8: cd85716 folded before Flop
+
+
+Poker Hand #TM3336334559: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level2(40/80) - 2024/05/29 20:16:49
+Table '16' 8-max Seat #3 is the button
+Seat 1: 8b36a621 (2,515 in chips)
+Seat 2: b0dd6600 (2,170 in chips)
+Seat 3: 3253d67b (5,080 in chips)
+Seat 4: Hero (2,745 in chips)
+Seat 5: cd407653 (3,702 in chips)
+Seat 6: 5f758273 (2,515 in chips)
+Seat 7: de2ebaee (1,950 in chips)
+Seat 8: cd85716 (3,323 in chips)
+de2ebaee: posts the ante 10
+5f758273: posts the ante 10
+cd407653: posts the ante 10
+b0dd6600: posts the ante 10
+cd85716: posts the ante 10
+3253d67b: posts the ante 10
+8b36a621: posts the ante 10
+Hero: posts the ante 10
+Hero: posts small blind 40
+cd407653: posts big blind 80
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [2d 9h]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+5f758273: folds
+de2ebaee: calls 80
+cd85716: folds
+8b36a621: folds
+b0dd6600: folds
+3253d67b: folds
+Hero: folds
+cd407653: checks
+*** FLOP *** [6h Qd 4d]
+cd407653: bets 93
+de2ebaee: folds
+Uncalled bet (93) returned to cd407653
+*** SHOWDOWN ***
+cd407653 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h Qd 4d]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b (button) folded before Flop
+Seat 4: Hero (small blind) folded before Flop
+Seat 5: cd407653 (big blind) won (280)
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee folded on the Flop
+Seat 8: cd85716 folded before Flop
+
+
+Poker Hand #TM3336334526: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level2(40/80) - 2024/05/29 20:16:19
+Table '16' 8-max Seat #2 is the button
+Seat 1: 8b36a621 (2,525 in chips)
+Seat 2: b0dd6600 (2,180 in chips)
+Seat 3: 3253d67b (5,130 in chips)
+Seat 4: Hero (2,835 in chips)
+Seat 5: cd407653 (3,712 in chips)
+Seat 6: 5f758273 (2,525 in chips)
+Seat 7: de2ebaee (1,760 in chips)
+Seat 8: cd85716 (3,333 in chips)
+de2ebaee: posts the ante 10
+5f758273: posts the ante 10
+cd407653: posts the ante 10
+b0dd6600: posts the ante 10
+cd85716: posts the ante 10
+3253d67b: posts the ante 10
+8b36a621: posts the ante 10
+Hero: posts the ante 10
+3253d67b: posts small blind 40
+Hero: posts big blind 80
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [8s Js]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+cd407653: folds
+5f758273: folds
+de2ebaee: raises 1,670 to 1,750 and is all-in
+cd85716: folds
+8b36a621: folds
+b0dd6600: folds
+3253d67b: folds
+Hero: folds
+Uncalled bet (1,670) returned to de2ebaee
+*** SHOWDOWN ***
+de2ebaee collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 (button) folded before Flop
+Seat 3: 3253d67b (small blind) folded before Flop
+Seat 4: Hero (big blind) folded before Flop
+Seat 5: cd407653 folded before Flop
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee collected (280)
+Seat 8: cd85716 folded before Flop
+
+
+Poker Hand #TM3336334437: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level2(40/80) - 2024/05/29 20:15:08
+Table '16' 8-max Seat #1 is the button
+Seat 1: 8b36a621 (2,535 in chips)
+Seat 2: b0dd6600 (2,230 in chips)
+Seat 3: 3253d67b (4,475 in chips)
+Seat 4: Hero (2,845 in chips)
+Seat 5: cd407653 (4,187 in chips)
+Seat 6: 5f758273 (2,535 in chips)
+Seat 7: de2ebaee (1,770 in chips)
+Seat 8: cd85716 (3,423 in chips)
+de2ebaee: posts the ante 10
+5f758273: posts the ante 10
+cd407653: posts the ante 10
+cd85716: posts the ante 10
+b0dd6600: posts the ante 10
+3253d67b: posts the ante 10
+8b36a621: posts the ante 10
+Hero: posts the ante 10
+b0dd6600: posts small blind 40
+3253d67b: posts big blind 80
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [5s 6s]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+Hero: folds
+cd407653: calls 80
+5f758273: folds
+de2ebaee: folds
+cd85716: calls 80
+8b36a621: folds
+b0dd6600: folds
+3253d67b: checks
+*** FLOP *** [Ad 7s 4d]
+3253d67b: checks
+cd407653: bets 160
+cd85716: folds
+3253d67b: calls 160
+*** TURN *** [Ad 7s 4d] [8d]
+3253d67b: checks
+cd407653: checks
+*** RIVER *** [Ad 7s 4d 8d] [4s]
+3253d67b: bets 225
+cd407653: calls 225
+3253d67b: shows [6h Ah] (Pair of Aces and Pair of Fours)
+cd407653: shows [7h Ts] (Pair of Sevens and Pair of Fours)
+*** SHOWDOWN ***
+3253d67b collected 1,130 from pot
+*** SUMMARY ***
+Total pot 1,130 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ad 7s 4d 8d 4s]
+Seat 1: 8b36a621 (button) folded before Flop
+Seat 2: b0dd6600 (small blind) folded before Flop
+Seat 3: 3253d67b (big blind) showed [6h Ah] and won (1,130) with Pair of Aces and Pair of Fours
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 showed [7h Ts] and lost with Pair of Sevens and Pair of Fours
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee folded before Flop
+Seat 8: cd85716 folded on the Flop
+
+
+Poker Hand #TM3336334415: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level2(40/80) - 2024/05/29 20:14:55
+Table '16' 8-max Seat #8 is the button
+Seat 1: 8b36a621 (2,585 in chips)
+Seat 2: b0dd6600 (2,120 in chips)
+Seat 3: 3253d67b (4,485 in chips)
+Seat 4: Hero (2,855 in chips)
+Seat 5: cd407653 (4,197 in chips)
+Seat 6: 5f758273 (2,545 in chips)
+Seat 7: de2ebaee (1,780 in chips)
+Seat 8: cd85716 (3,433 in chips)
+de2ebaee: posts the ante 10
+5f758273: posts the ante 10
+cd407653: posts the ante 10
+cd85716: posts the ante 10
+b0dd6600: posts the ante 10
+3253d67b: posts the ante 10
+8b36a621: posts the ante 10
+Hero: posts the ante 10
+8b36a621: posts small blind 40
+b0dd6600: posts big blind 80
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [Ts 8c]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+3253d67b: folds
+Hero: folds
+cd407653: folds
+5f758273: folds
+de2ebaee: folds
+cd85716: folds
+8b36a621: folds
+Uncalled bet (40) returned to b0dd6600
+*** SHOWDOWN ***
+b0dd6600 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8b36a621 (small blind) folded before Flop
+Seat 2: b0dd6600 (big blind) collected (160)
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 folded before Flop
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee folded before Flop
+Seat 8: cd85716 (button) folded before Flop
+
+
+Poker Hand #TM3336334350: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level2(40/80) - 2024/05/29 20:13:58
+Table '16' 8-max Seat #7 is the button
+Seat 1: 8b36a621 (2,675 in chips)
+Seat 2: b0dd6600 (2,130 in chips)
+Seat 3: 3253d67b (4,735 in chips)
+Seat 4: Hero (2,225 in chips)
+Seat 5: cd407653 (4,207 in chips)
+Seat 6: 5f758273 (2,555 in chips)
+Seat 7: de2ebaee (1,790 in chips)
+Seat 8: cd85716 (3,683 in chips)
+de2ebaee: posts the ante 10
+5f758273: posts the ante 10
+cd407653: posts the ante 10
+b0dd6600: posts the ante 10
+cd85716: posts the ante 10
+3253d67b: posts the ante 10
+8b36a621: posts the ante 10
+Hero: posts the ante 10
+cd85716: posts small blind 40
+8b36a621: posts big blind 80
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [Th Td]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+b0dd6600: folds
+3253d67b: calls 80
+Hero: raises 160 to 240
+cd407653: folds
+5f758273: folds
+de2ebaee: folds
+cd85716: calls 200
+8b36a621: folds
+3253d67b: calls 160
+*** FLOP *** [3h 8c Qs]
+cd85716: checks
+3253d67b: checks
+Hero: bets 440
+cd85716: folds
+3253d67b: folds
+Uncalled bet (440) returned to Hero
+*** SHOWDOWN ***
+Hero collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h 8c Qs]
+Seat 1: 8b36a621 (big blind) folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b folded on the Flop
+Seat 4: Hero won (880)
+Seat 5: cd407653 folded before Flop
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee (button) folded before Flop
+Seat 8: cd85716 (small blind) folded on the Flop
+
+
+Poker Hand #TM3336334277: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level2(40/80) - 2024/05/29 20:12:59
+Table '16' 8-max Seat #6 is the button
+Seat 1: 8b36a621 (2,685 in chips)
+Seat 2: b0dd6600 (2,140 in chips)
+Seat 3: 3253d67b (4,825 in chips)
+Seat 4: Hero (2,235 in chips)
+Seat 5: cd407653 (3,897 in chips)
+Seat 6: 5f758273 (2,565 in chips)
+Seat 7: de2ebaee (1,880 in chips)
+Seat 8: cd85716 (3,773 in chips)
+de2ebaee: posts the ante 10
+5f758273: posts the ante 10
+cd407653: posts the ante 10
+b0dd6600: posts the ante 10
+cd85716: posts the ante 10
+3253d67b: posts the ante 10
+8b36a621: posts the ante 10
+Hero: posts the ante 10
+de2ebaee: posts small blind 40
+cd85716: posts big blind 80
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [8d Td]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+8b36a621: folds
+b0dd6600: folds
+3253d67b: calls 80
+Hero: folds
+cd407653: calls 80
+5f758273: folds
+de2ebaee: calls 40
+cd85716: checks
+*** FLOP *** [Qc 7c 3h]
+de2ebaee: checks
+cd85716: checks
+3253d67b: checks
+cd407653: bets 300
+de2ebaee: folds
+cd85716: folds
+3253d67b: folds
+Uncalled bet (300) returned to cd407653
+*** SHOWDOWN ***
+cd407653 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qc 7c 3h]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b folded on the Flop
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 won (400)
+Seat 6: 5f758273 (button) folded before Flop
+Seat 7: de2ebaee (small blind) folded on the Flop
+Seat 8: cd85716 (big blind) folded on the Flop
+
+
+Poker Hand #TM3336334172: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level2(40/80) - 2024/05/29 20:11:26
+Table '16' 8-max Seat #5 is the button
+Seat 1: 8b36a621 (2,695 in chips)
+Seat 2: b0dd6600 (2,230 in chips)
+Seat 3: 3253d67b (5,175 in chips)
+Seat 4: Hero (2,325 in chips)
+Seat 5: cd407653 (3,207 in chips)
+Seat 6: 5f758273 (2,615 in chips)
+Seat 7: de2ebaee (1,970 in chips)
+Seat 8: cd85716 (3,783 in chips)
+de2ebaee: posts the ante 10
+cd407653: posts the ante 10
+5f758273: posts the ante 10
+b0dd6600: posts the ante 10
+cd85716: posts the ante 10
+3253d67b: posts the ante 10
+8b36a621: posts the ante 10
+Hero: posts the ante 10
+5f758273: posts small blind 40
+de2ebaee: posts big blind 80
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [5d 4d]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+cd85716: folds
+8b36a621: folds
+b0dd6600: calls 80
+3253d67b: calls 80
+Hero: calls 80
+cd407653: raises 260 to 340
+5f758273: folds
+de2ebaee: folds
+b0dd6600: folds
+3253d67b: calls 260
+Hero: folds
+*** FLOP *** [9h 9d 8c]
+3253d67b: checks
+cd407653: checks
+*** TURN *** [9h 9d 8c] [Js]
+3253d67b: checks
+cd407653: checks
+*** RIVER *** [9h 9d 8c Js] [As]
+3253d67b: checks
+cd407653: bets 780
+3253d67b: folds
+Uncalled bet (780) returned to cd407653
+3253d67b: shows [Jd] (Pair of Jacks and Pair of Nines)
+*** SHOWDOWN ***
+cd407653 collected 1,040 from pot
+*** SUMMARY ***
+Total pot 1,040 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h 9d 8c Js As]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b folded on the River
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 (button) won (1,040)
+Seat 6: 5f758273 (small blind) folded before Flop
+Seat 7: de2ebaee (big blind) folded before Flop
+Seat 8: cd85716 folded before Flop
+
+
+Poker Hand #TM3336334140: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level2(40/80) - 2024/05/29 20:10:57
+Table '16' 8-max Seat #4 is the button
+Seat 1: 8b36a621 (2,705 in chips)
+Seat 2: b0dd6600 (2,240 in chips)
+Seat 3: 3253d67b (5,345 in chips)
+Seat 4: Hero (2,335 in chips)
+Seat 5: cd407653 (2,897 in chips)
+Seat 6: 5f758273 (2,705 in chips)
+Seat 7: de2ebaee (1,980 in chips)
+Seat 8: cd85716 (3,793 in chips)
+de2ebaee: posts the ante 10
+5f758273: posts the ante 10
+cd407653: posts the ante 10
+b0dd6600: posts the ante 10
+cd85716: posts the ante 10
+3253d67b: posts the ante 10
+8b36a621: posts the ante 10
+Hero: posts the ante 10
+cd407653: posts small blind 40
+5f758273: posts big blind 80
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [Ts 2c]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+de2ebaee: folds
+cd85716: folds
+8b36a621: folds
+b0dd6600: folds
+3253d67b: raises 80 to 160
+Hero: folds
+cd407653: calls 120
+5f758273: folds
+*** FLOP *** [2d 5h Jc]
+cd407653: bets 240
+3253d67b: folds
+Uncalled bet (240) returned to cd407653
+*** SHOWDOWN ***
+cd407653 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2d 5h Jc]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b folded on the Flop
+Seat 4: Hero (button) folded before Flop
+Seat 5: cd407653 (small blind) won (480)
+Seat 6: 5f758273 (big blind) folded before Flop
+Seat 7: de2ebaee folded before Flop
+Seat 8: cd85716 folded before Flop
+
+
+Poker Hand #TM3336334092: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level2(40/80) - 2024/05/29 20:10:16
+Table '16' 8-max Seat #3 is the button
+Seat 1: 8b36a621 (2,715 in chips)
+Seat 2: b0dd6600 (2,250 in chips)
+Seat 3: 3253d67b (5,075 in chips)
+Seat 4: Hero (2,385 in chips)
+Seat 5: cd407653 (3,067 in chips)
+Seat 6: 5f758273 (2,715 in chips)
+Seat 7: de2ebaee (1,990 in chips)
+Seat 8: cd85716 (3,803 in chips)
+de2ebaee: posts the ante 10
+5f758273: posts the ante 10
+cd407653: posts the ante 10
+b0dd6600: posts the ante 10
+cd85716: posts the ante 10
+3253d67b: posts the ante 10
+8b36a621: posts the ante 10
+Hero: posts the ante 10
+Hero: posts small blind 40
+cd407653: posts big blind 80
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [4c 8d]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+5f758273: folds
+de2ebaee: folds
+cd85716: folds
+8b36a621: folds
+b0dd6600: folds
+3253d67b: raises 80 to 160
+Hero: folds
+cd407653: calls 80
+*** FLOP *** [2d Ac 6d]
+cd407653: checks
+3253d67b: bets 220
+cd407653: folds
+Uncalled bet (220) returned to 3253d67b
+*** SHOWDOWN ***
+3253d67b collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2d Ac 6d]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b (button) won (440)
+Seat 4: Hero (small blind) folded before Flop
+Seat 5: cd407653 (big blind) folded on the Flop
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee folded before Flop
+Seat 8: cd85716 folded before Flop
+
+
+Poker Hand #TM3336334065: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level1(30/60) - 2024/05/29 20:09:38
+Table '16' 8-max Seat #2 is the button
+Seat 1: 8b36a621 (2,722 in chips)
+Seat 2: b0dd6600 (2,257 in chips)
+Seat 3: 3253d67b (5,350 in chips)
+Seat 4: Hero (2,452 in chips)
+Seat 5: cd407653 (3,074 in chips)
+Seat 6: 5f758273 (2,722 in chips)
+Seat 7: de2ebaee (1,997 in chips)
+Seat 8: cd85716 (3,426 in chips)
+de2ebaee: posts the ante 7
+5f758273: posts the ante 7
+cd407653: posts the ante 7
+b0dd6600: posts the ante 7
+cd85716: posts the ante 7
+3253d67b: posts the ante 7
+8b36a621: posts the ante 7
+Hero: posts the ante 7
+3253d67b: posts small blind 30
+Hero: posts big blind 60
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [3d Qh]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+cd407653: folds
+5f758273: folds
+de2ebaee: folds
+cd85716: calls 60
+8b36a621: folds
+b0dd6600: folds
+3253d67b: raises 78 to 138
+Hero: folds
+cd85716: calls 78
+*** FLOP *** [6h 6c 8h]
+3253d67b: bets 130
+cd85716: calls 130
+*** TURN *** [6h 6c 8h] [5d]
+3253d67b: checks
+cd85716: bets 300
+3253d67b: folds
+Uncalled bet (300) returned to cd85716
+*** SHOWDOWN ***
+cd85716 collected 652 from pot
+*** SUMMARY ***
+Total pot 652 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 6c 8h 5d]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 (button) folded before Flop
+Seat 3: 3253d67b (small blind) folded on the Turn
+Seat 4: Hero (big blind) folded before Flop
+Seat 5: cd407653 folded before Flop
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee folded before Flop
+Seat 8: cd85716 won (652)
+
+
+Poker Hand #TM3336334029: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level1(30/60) - 2024/05/29 20:09:04
+Table '16' 8-max Seat #1 is the button
+Seat 1: 8b36a621 (2,729 in chips)
+Seat 2: b0dd6600 (2,294 in chips)
+Seat 3: 3253d67b (5,417 in chips)
+Seat 4: Hero (2,459 in chips)
+Seat 5: cd407653 (3,201 in chips)
+Seat 6: 5f758273 (2,729 in chips)
+Seat 7: de2ebaee (2,124 in chips)
+Seat 8: cd85716 (3,047 in chips)
+de2ebaee: posts the ante 7
+5f758273: posts the ante 7
+cd407653: posts the ante 7
+cd85716: posts the ante 7
+b0dd6600: posts the ante 7
+3253d67b: posts the ante 7
+8b36a621: posts the ante 7
+Hero: posts the ante 7
+b0dd6600: posts small blind 30
+3253d67b: posts big blind 60
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [7d Js]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+Hero: folds
+cd407653: raises 60 to 120
+5f758273: folds
+de2ebaee: calls 120
+cd85716: calls 120
+8b36a621: folds
+b0dd6600: folds
+3253d67b: folds
+*** FLOP *** [Qs 2c 8d]
+cd407653: checks
+de2ebaee: checks
+cd85716: bets 180
+cd407653: folds
+de2ebaee: folds
+Uncalled bet (180) returned to cd85716
+*** SHOWDOWN ***
+cd85716 collected 506 from pot
+*** SUMMARY ***
+Total pot 506 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs 2c 8d]
+Seat 1: 8b36a621 (button) folded before Flop
+Seat 2: b0dd6600 (small blind) folded before Flop
+Seat 3: 3253d67b (big blind) folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 folded on the Flop
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee folded on the Flop
+Seat 8: cd85716 won (506)
+
+
+Poker Hand #TM3336333948: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level1(30/60) - 2024/05/29 20:07:51
+Table '16' 8-max Seat #8 is the button
+Seat 1: 8b36a621 (2,766 in chips)
+Seat 2: b0dd6600 (2,361 in chips)
+Seat 3: 3253d67b (4,871 in chips)
+Seat 4: Hero (2,526 in chips)
+Seat 5: cd407653 (3,208 in chips)
+Seat 6: 5f758273 (2,736 in chips)
+Seat 7: de2ebaee (2,478 in chips)
+Seat 8: cd85716 (3,054 in chips)
+de2ebaee: posts the ante 7
+5f758273: posts the ante 7
+cd407653: posts the ante 7
+cd85716: posts the ante 7
+b0dd6600: posts the ante 7
+3253d67b: posts the ante 7
+8b36a621: posts the ante 7
+Hero: posts the ante 7
+8b36a621: posts small blind 30
+b0dd6600: posts big blind 60
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [Ks Qs]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+3253d67b: calls 60
+Hero: calls 60
+cd407653: folds
+5f758273: folds
+de2ebaee: calls 60
+cd85716: folds
+8b36a621: folds
+b0dd6600: checks
+*** FLOP *** [9s 7h 8d]
+b0dd6600: checks
+3253d67b: checks
+Hero: checks
+de2ebaee: checks
+*** TURN *** [9s 7h 8d] [7d]
+b0dd6600: checks
+3253d67b: bets 108
+Hero: folds
+de2ebaee: calls 108
+b0dd6600: folds
+*** RIVER *** [9s 7h 8d 7d] [2c]
+3253d67b: bets 179
+de2ebaee: calls 179
+3253d67b: shows [8s 9h] (Pair of Nines and Pair of Eights)
+de2ebaee: shows [9c Ad] (Pair of Nines and Pair of Sevens)
+*** SHOWDOWN ***
+3253d67b collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9s 7h 8d 7d 2c]
+Seat 1: 8b36a621 (small blind) folded before Flop
+Seat 2: b0dd6600 (big blind) folded on the Turn
+Seat 3: 3253d67b showed [8s 9h] and won (900) with Pair of Nines and Pair of Eights
+Seat 4: Hero folded on the Turn
+Seat 5: cd407653 folded before Flop
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee showed [9c Ad] and lost with Pair of Nines and Pair of Sevens
+Seat 8: cd85716 (button) folded before Flop
+
+
+Poker Hand #TM3336333903: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level1(30/60) - 2024/05/29 20:07:12
+Table '16' 8-max Seat #7 is the button
+Seat 1: 8b36a621 (2,833 in chips)
+Seat 2: b0dd6600 (1,982 in chips)
+Seat 3: 3253d67b (4,878 in chips)
+Seat 4: Hero (2,533 in chips)
+Seat 5: cd407653 (3,455 in chips)
+Seat 6: 5f758273 (2,743 in chips)
+Seat 7: de2ebaee (2,485 in chips)
+Seat 8: cd85716 (3,091 in chips)
+de2ebaee: posts the ante 7
+5f758273: posts the ante 7
+cd407653: posts the ante 7
+b0dd6600: posts the ante 7
+cd85716: posts the ante 7
+3253d67b: posts the ante 7
+8b36a621: posts the ante 7
+Hero: posts the ante 7
+cd85716: posts small blind 30
+8b36a621: posts big blind 60
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [Kh Qd]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+b0dd6600: raises 180 to 240
+3253d67b: folds
+Hero: folds
+cd407653: calls 240
+5f758273: folds
+de2ebaee: folds
+cd85716: folds
+8b36a621: folds
+*** FLOP *** [5d Qs 9d]
+b0dd6600: bets 313
+cd407653: folds
+Uncalled bet (313) returned to b0dd6600
+*** SHOWDOWN ***
+b0dd6600 collected 626 from pot
+*** SUMMARY ***
+Total pot 626 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5d Qs 9d]
+Seat 1: 8b36a621 (big blind) folded before Flop
+Seat 2: b0dd6600 won (626)
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 folded on the Flop
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee (button) folded before Flop
+Seat 8: cd85716 (small blind) folded before Flop
+
+
+Poker Hand #TM3336333855: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level1(30/60) - 2024/05/29 20:06:26
+Table '16' 8-max Seat #6 is the button
+Seat 1: 8b36a621 (2,840 in chips)
+Seat 2: b0dd6600 (2,109 in chips)
+Seat 3: 3253d67b (4,885 in chips)
+Seat 4: Hero (2,540 in chips)
+Seat 5: cd407653 (3,462 in chips)
+Seat 6: 5f758273 (2,750 in chips)
+Seat 7: de2ebaee (2,612 in chips)
+Seat 8: cd85716 (2,802 in chips)
+de2ebaee: posts the ante 7
+5f758273: posts the ante 7
+cd407653: posts the ante 7
+b0dd6600: posts the ante 7
+cd85716: posts the ante 7
+3253d67b: posts the ante 7
+8b36a621: posts the ante 7
+Hero: posts the ante 7
+de2ebaee: posts small blind 30
+cd85716: posts big blind 60
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [As 8c]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+8b36a621: folds
+b0dd6600: raises 60 to 120
+3253d67b: folds
+Hero: folds
+cd407653: folds
+5f758273: folds
+de2ebaee: calls 90
+cd85716: calls 60
+*** FLOP *** [Js 3h 8h]
+de2ebaee: checks
+cd85716: checks
+b0dd6600: checks
+*** TURN *** [Js 3h 8h] [5h]
+de2ebaee: checks
+cd85716: bets 120
+b0dd6600: folds
+de2ebaee: folds
+Uncalled bet (120) returned to cd85716
+*** SHOWDOWN ***
+cd85716 collected 416 from pot
+*** SUMMARY ***
+Total pot 416 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js 3h 8h 5h]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 folded on the Turn
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 folded before Flop
+Seat 6: 5f758273 (button) folded before Flop
+Seat 7: de2ebaee (small blind) folded on the Turn
+Seat 8: cd85716 (big blind) won (416)
+
+
+Poker Hand #TM3336333804: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level1(30/60) - 2024/05/29 20:05:32
+Table '16' 8-max Seat #5 is the button
+Seat 1: 8b36a621 (2,847 in chips)
+Seat 2: b0dd6600 (3,319 in chips)
+Seat 3: 3253d67b (4,892 in chips)
+Seat 4: Hero (2,547 in chips)
+Seat 5: cd407653 (3,469 in chips)
+Seat 6: 5f758273 (2,787 in chips)
+Seat 7: de2ebaee (1,210 in chips)
+Seat 8: cd85716 (2,929 in chips)
+de2ebaee: posts the ante 7
+cd407653: posts the ante 7
+5f758273: posts the ante 7
+b0dd6600: posts the ante 7
+cd85716: posts the ante 7
+3253d67b: posts the ante 7
+8b36a621: posts the ante 7
+Hero: posts the ante 7
+5f758273: posts small blind 30
+de2ebaee: posts big blind 60
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [Jd 4c]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+cd85716: calls 60
+8b36a621: folds
+b0dd6600: raises 60 to 120
+3253d67b: folds
+Hero: folds
+cd407653: folds
+5f758273: folds
+de2ebaee: calls 60
+cd85716: calls 60
+*** FLOP *** [9d Qh Kd]
+de2ebaee: bets 120
+cd85716: folds
+b0dd6600: calls 120
+*** TURN *** [9d Qh Kd] [4s]
+de2ebaee: bets 227
+b0dd6600: calls 227
+*** RIVER *** [9d Qh Kd 4s] [8h]
+de2ebaee: bets 736 and is all-in
+b0dd6600: calls 736
+de2ebaee: shows [Td Jc] (Kings-High Straight)
+b0dd6600: shows [Kc Jh] (Pair of Kings)
+*** SHOWDOWN ***
+de2ebaee collected 2,612 from pot
+*** SUMMARY ***
+Total pot 2,612 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9d Qh Kd 4s 8h]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 showed [Kc Jh] and lost with Pair of Kings
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 (button) folded before Flop
+Seat 6: 5f758273 (small blind) folded before Flop
+Seat 7: de2ebaee (big blind) showed [Td Jc] and won (2,612) with Kings-High Straight
+Seat 8: cd85716 folded on the Flop
+
+
+Poker Hand #TM3336333758: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level1(30/60) - 2024/05/29 20:04:54
+Table '16' 8-max Seat #4 is the button
+Seat 1: 8b36a621 (2,854 in chips)
+Seat 2: b0dd6600 (3,326 in chips)
+Seat 3: 3253d67b (4,899 in chips)
+Seat 4: Hero (2,674 in chips)
+Seat 5: cd407653 (3,120 in chips)
+Seat 6: 5f758273 (2,854 in chips)
+Seat 7: de2ebaee (1,217 in chips)
+Seat 8: cd85716 (3,056 in chips)
+de2ebaee: posts the ante 7
+5f758273: posts the ante 7
+cd407653: posts the ante 7
+b0dd6600: posts the ante 7
+cd85716: posts the ante 7
+3253d67b: posts the ante 7
+8b36a621: posts the ante 7
+Hero: posts the ante 7
+cd407653: posts small blind 30
+5f758273: posts big blind 60
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [Th Kc]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+de2ebaee: folds
+cd85716: raises 60 to 120
+8b36a621: folds
+b0dd6600: folds
+3253d67b: folds
+Hero: calls 120
+cd407653: calls 90
+5f758273: folds
+*** FLOP *** [Ac Ts 9s]
+cd407653: bets 357
+cd85716: folds
+Hero: folds
+Uncalled bet (357) returned to cd407653
+*** SHOWDOWN ***
+cd407653 collected 476 from pot
+*** SUMMARY ***
+Total pot 476 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac Ts 9s]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero (button) folded on the Flop
+Seat 5: cd407653 (small blind) won (476)
+Seat 6: 5f758273 (big blind) folded before Flop
+Seat 7: de2ebaee folded before Flop
+Seat 8: cd85716 folded on the Flop
+
+
+Poker Hand #TM3336333697: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level1(30/60) - 2024/05/29 20:03:57
+Table '16' 8-max Seat #3 is the button
+Seat 1: 8b36a621 (2,861 in chips)
+Seat 2: b0dd6600 (3,333 in chips)
+Seat 3: 3253d67b (4,906 in chips)
+Seat 4: Hero (2,711 in chips)
+Seat 5: cd407653 (2,921 in chips)
+Seat 6: 5f758273 (2,861 in chips)
+Seat 7: de2ebaee (1,344 in chips)
+Seat 8: cd85716 (3,063 in chips)
+de2ebaee: posts the ante 7
+5f758273: posts the ante 7
+cd407653: posts the ante 7
+b0dd6600: posts the ante 7
+cd85716: posts the ante 7
+3253d67b: posts the ante 7
+8b36a621: posts the ante 7
+Hero: posts the ante 7
+Hero: posts small blind 30
+cd407653: posts big blind 60
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [7s 4c]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+5f758273: folds
+de2ebaee: calls 60
+cd85716: folds
+8b36a621: folds
+b0dd6600: folds
+3253d67b: folds
+Hero: folds
+cd407653: raises 60 to 120
+de2ebaee: calls 60
+*** FLOP *** [Qs 7d Th]
+cd407653: checks
+de2ebaee: checks
+*** TURN *** [Qs 7d Th] [4d]
+cd407653: checks
+de2ebaee: checks
+*** RIVER *** [Qs 7d Th 4d] [Qc]
+cd407653: bets 120
+de2ebaee: folds
+Uncalled bet (120) returned to cd407653
+*** SHOWDOWN ***
+cd407653 collected 326 from pot
+*** SUMMARY ***
+Total pot 326 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs 7d Th 4d Qc]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b (button) folded before Flop
+Seat 4: Hero (small blind) folded before Flop
+Seat 5: cd407653 (big blind) won (326)
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee folded on the River
+Seat 8: cd85716 folded before Flop
+
+
+Poker Hand #TM3336333645: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level1(30/60) - 2024/05/29 20:03:08
+Table '16' 8-max Seat #2 is the button
+Seat 1: 8b36a621 (2,868 in chips)
+Seat 2: b0dd6600 (3,014 in chips)
+Seat 3: 3253d67b (4,943 in chips)
+Seat 4: Hero (2,778 in chips)
+Seat 5: cd407653 (2,928 in chips)
+Seat 6: 5f758273 (2,868 in chips)
+Seat 7: de2ebaee (1,351 in chips)
+Seat 8: cd85716 (3,250 in chips)
+de2ebaee: posts the ante 7
+5f758273: posts the ante 7
+cd407653: posts the ante 7
+b0dd6600: posts the ante 7
+cd85716: posts the ante 7
+3253d67b: posts the ante 7
+8b36a621: posts the ante 7
+Hero: posts the ante 7
+3253d67b: posts small blind 30
+Hero: posts big blind 60
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [2d 6s]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+cd407653: folds
+5f758273: folds
+de2ebaee: folds
+cd85716: calls 60
+8b36a621: folds
+b0dd6600: calls 60
+3253d67b: folds
+Hero: checks
+*** FLOP *** [9c Ah Ks]
+Hero: checks
+cd85716: checks
+b0dd6600: bets 60
+Hero: folds
+cd85716: calls 60
+*** TURN *** [9c Ah Ks] [3h]
+cd85716: checks
+b0dd6600: bets 60
+cd85716: calls 60
+*** RIVER *** [9c Ah Ks 3h] [9h]
+cd85716: checks
+b0dd6600: checks
+cd85716: shows [Qc Js] (Pair of Nines)
+b0dd6600: shows [Ac 7h] (Pair of Aces and Pair of Nines)
+*** SHOWDOWN ***
+b0dd6600 collected 506 from pot
+*** SUMMARY ***
+Total pot 506 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9c Ah Ks 3h 9h]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 (button) showed [Ac 7h] and won (506) with Pair of Aces and Pair of Nines
+Seat 3: 3253d67b (small blind) folded before Flop
+Seat 4: Hero (big blind) folded on the Flop
+Seat 5: cd407653 folded before Flop
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee folded before Flop
+Seat 8: cd85716 showed [Qc Js] and lost with Pair of Nines
+
+
+Poker Hand #TM3336333632: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level1(30/60) - 2024/05/29 20:02:53
+Table '16' 8-max Seat #1 is the button
+Seat 1: 8b36a621 (2,875 in chips)
+Seat 2: b0dd6600 (3,051 in chips)
+Seat 3: 3253d67b (4,864 in chips)
+Seat 4: Hero (2,785 in chips)
+Seat 5: cd407653 (2,935 in chips)
+Seat 6: 5f758273 (2,875 in chips)
+Seat 7: de2ebaee (1,358 in chips)
+Seat 8: cd85716 (3,257 in chips)
+de2ebaee: posts the ante 7
+5f758273: posts the ante 7
+cd407653: posts the ante 7
+cd85716: posts the ante 7
+b0dd6600: posts the ante 7
+3253d67b: posts the ante 7
+8b36a621: posts the ante 7
+Hero: posts the ante 7
+b0dd6600: posts small blind 30
+3253d67b: posts big blind 60
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [3s Td]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+Hero: folds
+cd407653: folds
+5f758273: folds
+de2ebaee: folds
+cd85716: folds
+8b36a621: folds
+b0dd6600: folds
+Uncalled bet (30) returned to 3253d67b
+*** SHOWDOWN ***
+3253d67b collected 116 from pot
+*** SUMMARY ***
+Total pot 116 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8b36a621 (button) folded before Flop
+Seat 2: b0dd6600 (small blind) folded before Flop
+Seat 3: 3253d67b (big blind) collected (116)
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 folded before Flop
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee folded before Flop
+Seat 8: cd85716 folded before Flop
+
+
+Poker Hand #TM3336333619: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level1(30/60) - 2024/05/29 20:02:36
+Table '16' 8-max Seat #8 is the button
+Seat 1: 8b36a621 (2,912 in chips)
+Seat 2: b0dd6600 (2,972 in chips)
+Seat 3: 3253d67b (4,871 in chips)
+Seat 4: Hero (2,792 in chips)
+Seat 5: cd407653 (2,942 in chips)
+Seat 6: 5f758273 (2,882 in chips)
+Seat 7: de2ebaee (1,365 in chips)
+Seat 8: cd85716 (3,264 in chips)
+de2ebaee: posts the ante 7
+5f758273: posts the ante 7
+cd407653: posts the ante 7
+cd85716: posts the ante 7
+b0dd6600: posts the ante 7
+3253d67b: posts the ante 7
+8b36a621: posts the ante 7
+Hero: posts the ante 7
+8b36a621: posts small blind 30
+b0dd6600: posts big blind 60
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [5s 9h]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+3253d67b: folds
+Hero: folds
+cd407653: folds
+5f758273: folds
+de2ebaee: folds
+cd85716: folds
+8b36a621: folds
+Uncalled bet (30) returned to b0dd6600
+*** SHOWDOWN ***
+b0dd6600 collected 116 from pot
+*** SUMMARY ***
+Total pot 116 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8b36a621 (small blind) folded before Flop
+Seat 2: b0dd6600 (big blind) collected (116)
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 folded before Flop
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee folded before Flop
+Seat 8: cd85716 (button) folded before Flop
+
+
+Poker Hand #TM3336333613: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level1(30/60) - 2024/05/29 20:02:20
+Table '16' 8-max Seat #7 is the button
+Seat 1: 8b36a621 (2,979 in chips)
+Seat 2: b0dd6600 (2,979 in chips)
+Seat 3: 3253d67b (4,878 in chips)
+Seat 4: Hero (2,799 in chips)
+Seat 5: cd407653 (2,949 in chips)
+Seat 6: 5f758273 (2,889 in chips)
+Seat 7: de2ebaee (1,372 in chips)
+Seat 8: cd85716 (3,155 in chips)
+de2ebaee: posts the ante 7
+5f758273: posts the ante 7
+cd407653: posts the ante 7
+b0dd6600: posts the ante 7
+cd85716: posts the ante 7
+3253d67b: posts the ante 7
+8b36a621: posts the ante 7
+Hero: posts the ante 7
+cd85716: posts small blind 30
+8b36a621: posts big blind 60
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [7h 2h]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+b0dd6600: folds
+3253d67b: folds
+Hero: folds
+cd407653: folds
+5f758273: folds
+de2ebaee: folds
+cd85716: raises 60 to 120
+8b36a621: folds
+Uncalled bet (60) returned to cd85716
+*** SHOWDOWN ***
+cd85716 collected 176 from pot
+*** SUMMARY ***
+Total pot 176 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8b36a621 (big blind) folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 folded before Flop
+Seat 6: 5f758273 folded before Flop
+Seat 7: de2ebaee (button) folded before Flop
+Seat 8: cd85716 (small blind) collected (176)
+
+
+Poker Hand #TM3336333556: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level1(30/60) - 2024/05/29 20:01:40
+Table '16' 8-max Seat #6 is the button
+Seat 1: 8b36a621 (2,986 in chips)
+Seat 2: b0dd6600 (2,986 in chips)
+Seat 3: 3253d67b (4,885 in chips)
+Seat 4: Hero (2,866 in chips)
+Seat 5: cd407653 (2,956 in chips)
+Seat 6: 5f758273 (2,896 in chips)
+Seat 7: de2ebaee (1,499 in chips)
+Seat 8: cd85716 (2,926 in chips)
+de2ebaee: posts the ante 7
+5f758273: posts the ante 7
+cd407653: posts the ante 7
+b0dd6600: posts the ante 7
+cd85716: posts the ante 7
+3253d67b: posts the ante 7
+8b36a621: posts the ante 7
+Hero: posts the ante 7
+de2ebaee: posts small blind 30
+cd85716: posts big blind 60
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [4c 4d]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+8b36a621: folds
+b0dd6600: folds
+3253d67b: folds
+Hero: calls 60
+cd407653: folds
+5f758273: folds
+de2ebaee: calls 30
+cd85716: checks
+*** FLOP *** [5s 8c 9h]
+de2ebaee: checks
+cd85716: checks
+Hero: checks
+*** TURN *** [5s 8c 9h] [Jc]
+de2ebaee: checks
+cd85716: bets 60
+Hero: folds
+de2ebaee: calls 60
+*** RIVER *** [5s 8c 9h Jc] [Qh]
+de2ebaee: checks
+cd85716: bets 178
+de2ebaee: folds
+Uncalled bet (178) returned to cd85716
+*** SHOWDOWN ***
+cd85716 collected 356 from pot
+*** SUMMARY ***
+Total pot 356 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s 8c 9h Jc Qh]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero folded on the Turn
+Seat 5: cd407653 folded before Flop
+Seat 6: 5f758273 (button) folded before Flop
+Seat 7: de2ebaee (small blind) folded on the River
+Seat 8: cd85716 (big blind) won (356)
+
+
+Poker Hand #TM3336333538: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level1(30/60) - 2024/05/29 20:01:18
+Table '16' 8-max Seat #5 is the button
+Seat 1: 8b36a621 (2,993 in chips)
+Seat 2: b0dd6600 (2,993 in chips)
+Seat 3: 3253d67b (4,892 in chips)
+Seat 4: Hero (2,873 in chips)
+Seat 5: cd407653 (2,963 in chips)
+Seat 6: 5f758273 (2,933 in chips)
+Seat 7: de2ebaee (1,360 in chips)
+Seat 8: cd85716 (2,993 in chips)
+de2ebaee: posts the ante 7
+cd407653: posts the ante 7
+5f758273: posts the ante 7
+b0dd6600: posts the ante 7
+cd85716: posts the ante 7
+3253d67b: posts the ante 7
+8b36a621: posts the ante 7
+Hero: posts the ante 7
+5f758273: posts small blind 30
+de2ebaee: posts big blind 60
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [3c Jh]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+cd85716: calls 60
+8b36a621: folds
+b0dd6600: folds
+3253d67b: folds
+Hero: folds
+cd407653: folds
+5f758273: folds
+de2ebaee: checks
+*** FLOP *** [Jc 7c 8h]
+de2ebaee: bets 60
+cd85716: folds
+Uncalled bet (60) returned to de2ebaee
+*** SHOWDOWN ***
+de2ebaee collected 206 from pot
+*** SUMMARY ***
+Total pot 206 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jc 7c 8h]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: cd407653 (button) folded before Flop
+Seat 6: 5f758273 (small blind) folded before Flop
+Seat 7: de2ebaee (big blind) won (206)
+Seat 8: cd85716 folded on the Flop
+
+
+Poker Hand #TM3336333518: Tournament #136081705, Magyar Póker Liga Freebuy Hold'em No Limit - Level1(30/60) - 2024/05/29 20:00:02
+Table '16' 8-max Seat #4 is the button
+Seat 1: 8b36a621 (3,000 in chips)
+Seat 2: b0dd6600 (3,000 in chips)
+Seat 3: 3253d67b (3,000 in chips)
+Seat 4: Hero (3,000 in chips)
+Seat 5: cd407653 (3,000 in chips)
+Seat 6: 5f758273 (3,000 in chips)
+Seat 7: de2ebaee (3,000 in chips)
+Seat 8: cd85716 (3,000 in chips)
+de2ebaee: posts the ante 7
+5f758273: posts the ante 7
+cd407653: posts the ante 7
+b0dd6600: posts the ante 7
+cd85716: posts the ante 7
+3253d67b: posts the ante 7
+8b36a621: posts the ante 7
+Hero: posts the ante 7
+cd407653: posts small blind 30
+5f758273: posts big blind 60
+*** HOLE CARDS ***
+Dealt to 8b36a621 
+Dealt to b0dd6600 
+Dealt to 3253d67b 
+Dealt to Hero [Qd Jd]
+Dealt to cd407653 
+Dealt to 5f758273 
+Dealt to de2ebaee 
+Dealt to cd85716 
+de2ebaee: raises 60 to 120
+cd85716: folds
+8b36a621: folds
+b0dd6600: folds
+3253d67b: calls 120
+Hero: calls 120
+cd407653: folds
+5f758273: folds
+*** FLOP *** [Td 3c 8c]
+de2ebaee: checks
+3253d67b: checks
+Hero: checks
+*** TURN *** [Td 3c 8c] [Ac]
+de2ebaee: bets 167
+3253d67b: calls 167
+Hero: folds
+*** RIVER *** [Td 3c 8c Ac] [As]
+de2ebaee: bets 463
+3253d67b: raises 883 to 1,346
+de2ebaee: calls 883
+3253d67b: shows [Qc Jc] (Ace High Flush)
+de2ebaee: shows [Ad 7h] (Three Aces)
+*** SHOWDOWN ***
+3253d67b collected 3,532 from pot
+*** SUMMARY ***
+Total pot 3,532 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Td 3c 8c Ac As]
+Seat 1: 8b36a621 folded before Flop
+Seat 2: b0dd6600 folded before Flop
+Seat 3: 3253d67b showed [Qc Jc] and won (3,532) with Ace High Flush
+Seat 4: Hero (button) folded on the Turn
+Seat 5: cd407653 (small blind) folded before Flop
+Seat 6: 5f758273 (big blind) folded before Flop
+Seat 7: de2ebaee showed [Ad 7h] and lost with Three Aces
+Seat 8: cd85716 folded before Flop
+
+

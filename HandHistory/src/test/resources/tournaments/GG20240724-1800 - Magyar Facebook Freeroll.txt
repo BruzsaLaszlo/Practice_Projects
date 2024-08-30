@@ -1,0 +1,5078 @@
+Poker Hand #TM3516168910: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level16(1,000/2,000) - 2024/07/24 21:27:33
+Table '15' 8-max Seat #1 is the button
+Seat 1: f9b496cf (8,185 in chips)
+Seat 2: 4f5fb492 (16,796 in chips)
+Seat 3: 2f5d19ff (40,493 in chips)
+Seat 4: 6a90e5f3 (37,930 in chips)
+Seat 5: d65eef17 (36,006 in chips)
+Seat 6: Hero (24,502 in chips)
+Seat 7: d7626c9 (10,160 in chips)
+Seat 8: 8a29d9b7 (55,638 in chips)
+d7626c9: posts the ante 300
+f9b496cf: posts the ante 300
+6a90e5f3: posts the ante 300
+d65eef17: posts the ante 300
+2f5d19ff: posts the ante 300
+4f5fb492: posts the ante 300
+8a29d9b7: posts the ante 300
+Hero: posts the ante 300
+4f5fb492: posts small blind 1,000
+2f5d19ff: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to 2f5d19ff 
+Dealt to 6a90e5f3 
+Dealt to d65eef17 
+Dealt to Hero [Kh As]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+6a90e5f3: raises 2,000 to 4,000
+d65eef17: folds
+Hero: raises 20,202 to 24,202 and is all-in
+d7626c9: folds
+8a29d9b7: folds
+f9b496cf: folds
+4f5fb492: folds
+2f5d19ff: folds
+6a90e5f3: calls 20,202
+Hero: shows [Kh As]
+6a90e5f3: shows [Th Qc]
+*** FLOP *** [8s Ad Jh]
+*** TURN *** [8s Ad Jh] [9h]
+*** RIVER *** [8s Ad Jh 9h] [9c]
+*** SHOWDOWN ***
+6a90e5f3 collected 53,804 from pot
+*** SUMMARY ***
+Total pot 53,804 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s Ad Jh 9h 9c]
+Seat 1: f9b496cf (button) folded before Flop
+Seat 2: 4f5fb492 (small blind) folded before Flop
+Seat 3: 2f5d19ff (big blind) folded before Flop
+Seat 4: 6a90e5f3 showed [Th Qc] and won (53,804) with Queens-High Straight
+Seat 5: d65eef17 folded before Flop
+Seat 6: Hero showed [Kh As] and lost with Pair of Aces and Pair of Nines
+Seat 7: d7626c9 folded before Flop
+Seat 8: 8a29d9b7 folded before Flop
+
+
+Poker Hand #TM3516168702: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level16(1,000/2,000) - 2024/07/24 21:25:24
+Table '15' 8-max Seat #8 is the button
+Seat 1: f9b496cf (10,485 in chips)
+Seat 2: 4f5fb492 (19,096 in chips)
+Seat 3: 2f5d19ff (40,793 in chips)
+Seat 4: 6a90e5f3 (40,230 in chips)
+Seat 6: Hero (24,802 in chips)
+Seat 7: d7626c9 (10,460 in chips)
+Seat 8: 8a29d9b7 (47,838 in chips)
+d7626c9: posts the ante 300
+f9b496cf: posts the ante 300
+6a90e5f3: posts the ante 300
+2f5d19ff: posts the ante 300
+4f5fb492: posts the ante 300
+8a29d9b7: posts the ante 300
+Hero: posts the ante 300
+f9b496cf: posts small blind 1,000
+4f5fb492: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to 2f5d19ff 
+Dealt to 6a90e5f3 
+Dealt to Hero [Ah 2c]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+2f5d19ff: folds
+6a90e5f3: calls 2,000
+Hero: folds
+d7626c9: folds
+8a29d9b7: calls 2,000
+f9b496cf: calls 1,000
+4f5fb492: checks
+*** FLOP *** [9d 5h Jd]
+f9b496cf: checks
+4f5fb492: checks
+6a90e5f3: checks
+8a29d9b7: bets 5,050
+f9b496cf: folds
+4f5fb492: folds
+6a90e5f3: folds
+Uncalled bet (5,050) returned to 8a29d9b7
+*** SHOWDOWN ***
+8a29d9b7 collected 10,100 from pot
+*** SUMMARY ***
+Total pot 10,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9d 5h Jd]
+Seat 1: f9b496cf (small blind) folded on the Flop
+Seat 2: 4f5fb492 (big blind) folded on the Flop
+Seat 3: 2f5d19ff folded before Flop
+Seat 4: 6a90e5f3 folded on the Flop
+Seat 6: Hero folded before Flop
+Seat 7: d7626c9 folded before Flop
+Seat 8: 8a29d9b7 (button) won (10,100)
+
+
+Poker Hand #TM3516168609: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level15(800/1,600) - 2024/07/24 21:24:31
+Table '15' 8-max Seat #7 is the button
+Seat 1: f9b496cf (12,325 in chips)
+Seat 2: 4f5fb492 (19,336 in chips)
+Seat 3: 2f5d19ff (41,033 in chips)
+Seat 4: 6a90e5f3 (40,470 in chips)
+Seat 6: Hero (20,962 in chips)
+Seat 7: d7626c9 (10,700 in chips)
+Seat 8: 8a29d9b7 (48,878 in chips)
+d7626c9: posts the ante 240
+f9b496cf: posts the ante 240
+6a90e5f3: posts the ante 240
+2f5d19ff: posts the ante 240
+4f5fb492: posts the ante 240
+8a29d9b7: posts the ante 240
+Hero: posts the ante 240
+8a29d9b7: posts small blind 800
+f9b496cf: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to 2f5d19ff 
+Dealt to 6a90e5f3 
+Dealt to Hero [Ts Ac]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+4f5fb492: folds
+2f5d19ff: folds
+6a90e5f3: folds
+Hero: raises 3,200 to 4,800
+d7626c9: folds
+8a29d9b7: folds
+f9b496cf: folds
+Uncalled bet (3,200) returned to Hero
+*** SHOWDOWN ***
+Hero collected 5,680 from pot
+*** SUMMARY ***
+Total pot 5,680 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f9b496cf (big blind) folded before Flop
+Seat 2: 4f5fb492 folded before Flop
+Seat 3: 2f5d19ff folded before Flop
+Seat 4: 6a90e5f3 folded before Flop
+Seat 6: Hero collected (5,680)
+Seat 7: d7626c9 (button) folded before Flop
+Seat 8: 8a29d9b7 (small blind) folded before Flop
+
+
+Poker Hand #TM3516168487: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level15(800/1,600) - 2024/07/24 21:23:18
+Table '15' 8-max Seat #6 is the button
+Seat 1: f9b496cf (12,565 in chips)
+Seat 2: 4f5fb492 (19,576 in chips)
+Seat 3: 2f5d19ff (32,393 in chips)
+Seat 4: 6a90e5f3 (45,510 in chips)
+Seat 6: Hero (21,202 in chips)
+Seat 7: d7626c9 (11,740 in chips)
+Seat 8: 8a29d9b7 (50,718 in chips)
+d7626c9: posts the ante 240
+f9b496cf: posts the ante 240
+6a90e5f3: posts the ante 240
+2f5d19ff: posts the ante 240
+4f5fb492: posts the ante 240
+8a29d9b7: posts the ante 240
+Hero: posts the ante 240
+d7626c9: posts small blind 800
+8a29d9b7: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to 2f5d19ff 
+Dealt to 6a90e5f3 
+Dealt to Hero [5h 5d]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+f9b496cf: folds
+4f5fb492: folds
+2f5d19ff: raises 3,200 to 4,800
+6a90e5f3: calls 4,800
+Hero: folds
+d7626c9: folds
+8a29d9b7: folds
+*** FLOP *** [Kd 7c 7h]
+2f5d19ff: bets 4,515
+6a90e5f3: folds
+Uncalled bet (4,515) returned to 2f5d19ff
+*** SHOWDOWN ***
+2f5d19ff collected 13,680 from pot
+*** SUMMARY ***
+Total pot 13,680 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kd 7c 7h]
+Seat 1: f9b496cf folded before Flop
+Seat 2: 4f5fb492 folded before Flop
+Seat 3: 2f5d19ff won (13,680)
+Seat 4: 6a90e5f3 folded on the Flop
+Seat 6: Hero (button) folded before Flop
+Seat 7: d7626c9 (small blind) folded before Flop
+Seat 8: 8a29d9b7 (big blind) folded before Flop
+
+
+Poker Hand #TM3516168372: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level15(800/1,600) - 2024/07/24 21:22:10
+Table '15' 8-max Seat #4 is the button
+Seat 1: f9b496cf (12,805 in chips)
+Seat 2: 4f5fb492 (19,816 in chips)
+Seat 3: 2f5d19ff (32,633 in chips)
+Seat 4: 6a90e5f3 (45,750 in chips)
+Seat 5: 95c4f4bf (1,722 in chips)
+Seat 6: Hero (18,040 in chips)
+Seat 7: d7626c9 (11,980 in chips)
+Seat 8: 8a29d9b7 (50,958 in chips)
+d7626c9: posts the ante 240
+f9b496cf: posts the ante 240
+6a90e5f3: posts the ante 240
+95c4f4bf: posts the ante 240
+2f5d19ff: posts the ante 240
+4f5fb492: posts the ante 240
+8a29d9b7: posts the ante 240
+Hero: posts the ante 240
+95c4f4bf: posts small blind 800
+Hero: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to 2f5d19ff 
+Dealt to 6a90e5f3 
+Dealt to 95c4f4bf 
+Dealt to Hero [2h As]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+d7626c9: folds
+8a29d9b7: folds
+f9b496cf: folds
+4f5fb492: folds
+2f5d19ff: folds
+6a90e5f3: folds
+95c4f4bf: calls 682 and is all-in
+Uncalled bet (118) returned to Hero
+95c4f4bf: shows [Qh Ts]
+Hero: shows [2h As]
+*** FLOP *** [3h Jc 6h]
+*** TURN *** [3h Jc 6h] [Kc]
+*** RIVER *** [3h Jc 6h Kc] [4h]
+*** SHOWDOWN ***
+Hero collected 4,884 from pot
+*** SUMMARY ***
+Total pot 4,884 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h Jc 6h Kc 4h]
+Seat 1: f9b496cf folded before Flop
+Seat 2: 4f5fb492 folded before Flop
+Seat 3: 2f5d19ff folded before Flop
+Seat 4: 6a90e5f3 (button) folded before Flop
+Seat 5: 95c4f4bf (small blind) showed [Qh Ts] and lost with King-High
+Seat 6: Hero (big blind) showed [2h As] and won (4,884) with Ace-High
+Seat 7: d7626c9 folded before Flop
+Seat 8: 8a29d9b7 folded before Flop
+
+
+Poker Hand #TM3516168236: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level15(800/1,600) - 2024/07/24 21:20:53
+Table '15' 8-max Seat #3 is the button
+Seat 1: f9b496cf (13,045 in chips)
+Seat 2: 4f5fb492 (7,988 in chips)
+Seat 3: 2f5d19ff (32,873 in chips)
+Seat 4: 6a90e5f3 (46,790 in chips)
+Seat 5: 95c4f4bf (9,710 in chips)
+Seat 6: Hero (18,280 in chips)
+Seat 7: d7626c9 (13,820 in chips)
+Seat 8: 8a29d9b7 (51,198 in chips)
+d7626c9: posts the ante 240
+f9b496cf: posts the ante 240
+6a90e5f3: posts the ante 240
+95c4f4bf: posts the ante 240
+2f5d19ff: posts the ante 240
+4f5fb492: posts the ante 240
+8a29d9b7: posts the ante 240
+Hero: posts the ante 240
+6a90e5f3: posts small blind 800
+95c4f4bf: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to 2f5d19ff 
+Dealt to 6a90e5f3 
+Dealt to 95c4f4bf 
+Dealt to Hero [3h 5h]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+Hero: folds
+d7626c9: calls 1,600
+8a29d9b7: folds
+f9b496cf: folds
+4f5fb492: raises 6,148 to 7,748 and is all-in
+2f5d19ff: folds
+6a90e5f3: folds
+95c4f4bf: calls 6,148
+d7626c9: folds
+4f5fb492: shows [Ah Qd]
+95c4f4bf: shows [7c Kc]
+*** FLOP *** [2s Ac Qh]
+*** TURN *** [2s Ac Qh] [Tc]
+*** RIVER *** [2s Ac Qh Tc] [Kh]
+*** SHOWDOWN ***
+4f5fb492 collected 19,816 from pot
+*** SUMMARY ***
+Total pot 19,816 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2s Ac Qh Tc Kh]
+Seat 1: f9b496cf folded before Flop
+Seat 2: 4f5fb492 showed [Ah Qd] and won (19,816) with Pair of Aces and Pair of Queens
+Seat 3: 2f5d19ff (button) folded before Flop
+Seat 4: 6a90e5f3 (small blind) folded before Flop
+Seat 5: 95c4f4bf (big blind) showed [7c Kc] and lost with Pair of Kings
+Seat 6: Hero folded before Flop
+Seat 7: d7626c9 folded before Flop
+Seat 8: 8a29d9b7 folded before Flop
+
+
+Poker Hand #TM3516168040: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level14(600/1,200) - 2024/07/24 21:18:57
+Table '15' 8-max Seat #2 is the button
+Seat 1: f9b496cf (16,225 in chips)
+Seat 2: 4f5fb492 (8,168 in chips)
+Seat 3: 2f5d19ff (36,053 in chips)
+Seat 4: 6a90e5f3 (49,970 in chips)
+Seat 5: 95c4f4bf (12,890 in chips)
+Seat 6: Hero (18,460 in chips)
+Seat 7: d7626c9 (14,000 in chips)
+Seat 8: 8a29d9b7 (37,938 in chips)
+d7626c9: posts the ante 180
+f9b496cf: posts the ante 180
+6a90e5f3: posts the ante 180
+95c4f4bf: posts the ante 180
+4f5fb492: posts the ante 180
+2f5d19ff: posts the ante 180
+8a29d9b7: posts the ante 180
+Hero: posts the ante 180
+2f5d19ff: posts small blind 600
+6a90e5f3: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to 2f5d19ff 
+Dealt to 6a90e5f3 
+Dealt to 95c4f4bf 
+Dealt to Hero [3s 9h]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+95c4f4bf: calls 1,200
+Hero: folds
+d7626c9: folds
+8a29d9b7: raises 1,800 to 3,000
+f9b496cf: calls 3,000
+4f5fb492: folds
+2f5d19ff: calls 2,400
+6a90e5f3: calls 1,800
+95c4f4bf: calls 1,800
+*** FLOP *** [3d 8c 6d]
+2f5d19ff: checks
+6a90e5f3: checks
+95c4f4bf: checks
+8a29d9b7: checks
+f9b496cf: checks
+*** TURN *** [3d 8c 6d] [Ad]
+2f5d19ff: checks
+6a90e5f3: checks
+95c4f4bf: checks
+8a29d9b7: bets 5,426
+f9b496cf: folds
+2f5d19ff: folds
+6a90e5f3: folds
+95c4f4bf: folds
+Uncalled bet (5,426) returned to 8a29d9b7
+8a29d9b7: shows [Ah] (Pair of Aces)
+*** SHOWDOWN ***
+8a29d9b7 collected 16,440 from pot
+*** SUMMARY ***
+Total pot 16,440 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3d 8c 6d Ad]
+Seat 1: f9b496cf folded on the Turn
+Seat 2: 4f5fb492 (button) folded before Flop
+Seat 3: 2f5d19ff (small blind) folded on the Turn
+Seat 4: 6a90e5f3 (big blind) folded on the Turn
+Seat 5: 95c4f4bf folded on the Turn
+Seat 6: Hero folded before Flop
+Seat 7: d7626c9 folded before Flop
+Seat 8: 8a29d9b7 showed [Ah] and won (16,440)
+
+
+Poker Hand #TM3516167886: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level14(600/1,200) - 2024/07/24 21:17:32
+Table '15' 8-max Seat #1 is the button
+Seat 1: f9b496cf (16,405 in chips)
+Seat 2: 4f5fb492 (2,944 in chips)
+Seat 3: 2f5d19ff (37,433 in chips)
+Seat 4: 6a90e5f3 (50,150 in chips)
+Seat 5: 95c4f4bf (13,070 in chips)
+Seat 6: Hero (18,640 in chips)
+Seat 7: d7626c9 (14,180 in chips)
+Seat 8: 8a29d9b7 (40,882 in chips)
+d7626c9: posts the ante 180
+f9b496cf: posts the ante 180
+6a90e5f3: posts the ante 180
+95c4f4bf: posts the ante 180
+2f5d19ff: posts the ante 180
+4f5fb492: posts the ante 180
+8a29d9b7: posts the ante 180
+Hero: posts the ante 180
+4f5fb492: posts small blind 600
+2f5d19ff: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to 2f5d19ff 
+Dealt to 6a90e5f3 
+Dealt to 95c4f4bf 
+Dealt to Hero [Kd 5d]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+6a90e5f3: folds
+95c4f4bf: folds
+Hero: folds
+d7626c9: folds
+8a29d9b7: calls 1,200
+f9b496cf: folds
+4f5fb492: raises 1,564 to 2,764 and is all-in
+2f5d19ff: folds
+8a29d9b7: calls 1,564
+4f5fb492: shows [Qh 6c]
+8a29d9b7: shows [7s 7d]
+*** FLOP *** [8s 2s Qs]
+*** TURN *** [8s 2s Qs] [Td]
+*** RIVER *** [8s 2s Qs Td] [Kh]
+*** SHOWDOWN ***
+4f5fb492 collected 8,168 from pot
+*** SUMMARY ***
+Total pot 8,168 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s 2s Qs Td Kh]
+Seat 1: f9b496cf (button) folded before Flop
+Seat 2: 4f5fb492 (small blind) showed [Qh 6c] and won (8,168) with Pair of Queens
+Seat 3: 2f5d19ff (big blind) folded before Flop
+Seat 4: 6a90e5f3 folded before Flop
+Seat 5: 95c4f4bf folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: d7626c9 folded before Flop
+Seat 8: 8a29d9b7 showed [7s 7d] and lost with Pair of Sevens
+
+
+Poker Hand #TM3516167760: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level14(600/1,200) - 2024/07/24 21:16:23
+Table '15' 8-max Seat #8 is the button
+Seat 1: f9b496cf (18,985 in chips)
+Seat 2: 4f5fb492 (4,324 in chips)
+Seat 3: 2f5d19ff (37,613 in chips)
+Seat 4: 6a90e5f3 (50,330 in chips)
+Seat 6: Hero (18,820 in chips)
+Seat 7: d7626c9 (14,360 in chips)
+Seat 8: 8a29d9b7 (36,202 in chips)
+d7626c9: posts the ante 180
+f9b496cf: posts the ante 180
+6a90e5f3: posts the ante 180
+2f5d19ff: posts the ante 180
+4f5fb492: posts the ante 180
+8a29d9b7: posts the ante 180
+Hero: posts the ante 180
+f9b496cf: posts small blind 600
+4f5fb492: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to 2f5d19ff 
+Dealt to 6a90e5f3 
+Dealt to Hero [5h Qh]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+2f5d19ff: folds
+6a90e5f3: folds
+Hero: folds
+d7626c9: folds
+8a29d9b7: raises 1,200 to 2,400
+f9b496cf: calls 1,800
+4f5fb492: folds
+*** FLOP *** [3c As 4d]
+f9b496cf: checks
+8a29d9b7: bets 3,630
+f9b496cf: folds
+Uncalled bet (3,630) returned to 8a29d9b7
+*** SHOWDOWN ***
+8a29d9b7 collected 7,260 from pot
+*** SUMMARY ***
+Total pot 7,260 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c As 4d]
+Seat 1: f9b496cf (small blind) folded on the Flop
+Seat 2: 4f5fb492 (big blind) folded before Flop
+Seat 3: 2f5d19ff folded before Flop
+Seat 4: 6a90e5f3 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: d7626c9 folded before Flop
+Seat 8: 8a29d9b7 (button) won (7,260)
+
+
+Poker Hand #TM3516167625: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level14(600/1,200) - 2024/07/24 21:15:03
+Table '15' 8-max Seat #7 is the button
+Seat 1: f9b496cf (20,365 in chips)
+Seat 2: 4f5fb492 (4,504 in chips)
+Seat 3: 2f5d19ff (37,793 in chips)
+Seat 4: 6a90e5f3 (50,510 in chips)
+Seat 5: 5f72a5a9 (12,943 in chips)
+Seat 6: Hero (19,000 in chips)
+Seat 7: d7626c9 (14,540 in chips)
+Seat 8: 8a29d9b7 (20,979 in chips)
+d7626c9: posts the ante 180
+f9b496cf: posts the ante 180
+6a90e5f3: posts the ante 180
+2f5d19ff: posts the ante 180
+4f5fb492: posts the ante 180
+8a29d9b7: posts the ante 180
+5f72a5a9: posts the ante 180
+Hero: posts the ante 180
+8a29d9b7: posts small blind 600
+f9b496cf: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to 2f5d19ff 
+Dealt to 6a90e5f3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Ks 8d]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+4f5fb492: folds
+2f5d19ff: folds
+6a90e5f3: folds
+5f72a5a9: calls 1,200
+Hero: folds
+d7626c9: folds
+8a29d9b7: raises 5,040 to 6,240
+f9b496cf: folds
+5f72a5a9: raises 6,523 to 12,763 and is all-in
+8a29d9b7: calls 6,523
+5f72a5a9: shows [6s As]
+8a29d9b7: shows [Kh Ac]
+*** FLOP *** [2d 5h 3h]
+*** TURN *** [2d 5h 3h] [8h]
+*** RIVER *** [2d 5h 3h 8h] [Js]
+2f5d19ff: shows [2s] (Pair of Twos)
+*** SHOWDOWN ***
+8a29d9b7 collected 28,166 from pot
+*** SUMMARY ***
+Total pot 28,166 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2d 5h 3h 8h Js]
+Seat 1: f9b496cf (big blind) folded before Flop
+Seat 2: 4f5fb492 folded before Flop
+Seat 3: 2f5d19ff folded before Flop
+Seat 4: 6a90e5f3 folded before Flop
+Seat 5: 5f72a5a9 showed [6s As] and lost with Ace-High
+Seat 6: Hero folded before Flop
+Seat 7: d7626c9 (button) folded before Flop
+Seat 8: 8a29d9b7 (small blind) showed [Kh Ac] and won (28,166) with Ace-High
+
+
+Poker Hand #TM3516167119: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level13(500/1,000) - 2024/07/24 21:10:27
+Table '15' 8-max Seat #6 is the button
+Seat 1: f9b496cf (20,515 in chips)
+Seat 2: 4f5fb492 (4,654 in chips)
+Seat 3: 2f5d19ff (37,943 in chips)
+Seat 4: 6a90e5f3 (50,660 in chips)
+Seat 5: 5f72a5a9 (11,465 in chips)
+Seat 6: Hero (19,150 in chips)
+Seat 7: d7626c9 (8,190 in chips)
+Seat 8: 8a29d9b7 (13,057 in chips)
+d7626c9: posts the ante 150
+f9b496cf: posts the ante 150
+6a90e5f3: posts the ante 150
+2f5d19ff: posts the ante 150
+4f5fb492: posts the ante 150
+8a29d9b7: posts the ante 150
+5f72a5a9: posts the ante 150
+Hero: posts the ante 150
+d7626c9: posts small blind 500
+8a29d9b7: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to 2f5d19ff 
+Dealt to 6a90e5f3 
+Dealt to 5f72a5a9 
+Dealt to Hero [8s Ks]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+f9b496cf: folds
+4f5fb492: folds
+2f5d19ff: folds
+6a90e5f3: folds
+5f72a5a9: calls 1,000
+Hero: folds
+d7626c9: calls 500
+8a29d9b7: checks
+*** FLOP *** [2h 6d 4d]
+d7626c9: checks
+8a29d9b7: checks
+5f72a5a9: bets 1,386
+d7626c9: folds
+8a29d9b7: raises 3,486 to 4,872
+5f72a5a9: calls 3,486
+*** TURN *** [2h 6d 4d] [Jh]
+8a29d9b7: bets 7,035 and is all-in
+5f72a5a9: folds
+Uncalled bet (7,035) returned to 8a29d9b7
+*** SHOWDOWN ***
+8a29d9b7 collected 13,944 from pot
+*** SUMMARY ***
+Total pot 13,944 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2h 6d 4d Jh]
+Seat 1: f9b496cf folded before Flop
+Seat 2: 4f5fb492 folded before Flop
+Seat 3: 2f5d19ff folded before Flop
+Seat 4: 6a90e5f3 folded before Flop
+Seat 5: 5f72a5a9 folded on the Turn
+Seat 6: Hero (button) folded before Flop
+Seat 7: d7626c9 (small blind) folded on the Flop
+Seat 8: 8a29d9b7 (big blind) won (13,944)
+
+
+Poker Hand #TM3516167058: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level13(500/1,000) - 2024/07/24 21:09:52
+Table '15' 8-max Seat #5 is the button
+Seat 1: f9b496cf (20,665 in chips)
+Seat 2: 4f5fb492 (4,804 in chips)
+Seat 3: 2f5d19ff (38,093 in chips)
+Seat 5: 5f72a5a9 (11,615 in chips)
+Seat 6: Hero (19,800 in chips)
+Seat 7: d7626c9 (6,790 in chips)
+Seat 8: 8a29d9b7 (13,207 in chips)
+d7626c9: posts the ante 150
+f9b496cf: posts the ante 150
+2f5d19ff: posts the ante 150
+4f5fb492: posts the ante 150
+8a29d9b7: posts the ante 150
+5f72a5a9: posts the ante 150
+Hero: posts the ante 150
+Hero: posts small blind 500
+d7626c9: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to 2f5d19ff 
+Dealt to 5f72a5a9 
+Dealt to Hero [5d Qs]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+8a29d9b7: folds
+f9b496cf: folds
+4f5fb492: folds
+2f5d19ff: folds
+5f72a5a9: folds
+Hero: folds
+Uncalled bet (500) returned to d7626c9
+*** SHOWDOWN ***
+d7626c9 collected 2,050 from pot
+*** SUMMARY ***
+Total pot 2,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f9b496cf folded before Flop
+Seat 2: 4f5fb492 folded before Flop
+Seat 3: 2f5d19ff folded before Flop
+Seat 5: 5f72a5a9 (button) folded before Flop
+Seat 6: Hero (small blind) folded before Flop
+Seat 7: d7626c9 (big blind) collected (2,050)
+Seat 8: 8a29d9b7 folded before Flop
+
+
+Poker Hand #TM3516166880: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level13(500/1,000) - 2024/07/24 21:08:12
+Table '15' 8-max Seat #4 is the button
+Seat 1: f9b496cf (20,815 in chips)
+Seat 2: 4f5fb492 (4,954 in chips)
+Seat 3: 2f5d19ff (38,243 in chips)
+Seat 4: ed526fc3 (14,137 in chips)
+Seat 5: 5f72a5a9 (12,765 in chips)
+Seat 6: Hero (17,750 in chips)
+Seat 7: d7626c9 (6,940 in chips)
+Seat 8: 8a29d9b7 (13,357 in chips)
+ed526fc3: posts the ante 150
+d7626c9: posts the ante 150
+f9b496cf: posts the ante 150
+2f5d19ff: posts the ante 150
+4f5fb492: posts the ante 150
+8a29d9b7: posts the ante 150
+5f72a5a9: posts the ante 150
+Hero: posts the ante 150
+5f72a5a9: posts small blind 500
+Hero: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to 2f5d19ff 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Qc 4h]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+d7626c9: folds
+8a29d9b7: folds
+f9b496cf: folds
+4f5fb492: folds
+2f5d19ff: folds
+ed526fc3: folds
+5f72a5a9: calls 500
+Hero: checks
+*** FLOP *** [8d Js Th]
+5f72a5a9: checks
+Hero: checks
+*** TURN *** [8d Js Th] [9s]
+5f72a5a9: checks
+Hero: checks
+*** RIVER *** [8d Js Th 9s] [Td]
+5f72a5a9: checks
+Hero: bets 1,056
+5f72a5a9: folds
+Uncalled bet (1,056) returned to Hero
+*** SHOWDOWN ***
+Hero collected 3,200 from pot
+*** SUMMARY ***
+Total pot 3,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d Js Th 9s Td]
+Seat 1: f9b496cf folded before Flop
+Seat 2: 4f5fb492 folded before Flop
+Seat 3: 2f5d19ff folded before Flop
+Seat 4: ed526fc3 (button) folded before Flop
+Seat 5: 5f72a5a9 (small blind) folded on the River
+Seat 6: Hero (big blind) won (3,200)
+Seat 7: d7626c9 folded before Flop
+Seat 8: 8a29d9b7 folded before Flop
+
+
+Poker Hand #TM3516166766: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level13(500/1,000) - 2024/07/24 21:07:02
+Table '15' 8-max Seat #3 is the button
+Seat 1: f9b496cf (20,965 in chips)
+Seat 2: 4f5fb492 (5,104 in chips)
+Seat 3: 2f5d19ff (38,393 in chips)
+Seat 4: ed526fc3 (14,787 in chips)
+Seat 5: 5f72a5a9 (14,915 in chips)
+Seat 6: Hero (14,200 in chips)
+Seat 7: d7626c9 (7,090 in chips)
+Seat 8: 8a29d9b7 (13,507 in chips)
+d7626c9: posts the ante 150
+ed526fc3: posts the ante 150
+f9b496cf: posts the ante 150
+2f5d19ff: posts the ante 150
+4f5fb492: posts the ante 150
+8a29d9b7: posts the ante 150
+5f72a5a9: posts the ante 150
+Hero: posts the ante 150
+ed526fc3: posts small blind 500
+5f72a5a9: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to 2f5d19ff 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Jc Kh]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+Hero: calls 1,000
+d7626c9: folds
+8a29d9b7: folds
+f9b496cf: folds
+4f5fb492: folds
+2f5d19ff: folds
+ed526fc3: folds
+5f72a5a9: raises 1,000 to 2,000
+Hero: raises 12,050 to 14,050 and is all-in
+5f72a5a9: folds
+Uncalled bet (12,050) returned to Hero
+*** SHOWDOWN ***
+Hero collected 5,700 from pot
+*** SUMMARY ***
+Total pot 5,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f9b496cf folded before Flop
+Seat 2: 4f5fb492 folded before Flop
+Seat 3: 2f5d19ff (button) folded before Flop
+Seat 4: ed526fc3 (small blind) folded before Flop
+Seat 5: 5f72a5a9 (big blind) folded before Flop
+Seat 6: Hero collected (5,700)
+Seat 7: d7626c9 folded before Flop
+Seat 8: 8a29d9b7 folded before Flop
+
+
+Poker Hand #TM3516166663: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level13(500/1,000) - 2024/07/24 21:06:05
+Table '15' 8-max Seat #2 is the button
+Seat 1: f9b496cf (21,115 in chips)
+Seat 2: 4f5fb492 (5,254 in chips)
+Seat 3: 2f5d19ff (34,343 in chips)
+Seat 4: ed526fc3 (15,937 in chips)
+Seat 5: 5f72a5a9 (16,065 in chips)
+Seat 6: Hero (14,350 in chips)
+Seat 7: d7626c9 (7,240 in chips)
+Seat 8: 8a29d9b7 (14,657 in chips)
+d7626c9: posts the ante 150
+ed526fc3: posts the ante 150
+f9b496cf: posts the ante 150
+4f5fb492: posts the ante 150
+2f5d19ff: posts the ante 150
+8a29d9b7: posts the ante 150
+5f72a5a9: posts the ante 150
+Hero: posts the ante 150
+2f5d19ff: posts small blind 500
+ed526fc3: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to 2f5d19ff 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [5s 4d]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+5f72a5a9: calls 1,000
+Hero: folds
+d7626c9: folds
+8a29d9b7: calls 1,000
+f9b496cf: folds
+4f5fb492: folds
+2f5d19ff: calls 500
+ed526fc3: checks
+*** FLOP *** [8c 6h Kc]
+2f5d19ff: bets 5,200
+ed526fc3: folds
+5f72a5a9: folds
+8a29d9b7: folds
+Uncalled bet (5,200) returned to 2f5d19ff
+*** SHOWDOWN ***
+2f5d19ff collected 5,200 from pot
+*** SUMMARY ***
+Total pot 5,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c 6h Kc]
+Seat 1: f9b496cf folded before Flop
+Seat 2: 4f5fb492 (button) folded before Flop
+Seat 3: 2f5d19ff (small blind) won (5,200)
+Seat 4: ed526fc3 (big blind) folded on the Flop
+Seat 5: 5f72a5a9 folded on the Flop
+Seat 6: Hero folded before Flop
+Seat 7: d7626c9 folded before Flop
+Seat 8: 8a29d9b7 folded on the Flop
+
+
+Poker Hand #TM3516166574: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level12(400/800) - 2024/07/24 21:05:12
+Table '15' 8-max Seat #1 is the button
+Seat 1: f9b496cf (21,235 in chips)
+Seat 2: 4f5fb492 (5,774 in chips)
+Seat 3: 2f5d19ff (35,263 in chips)
+Seat 4: ed526fc3 (16,057 in chips)
+Seat 5: 5f72a5a9 (16,185 in chips)
+Seat 6: Hero (14,470 in chips)
+Seat 7: d7626c9 (7,360 in chips)
+Seat 8: 8a29d9b7 (12,617 in chips)
+d7626c9: posts the ante 120
+ed526fc3: posts the ante 120
+f9b496cf: posts the ante 120
+2f5d19ff: posts the ante 120
+4f5fb492: posts the ante 120
+8a29d9b7: posts the ante 120
+5f72a5a9: posts the ante 120
+Hero: posts the ante 120
+4f5fb492: posts small blind 400
+2f5d19ff: posts big blind 800
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to 2f5d19ff 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Qs 2h]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+ed526fc3: folds
+5f72a5a9: folds
+Hero: folds
+d7626c9: folds
+8a29d9b7: raises 1,000 to 1,800
+f9b496cf: folds
+4f5fb492: folds
+2f5d19ff: folds
+Uncalled bet (1,000) returned to 8a29d9b7
+*** SHOWDOWN ***
+8a29d9b7 collected 2,960 from pot
+*** SUMMARY ***
+Total pot 2,960 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f9b496cf (button) folded before Flop
+Seat 2: 4f5fb492 (small blind) folded before Flop
+Seat 3: 2f5d19ff (big blind) folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: d7626c9 folded before Flop
+Seat 8: 8a29d9b7 collected (2,960)
+
+
+Poker Hand #TM3516166435: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level12(400/800) - 2024/07/24 21:03:55
+Table '15' 8-max Seat #8 is the button
+Seat 1: f9b496cf (21,755 in chips)
+Seat 2: 4f5fb492 (6,694 in chips)
+Seat 3: 2f5d19ff (31,623 in chips)
+Seat 4: ed526fc3 (16,177 in chips)
+Seat 5: 5f72a5a9 (17,905 in chips)
+Seat 6: Hero (14,590 in chips)
+Seat 7: d7626c9 (7,480 in chips)
+Seat 8: 8a29d9b7 (12,737 in chips)
+d7626c9: posts the ante 120
+ed526fc3: posts the ante 120
+f9b496cf: posts the ante 120
+2f5d19ff: posts the ante 120
+4f5fb492: posts the ante 120
+8a29d9b7: posts the ante 120
+5f72a5a9: posts the ante 120
+Hero: posts the ante 120
+f9b496cf: posts small blind 400
+4f5fb492: posts big blind 800
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to 2f5d19ff 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Ac 7c]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+2f5d19ff: raises 800 to 1,600
+ed526fc3: folds
+5f72a5a9: calls 1,600
+Hero: folds
+d7626c9: folds
+8a29d9b7: folds
+f9b496cf: folds
+4f5fb492: folds
+*** FLOP *** [9d 2h 4c]
+2f5d19ff: bets 1,769
+5f72a5a9: folds
+Uncalled bet (1,769) returned to 2f5d19ff
+2f5d19ff: shows [As]
+*** SHOWDOWN ***
+2f5d19ff collected 5,360 from pot
+*** SUMMARY ***
+Total pot 5,360 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9d 2h 4c]
+Seat 1: f9b496cf (small blind) folded before Flop
+Seat 2: 4f5fb492 (big blind) folded before Flop
+Seat 3: 2f5d19ff showed [As] and won (5,360)
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded on the Flop
+Seat 6: Hero folded before Flop
+Seat 7: d7626c9 folded before Flop
+Seat 8: 8a29d9b7 (button) folded before Flop
+
+
+Poker Hand #TM3516166276: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level12(400/800) - 2024/07/24 21:02:47
+Table '15' 8-max Seat #7 is the button
+Seat 1: f9b496cf (19,315 in chips)
+Seat 2: 4f5fb492 (6,814 in chips)
+Seat 3: 2f5d19ff (31,743 in chips)
+Seat 4: ed526fc3 (16,297 in chips)
+Seat 5: 5f72a5a9 (18,025 in chips)
+Seat 6: Hero (14,710 in chips)
+Seat 7: d7626c9 (8,400 in chips)
+Seat 8: 8a29d9b7 (13,657 in chips)
+d7626c9: posts the ante 120
+ed526fc3: posts the ante 120
+f9b496cf: posts the ante 120
+2f5d19ff: posts the ante 120
+4f5fb492: posts the ante 120
+8a29d9b7: posts the ante 120
+5f72a5a9: posts the ante 120
+Hero: posts the ante 120
+8a29d9b7: posts small blind 400
+f9b496cf: posts big blind 800
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to 2f5d19ff 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [As 9d]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+4f5fb492: folds
+2f5d19ff: folds
+ed526fc3: folds
+5f72a5a9: folds
+Hero: folds
+d7626c9: calls 800
+8a29d9b7: calls 400
+f9b496cf: raises 12,533 to 13,333
+d7626c9: folds
+8a29d9b7: folds
+Uncalled bet (12,533) returned to f9b496cf
+*** SHOWDOWN ***
+f9b496cf collected 3,360 from pot
+*** SUMMARY ***
+Total pot 3,360 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f9b496cf (big blind) collected (3,360)
+Seat 2: 4f5fb492 folded before Flop
+Seat 3: 2f5d19ff folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: d7626c9 (button) folded before Flop
+Seat 8: 8a29d9b7 (small blind) folded before Flop
+
+
+Poker Hand #TM3516166257: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level12(400/800) - 2024/07/24 21:01:28
+Table '15' 8-max Seat #6 is the button
+Seat 1: f9b496cf (17,395 in chips)
+Seat 2: 4f5fb492 (6,934 in chips)
+Seat 4: ed526fc3 (16,417 in chips)
+Seat 5: 5f72a5a9 (18,145 in chips)
+Seat 6: Hero (14,830 in chips)
+Seat 7: d7626c9 (8,920 in chips)
+Seat 8: 8a29d9b7 (14,577 in chips)
+ed526fc3: posts the ante 120
+d7626c9: posts the ante 120
+f9b496cf: posts the ante 120
+4f5fb492: posts the ante 120
+8a29d9b7: posts the ante 120
+5f72a5a9: posts the ante 120
+Hero: posts the ante 120
+d7626c9: posts small blind 400
+8a29d9b7: posts big blind 800
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Js Kc]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+f9b496cf: raises 10,311 to 11,111
+4f5fb492: folds
+ed526fc3: folds
+5f72a5a9: folds
+Hero: folds
+d7626c9: folds
+8a29d9b7: folds
+Uncalled bet (10,311) returned to f9b496cf
+*** SHOWDOWN ***
+f9b496cf collected 2,840 from pot
+*** SUMMARY ***
+Total pot 2,840 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f9b496cf collected (2,840)
+Seat 2: 4f5fb492 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero (button) folded before Flop
+Seat 7: d7626c9 (small blind) folded before Flop
+Seat 8: 8a29d9b7 (big blind) folded before Flop
+
+
+Poker Hand #TM3516166246: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level12(400/800) - 2024/07/24 21:00:43
+Table '15' 8-max Seat #5 is the button
+Seat 1: f9b496cf (17,515 in chips)
+Seat 2: 4f5fb492 (7,054 in chips)
+Seat 3: ad426fe5 (4,800 in chips)
+Seat 4: ed526fc3 (16,537 in chips)
+Seat 5: 5f72a5a9 (18,265 in chips)
+Seat 6: Hero (15,350 in chips)
+Seat 7: d7626c9 (7,680 in chips)
+Seat 8: 8a29d9b7 (14,697 in chips)
+ed526fc3: posts the ante 120
+d7626c9: posts the ante 120
+f9b496cf: posts the ante 120
+4f5fb492: posts the ante 120
+ad426fe5: posts the ante 120
+8a29d9b7: posts the ante 120
+5f72a5a9: posts the ante 120
+Hero: posts the ante 120
+Hero: posts small blind 400
+d7626c9: posts big blind 800
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Ad 6c]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+8a29d9b7: folds
+f9b496cf: folds
+4f5fb492: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: folds
+Hero: folds
+Uncalled bet (400) returned to d7626c9
+*** SHOWDOWN ***
+d7626c9 collected 1,760 from pot
+*** SUMMARY ***
+Total pot 1,760 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f9b496cf folded before Flop
+Seat 2: 4f5fb492 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 (button) folded before Flop
+Seat 6: Hero (small blind) folded before Flop
+Seat 7: d7626c9 (big blind) collected (1,760)
+Seat 8: 8a29d9b7 folded before Flop
+
+
+Poker Hand #TM3516166192: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level11(350/700) - 2024/07/24 20:54:28
+Table '15' 8-max Seat #4 is the button
+Seat 1: f9b496cf (17,615 in chips)
+Seat 2: 4f5fb492 (7,154 in chips)
+Seat 3: ad426fe5 (4,900 in chips)
+Seat 4: ed526fc3 (16,637 in chips)
+Seat 5: 5f72a5a9 (16,165 in chips)
+Seat 6: Hero (16,150 in chips)
+Seat 7: d7626c9 (8,480 in chips)
+Seat 8: 8a29d9b7 (14,797 in chips)
+ed526fc3: posts the ante 100
+d7626c9: posts the ante 100
+f9b496cf: posts the ante 100
+4f5fb492: posts the ante 100
+ad426fe5: posts the ante 100
+8a29d9b7: posts the ante 100
+5f72a5a9: posts the ante 100
+Hero: posts the ante 100
+5f72a5a9: posts small blind 350
+Hero: posts big blind 700
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [2h 3s]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+d7626c9: calls 700
+8a29d9b7: folds
+f9b496cf: folds
+4f5fb492: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: calls 350
+Hero: checks
+*** FLOP *** [2d Jd 4h]
+5f72a5a9: bets 1,450
+Hero: folds
+d7626c9: folds
+Uncalled bet (1,450) returned to 5f72a5a9
+*** SHOWDOWN ***
+5f72a5a9 collected 2,900 from pot
+*** SUMMARY ***
+Total pot 2,900 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2d Jd 4h]
+Seat 1: f9b496cf folded before Flop
+Seat 2: 4f5fb492 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 (button) folded before Flop
+Seat 5: 5f72a5a9 (small blind) won (2,900)
+Seat 6: Hero (big blind) folded on the Flop
+Seat 7: d7626c9 folded on the Flop
+Seat 8: 8a29d9b7 folded before Flop
+
+
+Poker Hand #TM3516166097: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level11(350/700) - 2024/07/24 20:53:33
+Table '15' 8-max Seat #3 is the button
+Seat 1: f9b496cf (17,715 in chips)
+Seat 2: 4f5fb492 (7,254 in chips)
+Seat 3: ad426fe5 (5,000 in chips)
+Seat 4: ed526fc3 (9,637 in chips)
+Seat 5: 5f72a5a9 (16,965 in chips)
+Seat 6: Hero (16,250 in chips)
+Seat 7: d7626c9 (11,380 in chips)
+Seat 8: 8a29d9b7 (17,697 in chips)
+d7626c9: posts the ante 100
+ed526fc3: posts the ante 100
+f9b496cf: posts the ante 100
+4f5fb492: posts the ante 100
+ad426fe5: posts the ante 100
+8a29d9b7: posts the ante 100
+5f72a5a9: posts the ante 100
+Hero: posts the ante 100
+ed526fc3: posts small blind 350
+5f72a5a9: posts big blind 700
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [4d Qd]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+Hero: folds
+d7626c9: calls 700
+8a29d9b7: calls 700
+f9b496cf: folds
+4f5fb492: folds
+ad426fe5: folds
+ed526fc3: raises 2,100 to 2,800
+5f72a5a9: folds
+d7626c9: calls 2,100
+8a29d9b7: calls 2,100
+*** FLOP *** [Kd As Tc]
+ed526fc3: bets 6,737 and is all-in
+d7626c9: folds
+8a29d9b7: folds
+Uncalled bet (6,737) returned to ed526fc3
+*** SHOWDOWN ***
+ed526fc3 collected 9,900 from pot
+*** SUMMARY ***
+Total pot 9,900 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kd As Tc]
+Seat 1: f9b496cf folded before Flop
+Seat 2: 4f5fb492 folded before Flop
+Seat 3: ad426fe5 (button) folded before Flop
+Seat 4: ed526fc3 (small blind) won (9,900)
+Seat 5: 5f72a5a9 (big blind) folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: d7626c9 folded on the Flop
+Seat 8: 8a29d9b7 folded on the Flop
+
+
+Poker Hand #TM3516165946: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level11(350/700) - 2024/07/24 20:52:07
+Table '15' 8-max Seat #2 is the button
+Seat 1: f9b496cf (17,815 in chips)
+Seat 2: 4f5fb492 (7,354 in chips)
+Seat 3: ad426fe5 (971 in chips)
+Seat 4: ed526fc3 (10,437 in chips)
+Seat 5: 5f72a5a9 (14,694 in chips)
+Seat 6: Hero (16,350 in chips)
+Seat 7: d7626c9 (11,480 in chips)
+Seat 8: 8a29d9b7 (17,797 in chips)
+d7626c9: posts the ante 100
+ed526fc3: posts the ante 100
+f9b496cf: posts the ante 100
+4f5fb492: posts the ante 100
+ad426fe5: posts the ante 100
+8a29d9b7: posts the ante 100
+5f72a5a9: posts the ante 100
+Hero: posts the ante 100
+ad426fe5: posts small blind 350
+ed526fc3: posts big blind 700
+*** HOLE CARDS ***
+Dealt to f9b496cf 
+Dealt to 4f5fb492 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [7h 2c]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+5f72a5a9: raises 700 to 1,400
+Hero: folds
+d7626c9: folds
+8a29d9b7: folds
+f9b496cf: folds
+4f5fb492: folds
+ad426fe5: calls 521 and is all-in
+ed526fc3: folds
+Uncalled bet (529) returned to 5f72a5a9
+5f72a5a9: shows [Qs Jh]
+ad426fe5: shows [2s Jd]
+*** FLOP *** [3c Tc As]
+*** TURN *** [3c Tc As] [5d]
+*** RIVER *** [3c Tc As 5d] [Ks]
+*** SHOWDOWN ***
+5f72a5a9 collected 3,242 from pot
+*** SUMMARY ***
+Total pot 3,242 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c Tc As 5d Ks]
+Seat 1: f9b496cf folded before Flop
+Seat 2: 4f5fb492 (button) folded before Flop
+Seat 3: ad426fe5 (small blind) showed [2s Jd] and lost with Ace-High
+Seat 4: ed526fc3 (big blind) folded before Flop
+Seat 5: 5f72a5a9 showed [Qs Jh] and won (3,242) with Aces-High Straight
+Seat 6: Hero folded before Flop
+Seat 7: d7626c9 folded before Flop
+Seat 8: 8a29d9b7 folded before Flop
+
+
+Poker Hand #TM3516165862: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level11(350/700) - 2024/07/24 20:51:14
+Table '15' 8-max Seat #8 is the button
+Seat 2: 4f5fb492 (8,154 in chips)
+Seat 3: ad426fe5 (5,761 in chips)
+Seat 4: ed526fc3 (10,537 in chips)
+Seat 5: 5f72a5a9 (15,494 in chips)
+Seat 6: Hero (16,450 in chips)
+Seat 7: d7626c9 (4,790 in chips)
+Seat 8: 8a29d9b7 (17,897 in chips)
+d7626c9: posts the ante 100
+ed526fc3: posts the ante 100
+4f5fb492: posts the ante 100
+ad426fe5: posts the ante 100
+8a29d9b7: posts the ante 100
+5f72a5a9: posts the ante 100
+Hero: posts the ante 100
+4f5fb492: posts small blind 350
+ad426fe5: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 4f5fb492 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [7s Ah]
+Dealt to d7626c9 
+Dealt to 8a29d9b7 
+ed526fc3: folds
+5f72a5a9: calls 700
+Hero: folds
+d7626c9: calls 700
+8a29d9b7: folds
+4f5fb492: calls 350
+ad426fe5: raises 4,961 to 5,661 and is all-in
+5f72a5a9: folds
+d7626c9: calls 3,990 and is all-in
+4f5fb492: folds
+Uncalled bet (971) returned to ad426fe5
+ad426fe5: shows [9d Ad]
+d7626c9: shows [Ac Jc]
+*** FLOP *** [Kh 8s Ks]
+*** TURN *** [Kh 8s Ks] [2c]
+*** RIVER *** [Kh 8s Ks 2c] [6s]
+Hero: shows [Ah] (Pair of Kings)
+*** SHOWDOWN ***
+d7626c9 collected 11,480 from pot
+*** SUMMARY ***
+Total pot 11,480 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kh 8s Ks 2c 6s]
+Seat 2: 4f5fb492 (small blind) folded before Flop
+Seat 3: ad426fe5 (big blind) showed [9d Ad] and lost with Pair of Kings
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: d7626c9 showed [Ac Jc] and won (11,480) with Pair of Kings
+Seat 8: 8a29d9b7 (button) folded before Flop
+
+
+Poker Hand #TM3516165744: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level11(350/700) - 2024/07/24 20:50:06
+Table '15' 8-max Seat #6 is the button
+Seat 1: deb9446e (6,224 in chips)
+Seat 2: 4f5fb492 (8,254 in chips)
+Seat 3: ad426fe5 (5,861 in chips)
+Seat 4: ed526fc3 (10,637 in chips)
+Seat 5: 5f72a5a9 (15,594 in chips)
+Seat 6: Hero (17,950 in chips)
+Seat 8: 8a29d9b7 (9,773 in chips)
+ed526fc3: posts the ante 100
+deb9446e: posts the ante 100
+4f5fb492: posts the ante 100
+ad426fe5: posts the ante 100
+8a29d9b7: posts the ante 100
+5f72a5a9: posts the ante 100
+Hero: posts the ante 100
+8a29d9b7: posts small blind 350
+deb9446e: posts big blind 700
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to 4f5fb492 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [8h 9h]
+Dealt to 8a29d9b7 
+4f5fb492: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: folds
+Hero: raises 700 to 1,400
+8a29d9b7: raises 2,100 to 3,500
+deb9446e: raises 2,624 to 6,124 and is all-in
+Hero: folds
+8a29d9b7: calls 2,624
+deb9446e: shows [9d 9c]
+8a29d9b7: shows [Ts Tc]
+*** FLOP *** [6h 6d 2c]
+*** TURN *** [6h 6d 2c] [7c]
+*** RIVER *** [6h 6d 2c 7c] [7h]
+ad426fe5: shows [6s] (Sixes Full over Sevens)
+Hero: shows [9h] (Pair of Sevens and Pair of Sixes)
+*** SHOWDOWN ***
+8a29d9b7 collected 14,348 from pot
+*** SUMMARY ***
+Total pot 14,348 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 6d 2c 7c 7h]
+Seat 1: deb9446e (big blind) showed [9d 9c] and lost with Pair of Nines and Pair of Sevens
+Seat 2: 4f5fb492 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero (button) folded before Flop
+Seat 8: 8a29d9b7 (small blind) showed [Ts Tc] and won (14,348) with Pair of Tens and Pair of Sevens
+
+
+Poker Hand #TM3516165644: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level10(300/600) - 2024/07/24 20:49:05
+Table '15' 8-max Seat #5 is the button
+Seat 1: deb9446e (6,314 in chips)
+Seat 2: 4f5fb492 (8,944 in chips)
+Seat 3: ad426fe5 (5,951 in chips)
+Seat 4: ed526fc3 (10,727 in chips)
+Seat 5: 5f72a5a9 (13,254 in chips)
+Seat 6: Hero (18,640 in chips)
+Seat 8: 8a29d9b7 (10,463 in chips)
+ed526fc3: posts the ante 90
+deb9446e: posts the ante 90
+4f5fb492: posts the ante 90
+ad426fe5: posts the ante 90
+8a29d9b7: posts the ante 90
+5f72a5a9: posts the ante 90
+Hero: posts the ante 90
+Hero: posts small blind 300
+8a29d9b7: posts big blind 600
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to 4f5fb492 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Kd 3d]
+Dealt to 8a29d9b7 
+deb9446e: folds
+4f5fb492: calls 600
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: calls 600
+Hero: calls 300
+8a29d9b7: checks
+*** FLOP *** [Ts 6h 2c]
+Hero: checks
+8a29d9b7: checks
+4f5fb492: checks
+5f72a5a9: bets 1,000
+Hero: folds
+8a29d9b7: folds
+4f5fb492: folds
+Uncalled bet (1,000) returned to 5f72a5a9
+*** SHOWDOWN ***
+5f72a5a9 collected 3,030 from pot
+*** SUMMARY ***
+Total pot 3,030 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 6h 2c]
+Seat 1: deb9446e folded before Flop
+Seat 2: 4f5fb492 folded on the Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 (button) won (3,030)
+Seat 6: Hero (small blind) folded on the Flop
+Seat 8: 8a29d9b7 (big blind) folded on the Flop
+
+
+Poker Hand #TM3516165611: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level10(300/600) - 2024/07/24 20:48:44
+Table '15' 8-max Seat #4 is the button
+Seat 1: deb9446e (6,404 in chips)
+Seat 2: 4f5fb492 (9,034 in chips)
+Seat 3: ad426fe5 (6,041 in chips)
+Seat 4: ed526fc3 (8,597 in chips)
+Seat 5: 5f72a5a9 (13,644 in chips)
+Seat 6: Hero (19,330 in chips)
+Seat 7: 77b2c4a3 (14,265 in chips)
+Seat 8: 8a29d9b7 (10,553 in chips)
+ed526fc3: posts the ante 90
+77b2c4a3: posts the ante 90
+deb9446e: posts the ante 90
+4f5fb492: posts the ante 90
+ad426fe5: posts the ante 90
+8a29d9b7: posts the ante 90
+5f72a5a9: posts the ante 90
+Hero: posts the ante 90
+5f72a5a9: posts small blind 300
+Hero: posts big blind 600
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to 4f5fb492 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Qs 4h]
+Dealt to 77b2c4a3 
+Dealt to 8a29d9b7 
+77b2c4a3: calls 600
+8a29d9b7: folds
+deb9446e: folds
+4f5fb492: folds
+ad426fe5: folds
+ed526fc3: raises 7,907 to 8,507 and is all-in
+5f72a5a9: folds
+Hero: folds
+77b2c4a3: folds
+Uncalled bet (7,907) returned to ed526fc3
+*** SHOWDOWN ***
+ed526fc3 collected 2,820 from pot
+*** SUMMARY ***
+Total pot 2,820 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e folded before Flop
+Seat 2: 4f5fb492 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 (button) collected (2,820)
+Seat 5: 5f72a5a9 (small blind) folded before Flop
+Seat 6: Hero (big blind) folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: 8a29d9b7 folded before Flop
+
+
+Poker Hand #TM3516165512: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level10(300/600) - 2024/07/24 20:47:52
+Table '15' 8-max Seat #3 is the button
+Seat 1: deb9446e (6,494 in chips)
+Seat 2: 4f5fb492 (9,124 in chips)
+Seat 3: ad426fe5 (6,131 in chips)
+Seat 4: ed526fc3 (10,487 in chips)
+Seat 5: 5f72a5a9 (11,214 in chips)
+Seat 6: Hero (19,420 in chips)
+Seat 7: 77b2c4a3 (14,355 in chips)
+Seat 8: 8a29d9b7 (10,643 in chips)
+77b2c4a3: posts the ante 90
+ed526fc3: posts the ante 90
+deb9446e: posts the ante 90
+4f5fb492: posts the ante 90
+ad426fe5: posts the ante 90
+8a29d9b7: posts the ante 90
+5f72a5a9: posts the ante 90
+Hero: posts the ante 90
+ed526fc3: posts small blind 300
+5f72a5a9: posts big blind 600
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to 4f5fb492 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Qd 6h]
+Dealt to 77b2c4a3 
+Dealt to 8a29d9b7 
+Hero: folds
+77b2c4a3: folds
+8a29d9b7: folds
+deb9446e: folds
+4f5fb492: folds
+ad426fe5: folds
+ed526fc3: calls 300
+5f72a5a9: raises 1,200 to 1,800
+ed526fc3: calls 1,200
+*** FLOP *** [Td Ts Ad]
+ed526fc3: checks
+5f72a5a9: bets 2,160
+ed526fc3: folds
+Uncalled bet (2,160) returned to 5f72a5a9
+*** SHOWDOWN ***
+5f72a5a9 collected 4,320 from pot
+*** SUMMARY ***
+Total pot 4,320 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Td Ts Ad]
+Seat 1: deb9446e folded before Flop
+Seat 2: 4f5fb492 folded before Flop
+Seat 3: ad426fe5 (button) folded before Flop
+Seat 4: ed526fc3 (small blind) folded on the Flop
+Seat 5: 5f72a5a9 (big blind) won (4,320)
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: 8a29d9b7 folded before Flop
+
+
+Poker Hand #TM3516165474: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level10(300/600) - 2024/07/24 20:47:23
+Table '15' 8-max Seat #1 is the button
+Seat 1: deb9446e (6,584 in chips)
+Seat 3: ad426fe5 (6,821 in chips)
+Seat 4: ed526fc3 (8,147 in chips)
+Seat 5: 5f72a5a9 (11,904 in chips)
+Seat 6: Hero (20,110 in chips)
+Seat 7: 77b2c4a3 (14,445 in chips)
+Seat 8: 8a29d9b7 (10,733 in chips)
+77b2c4a3: posts the ante 90
+ed526fc3: posts the ante 90
+deb9446e: posts the ante 90
+ad426fe5: posts the ante 90
+8a29d9b7: posts the ante 90
+5f72a5a9: posts the ante 90
+Hero: posts the ante 90
+ad426fe5: posts small blind 300
+ed526fc3: posts big blind 600
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [5h 5d]
+Dealt to 77b2c4a3 
+Dealt to 8a29d9b7 
+5f72a5a9: calls 600
+Hero: calls 600
+77b2c4a3: folds
+8a29d9b7: folds
+deb9446e: folds
+ad426fe5: calls 300
+ed526fc3: raises 7,457 to 8,057 and is all-in
+5f72a5a9: folds
+Hero: folds
+ad426fe5: folds
+Uncalled bet (7,457) returned to ed526fc3
+*** SHOWDOWN ***
+ed526fc3 collected 3,030 from pot
+*** SUMMARY ***
+Total pot 3,030 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e (button) folded before Flop
+Seat 3: ad426fe5 (small blind) folded before Flop
+Seat 4: ed526fc3 (big blind) collected (3,030)
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: 8a29d9b7 folded before Flop
+
+
+Poker Hand #TM3516165407: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level10(300/600) - 2024/07/24 20:46:39
+Table '15' 8-max Seat #8 is the button
+Seat 1: deb9446e (6,974 in chips)
+Seat 3: ad426fe5 (11,035 in chips)
+Seat 4: ed526fc3 (8,237 in chips)
+Seat 5: 5f72a5a9 (11,994 in chips)
+Seat 6: Hero (20,200 in chips)
+Seat 7: 77b2c4a3 (9,481 in chips)
+Seat 8: 8a29d9b7 (10,823 in chips)
+77b2c4a3: posts the ante 90
+ed526fc3: posts the ante 90
+deb9446e: posts the ante 90
+ad426fe5: posts the ante 90
+8a29d9b7: posts the ante 90
+5f72a5a9: posts the ante 90
+Hero: posts the ante 90
+deb9446e: posts small blind 300
+ad426fe5: posts big blind 600
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Ts 8d]
+Dealt to 77b2c4a3 
+Dealt to 8a29d9b7 
+ed526fc3: folds
+5f72a5a9: folds
+Hero: folds
+77b2c4a3: raises 600 to 1,200
+8a29d9b7: folds
+deb9446e: folds
+ad426fe5: calls 600
+*** FLOP *** [Js 4h 6d]
+ad426fe5: checks
+77b2c4a3: bets 1,099
+ad426fe5: raises 1,825 to 2,924
+77b2c4a3: raises 3,029 to 5,953
+ad426fe5: folds
+Uncalled bet (3,029) returned to 77b2c4a3
+*** SHOWDOWN ***
+77b2c4a3 collected 9,178 from pot
+*** SUMMARY ***
+Total pot 9,178 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js 4h 6d]
+Seat 1: deb9446e (small blind) folded before Flop
+Seat 3: ad426fe5 (big blind) folded on the Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 won (9,178)
+Seat 8: 8a29d9b7 (button) folded before Flop
+
+
+Poker Hand #TM3516165349: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level10(300/600) - 2024/07/24 20:46:09
+Table '15' 8-max Seat #7 is the button
+Seat 1: deb9446e (7,664 in chips)
+Seat 2: c28ea122 (1,568 in chips)
+Seat 3: ad426fe5 (11,125 in chips)
+Seat 4: ed526fc3 (8,327 in chips)
+Seat 5: 5f72a5a9 (10,464 in chips)
+Seat 6: Hero (20,290 in chips)
+Seat 7: 77b2c4a3 (9,571 in chips)
+Seat 8: 8a29d9b7 (11,213 in chips)
+77b2c4a3: posts the ante 90
+ed526fc3: posts the ante 90
+deb9446e: posts the ante 90
+c28ea122: posts the ante 90
+ad426fe5: posts the ante 90
+8a29d9b7: posts the ante 90
+5f72a5a9: posts the ante 90
+Hero: posts the ante 90
+8a29d9b7: posts small blind 300
+deb9446e: posts big blind 600
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [6c Ad]
+Dealt to 77b2c4a3 
+Dealt to 8a29d9b7 
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: calls 600
+Hero: folds
+77b2c4a3: folds
+8a29d9b7: folds
+deb9446e: checks
+*** FLOP *** [7c 8c 6s]
+deb9446e: checks
+5f72a5a9: bets 733
+deb9446e: folds
+Uncalled bet (733) returned to 5f72a5a9
+*** SHOWDOWN ***
+5f72a5a9 collected 2,220 from pot
+*** SUMMARY ***
+Total pot 2,220 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7c 8c 6s]
+Seat 1: deb9446e (big blind) folded on the Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 won (2,220)
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 (button) folded before Flop
+Seat 8: 8a29d9b7 (small blind) folded before Flop
+
+
+Poker Hand #TM3516165290: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level10(300/600) - 2024/07/24 20:45:32
+Table '15' 8-max Seat #6 is the button
+Seat 1: deb9446e (7,754 in chips)
+Seat 2: c28ea122 (1,658 in chips)
+Seat 3: ad426fe5 (11,215 in chips)
+Seat 4: ed526fc3 (12,839 in chips)
+Seat 5: 5f72a5a9 (4,512 in chips)
+Seat 6: Hero (20,380 in chips)
+Seat 7: 77b2c4a3 (9,961 in chips)
+Seat 8: 8a29d9b7 (11,903 in chips)
+ed526fc3: posts the ante 90
+77b2c4a3: posts the ante 90
+deb9446e: posts the ante 90
+c28ea122: posts the ante 90
+ad426fe5: posts the ante 90
+8a29d9b7: posts the ante 90
+5f72a5a9: posts the ante 90
+Hero: posts the ante 90
+77b2c4a3: posts small blind 300
+8a29d9b7: posts big blind 600
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [3h 5s]
+Dealt to 77b2c4a3 
+Dealt to 8a29d9b7 
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: raises 600 to 1,200
+5f72a5a9: raises 3,222 to 4,422 and is all-in
+Hero: folds
+77b2c4a3: folds
+8a29d9b7: folds
+ed526fc3: calls 3,222
+5f72a5a9: shows [6d 6h]
+ed526fc3: shows [Ah 2h]
+*** FLOP *** [9s 3s 4d]
+*** TURN *** [9s 3s 4d] [9d]
+*** RIVER *** [9s 3s 4d 9d] [8d]
+*** SHOWDOWN ***
+5f72a5a9 collected 10,464 from pot
+*** SUMMARY ***
+Total pot 10,464 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9s 3s 4d 9d 8d]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 showed [Ah 2h] and lost with Pair of Nines
+Seat 5: 5f72a5a9 showed [6d 6h] and won (10,464) with Pair of Nines and Pair of Sixes
+Seat 6: Hero (button) folded before Flop
+Seat 7: 77b2c4a3 (small blind) folded before Flop
+Seat 8: 8a29d9b7 (big blind) folded before Flop
+
+
+Poker Hand #TM3516165257: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level10(300/600) - 2024/07/24 20:45:13
+Table '15' 8-max Seat #5 is the button
+Seat 1: deb9446e (7,844 in chips)
+Seat 2: c28ea122 (1,748 in chips)
+Seat 3: ad426fe5 (11,305 in chips)
+Seat 4: ed526fc3 (12,929 in chips)
+Seat 5: 5f72a5a9 (4,602 in chips)
+Seat 6: Hero (20,770 in chips)
+Seat 7: 77b2c4a3 (9,121 in chips)
+ed526fc3: posts the ante 90
+77b2c4a3: posts the ante 90
+deb9446e: posts the ante 90
+c28ea122: posts the ante 90
+ad426fe5: posts the ante 90
+5f72a5a9: posts the ante 90
+Hero: posts the ante 90
+Hero: posts small blind 300
+77b2c4a3: posts big blind 600
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [5c 3d]
+Dealt to 77b2c4a3 
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: folds
+Hero: folds
+Uncalled bet (300) returned to 77b2c4a3
+*** SHOWDOWN ***
+77b2c4a3 collected 1,230 from pot
+*** SUMMARY ***
+Total pot 1,230 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 (button) folded before Flop
+Seat 6: Hero (small blind) folded before Flop
+Seat 7: 77b2c4a3 (big blind) collected (1,230)
+
+
+Poker Hand #TM3516165146: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level9(250/500) - 2024/07/24 20:44:05
+Table '15' 8-max Seat #4 is the button
+Seat 1: deb9446e (7,919 in chips)
+Seat 2: c28ea122 (1,823 in chips)
+Seat 3: ad426fe5 (11,380 in chips)
+Seat 4: ed526fc3 (13,004 in chips)
+Seat 5: 5f72a5a9 (4,927 in chips)
+Seat 6: Hero (17,542 in chips)
+Seat 7: 77b2c4a3 (9,196 in chips)
+Seat 8: feff6285 (2,528 in chips)
+ed526fc3: posts the ante 75
+77b2c4a3: posts the ante 75
+deb9446e: posts the ante 75
+c28ea122: posts the ante 75
+ad426fe5: posts the ante 75
+feff6285: posts the ante 75
+5f72a5a9: posts the ante 75
+Hero: posts the ante 75
+5f72a5a9: posts small blind 250
+Hero: posts big blind 500
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [As Qs]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+77b2c4a3: folds
+feff6285: raises 1,953 to 2,453 and is all-in
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: folds
+Hero: calls 1,953
+feff6285: shows [6h 2h]
+Hero: shows [As Qs]
+*** FLOP *** [Qd Ts 7c]
+*** TURN *** [Qd Ts 7c] [Ac]
+*** RIVER *** [Qd Ts 7c Ac] [3c]
+*** SHOWDOWN ***
+Hero collected 5,756 from pot
+*** SUMMARY ***
+Total pot 5,756 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd Ts 7c Ac 3c]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 (button) folded before Flop
+Seat 5: 5f72a5a9 (small blind) folded before Flop
+Seat 6: Hero (big blind) showed [As Qs] and won (5,756) with Pair of Aces and Pair of Queens
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: feff6285 showed [6h 2h] and lost with Ace-High
+
+
+Poker Hand #TM3516165105: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level9(250/500) - 2024/07/24 20:43:38
+Table '15' 8-max Seat #3 is the button
+Seat 1: deb9446e (7,994 in chips)
+Seat 2: c28ea122 (1,898 in chips)
+Seat 3: ad426fe5 (11,455 in chips)
+Seat 4: ed526fc3 (11,979 in chips)
+Seat 5: 5f72a5a9 (5,502 in chips)
+Seat 6: Hero (17,617 in chips)
+Seat 7: 77b2c4a3 (9,271 in chips)
+Seat 8: feff6285 (2,603 in chips)
+77b2c4a3: posts the ante 75
+ed526fc3: posts the ante 75
+deb9446e: posts the ante 75
+c28ea122: posts the ante 75
+ad426fe5: posts the ante 75
+feff6285: posts the ante 75
+5f72a5a9: posts the ante 75
+Hero: posts the ante 75
+ed526fc3: posts small blind 250
+5f72a5a9: posts big blind 500
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Kh Td]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+Hero: folds
+77b2c4a3: folds
+feff6285: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: calls 250
+5f72a5a9: checks
+*** FLOP *** [Qh As 4c]
+ed526fc3: bets 800
+5f72a5a9: folds
+Uncalled bet (800) returned to ed526fc3
+*** SHOWDOWN ***
+ed526fc3 collected 1,600 from pot
+*** SUMMARY ***
+Total pot 1,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qh As 4c]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 (button) folded before Flop
+Seat 4: ed526fc3 (small blind) won (1,600)
+Seat 5: 5f72a5a9 (big blind) folded on the Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: feff6285 folded before Flop
+
+
+Poker Hand #TM3516164960: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level9(250/500) - 2024/07/24 20:42:10
+Table '15' 8-max Seat #2 is the button
+Seat 1: deb9446e (8,069 in chips)
+Seat 2: c28ea122 (1,973 in chips)
+Seat 3: ad426fe5 (9,930 in chips)
+Seat 4: ed526fc3 (12,554 in chips)
+Seat 5: 5f72a5a9 (5,577 in chips)
+Seat 6: Hero (17,692 in chips)
+Seat 7: 77b2c4a3 (9,346 in chips)
+Seat 8: feff6285 (3,178 in chips)
+77b2c4a3: posts the ante 75
+ed526fc3: posts the ante 75
+deb9446e: posts the ante 75
+c28ea122: posts the ante 75
+ad426fe5: posts the ante 75
+feff6285: posts the ante 75
+5f72a5a9: posts the ante 75
+Hero: posts the ante 75
+ad426fe5: posts small blind 250
+ed526fc3: posts big blind 500
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [9h Kc]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+5f72a5a9: folds
+Hero: folds
+77b2c4a3: folds
+feff6285: calls 500
+deb9446e: folds
+c28ea122: folds
+ad426fe5: calls 250
+ed526fc3: checks
+*** FLOP *** [Kh Td Ts]
+ad426fe5: checks
+ed526fc3: checks
+feff6285: checks
+*** TURN *** [Kh Td Ts] [7d]
+ad426fe5: checks
+ed526fc3: checks
+feff6285: checks
+*** RIVER *** [Kh Td Ts 7d] [6c]
+ad426fe5: bets 693
+ed526fc3: folds
+feff6285: folds
+Uncalled bet (693) returned to ad426fe5
+*** SHOWDOWN ***
+ad426fe5 collected 2,100 from pot
+*** SUMMARY ***
+Total pot 2,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kh Td Ts 7d 6c]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 (button) folded before Flop
+Seat 3: ad426fe5 (small blind) won (2,100)
+Seat 4: ed526fc3 (big blind) folded on the River
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: feff6285 folded on the River
+
+
+Poker Hand #TM3516164875: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level9(250/500) - 2024/07/24 20:41:21
+Table '15' 8-max Seat #1 is the button
+Seat 1: deb9446e (8,144 in chips)
+Seat 2: c28ea122 (2,298 in chips)
+Seat 3: ad426fe5 (10,505 in chips)
+Seat 4: ed526fc3 (12,629 in chips)
+Seat 5: 5f72a5a9 (6,652 in chips)
+Seat 6: Hero (17,767 in chips)
+Seat 7: 77b2c4a3 (7,071 in chips)
+Seat 8: feff6285 (3,253 in chips)
+77b2c4a3: posts the ante 75
+ed526fc3: posts the ante 75
+deb9446e: posts the ante 75
+c28ea122: posts the ante 75
+ad426fe5: posts the ante 75
+feff6285: posts the ante 75
+5f72a5a9: posts the ante 75
+Hero: posts the ante 75
+c28ea122: posts small blind 250
+ad426fe5: posts big blind 500
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Ts 7h]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+ed526fc3: folds
+5f72a5a9: calls 500
+Hero: folds
+77b2c4a3: raises 500 to 1,000
+feff6285: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+5f72a5a9: calls 500
+*** FLOP *** [Jc Qc 7d]
+5f72a5a9: checks
+77b2c4a3: checks
+*** TURN *** [Jc Qc 7d] [6d]
+5f72a5a9: checks
+77b2c4a3: bets 1,106
+5f72a5a9: folds
+Uncalled bet (1,106) returned to 77b2c4a3
+*** SHOWDOWN ***
+77b2c4a3 collected 3,350 from pot
+*** SUMMARY ***
+Total pot 3,350 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jc Qc 7d 6d]
+Seat 1: deb9446e (button) folded before Flop
+Seat 2: c28ea122 (small blind) folded before Flop
+Seat 3: ad426fe5 (big blind) folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded on the Turn
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 won (3,350)
+Seat 8: feff6285 folded before Flop
+
+
+Poker Hand #TM3516164817: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level9(250/500) - 2024/07/24 20:40:45
+Table '15' 8-max Seat #8 is the button
+Seat 1: deb9446e (7,119 in chips)
+Seat 2: c28ea122 (2,873 in chips)
+Seat 3: ad426fe5 (10,580 in chips)
+Seat 4: ed526fc3 (12,704 in chips)
+Seat 5: 5f72a5a9 (6,727 in chips)
+Seat 6: Hero (17,842 in chips)
+Seat 7: 77b2c4a3 (7,146 in chips)
+Seat 8: feff6285 (3,328 in chips)
+77b2c4a3: posts the ante 75
+ed526fc3: posts the ante 75
+deb9446e: posts the ante 75
+c28ea122: posts the ante 75
+ad426fe5: posts the ante 75
+feff6285: posts the ante 75
+5f72a5a9: posts the ante 75
+Hero: posts the ante 75
+deb9446e: posts small blind 250
+c28ea122: posts big blind 500
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Td 5c]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: folds
+Hero: folds
+77b2c4a3: folds
+feff6285: folds
+deb9446e: raises 1,600 to 2,100
+c28ea122: folds
+Uncalled bet (1,600) returned to deb9446e
+*** SHOWDOWN ***
+deb9446e collected 1,600 from pot
+*** SUMMARY ***
+Total pot 1,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e (small blind) collected (1,600)
+Seat 2: c28ea122 (big blind) folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: feff6285 (button) folded before Flop
+
+
+Poker Hand #TM3516164723: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level8(200/400) - 2024/07/24 20:39:51
+Table '15' 8-max Seat #7 is the button
+Seat 1: deb9446e (7,579 in chips)
+Seat 2: c28ea122 (2,933 in chips)
+Seat 3: ad426fe5 (10,640 in chips)
+Seat 4: ed526fc3 (12,764 in chips)
+Seat 5: 5f72a5a9 (6,787 in chips)
+Seat 6: Hero (17,902 in chips)
+Seat 7: 77b2c4a3 (7,206 in chips)
+Seat 8: feff6285 (2,508 in chips)
+77b2c4a3: posts the ante 60
+ed526fc3: posts the ante 60
+deb9446e: posts the ante 60
+c28ea122: posts the ante 60
+ad426fe5: posts the ante 60
+feff6285: posts the ante 60
+5f72a5a9: posts the ante 60
+Hero: posts the ante 60
+feff6285: posts small blind 200
+deb9446e: posts big blind 400
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [6c 3h]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: folds
+Hero: folds
+77b2c4a3: folds
+feff6285: calls 200
+deb9446e: checks
+*** FLOP *** [2d 7h 3c]
+feff6285: checks
+deb9446e: checks
+*** TURN *** [2d 7h 3c] [Ac]
+feff6285: checks
+deb9446e: checks
+*** RIVER *** [2d 7h 3c Ac] [3s]
+feff6285: checks
+deb9446e: checks
+feff6285: shows [Js 8s] (Pair of Treys)
+deb9446e: shows [4c Jh] (Pair of Treys)
+*** SHOWDOWN ***
+feff6285 collected 1,280 from pot
+*** SUMMARY ***
+Total pot 1,280 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2d 7h 3c Ac 3s]
+Seat 1: deb9446e (big blind) showed [4c Jh] and lost with Pair of Treys
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 (button) folded before Flop
+Seat 8: feff6285 (small blind) showed [Js 8s] and won (1,280) with Pair of Treys
+
+
+Poker Hand #TM3516164688: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level8(200/400) - 2024/07/24 20:39:18
+Table '15' 8-max Seat #6 is the button
+Seat 1: deb9446e (8,839 in chips)
+Seat 2: c28ea122 (2,993 in chips)
+Seat 3: ad426fe5 (8,420 in chips)
+Seat 4: ed526fc3 (12,824 in chips)
+Seat 5: 5f72a5a9 (6,847 in chips)
+Seat 6: Hero (17,962 in chips)
+Seat 7: 77b2c4a3 (7,466 in chips)
+Seat 8: feff6285 (2,968 in chips)
+ed526fc3: posts the ante 60
+77b2c4a3: posts the ante 60
+deb9446e: posts the ante 60
+c28ea122: posts the ante 60
+ad426fe5: posts the ante 60
+feff6285: posts the ante 60
+5f72a5a9: posts the ante 60
+Hero: posts the ante 60
+77b2c4a3: posts small blind 200
+feff6285: posts big blind 400
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [2s Ks]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+deb9446e: raises 800 to 1,200
+c28ea122: folds
+ad426fe5: calls 1,200
+ed526fc3: folds
+5f72a5a9: folds
+Hero: folds
+77b2c4a3: folds
+feff6285: folds
+*** FLOP *** [8h 3h Tc]
+deb9446e: checks
+ad426fe5: bets 1,149
+deb9446e: folds
+Uncalled bet (1,149) returned to ad426fe5
+*** SHOWDOWN ***
+ad426fe5 collected 3,480 from pot
+*** SUMMARY ***
+Total pot 3,480 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8h 3h Tc]
+Seat 1: deb9446e folded on the Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 won (3,480)
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero (button) folded before Flop
+Seat 7: 77b2c4a3 (small blind) folded before Flop
+Seat 8: feff6285 (big blind) folded before Flop
+
+
+Poker Hand #TM3516164490: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level8(200/400) - 2024/07/24 20:37:16
+Table '15' 8-max Seat #5 is the button
+Seat 1: deb9446e (8,899 in chips)
+Seat 2: c28ea122 (3,053 in chips)
+Seat 3: ad426fe5 (8,480 in chips)
+Seat 4: ed526fc3 (12,884 in chips)
+Seat 5: 5f72a5a9 (4,540 in chips)
+Seat 6: Hero (18,422 in chips)
+Seat 7: 77b2c4a3 (7,926 in chips)
+Seat 8: feff6285 (4,115 in chips)
+ed526fc3: posts the ante 60
+77b2c4a3: posts the ante 60
+deb9446e: posts the ante 60
+c28ea122: posts the ante 60
+ad426fe5: posts the ante 60
+feff6285: posts the ante 60
+5f72a5a9: posts the ante 60
+Hero: posts the ante 60
+Hero: posts small blind 200
+77b2c4a3: posts big blind 400
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Qs 9s]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+feff6285: calls 400
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: calls 400
+Hero: calls 200
+77b2c4a3: checks
+*** FLOP *** [Ad Th 8h]
+Hero: checks
+77b2c4a3: checks
+feff6285: checks
+5f72a5a9: checks
+*** TURN *** [Ad Th 8h] [2c]
+Hero: checks
+77b2c4a3: checks
+feff6285: checks
+5f72a5a9: bets 687
+Hero: folds
+77b2c4a3: folds
+feff6285: calls 687
+*** RIVER *** [Ad Th 8h 2c] [Jd]
+feff6285: checks
+5f72a5a9: bets 1,140
+feff6285: folds
+Uncalled bet (1,140) returned to 5f72a5a9
+*** SHOWDOWN ***
+5f72a5a9 collected 3,454 from pot
+*** SUMMARY ***
+Total pot 3,454 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ad Th 8h 2c Jd]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 (button) won (3,454)
+Seat 6: Hero (small blind) folded on the Turn
+Seat 7: 77b2c4a3 (big blind) folded on the Turn
+Seat 8: feff6285 folded on the River
+
+
+Poker Hand #TM3516164364: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level8(200/400) - 2024/07/24 20:35:55
+Table '15' 8-max Seat #4 is the button
+Seat 1: deb9446e (8,959 in chips)
+Seat 2: c28ea122 (3,113 in chips)
+Seat 3: ad426fe5 (8,540 in chips)
+Seat 4: ed526fc3 (12,944 in chips)
+Seat 5: 5f72a5a9 (5,000 in chips)
+Seat 6: Hero (17,602 in chips)
+Seat 7: 77b2c4a3 (7,986 in chips)
+Seat 8: feff6285 (4,175 in chips)
+ed526fc3: posts the ante 60
+77b2c4a3: posts the ante 60
+deb9446e: posts the ante 60
+c28ea122: posts the ante 60
+ad426fe5: posts the ante 60
+feff6285: posts the ante 60
+5f72a5a9: posts the ante 60
+Hero: posts the ante 60
+5f72a5a9: posts small blind 200
+Hero: posts big blind 400
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Qd 7h]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+77b2c4a3: folds
+feff6285: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: calls 200
+Hero: checks
+*** FLOP *** [6s 9h Td]
+5f72a5a9: checks
+Hero: checks
+*** TURN *** [6s 9h Td] [9d]
+5f72a5a9: checks
+Hero: checks
+*** RIVER *** [6s 9h Td 9d] [Qh]
+5f72a5a9: checks
+Hero: bets 1,280
+5f72a5a9: folds
+Uncalled bet (1,280) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,280 from pot
+*** SUMMARY ***
+Total pot 1,280 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s 9h Td 9d Qh]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 (button) folded before Flop
+Seat 5: 5f72a5a9 (small blind) folded on the River
+Seat 6: Hero (big blind) won (1,280)
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: feff6285 folded before Flop
+
+
+Poker Hand #TM3516164250: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level7(150/300) - 2024/07/24 20:34:41
+Table '15' 8-max Seat #3 is the button
+Seat 1: deb9446e (9,004 in chips)
+Seat 2: c28ea122 (3,158 in chips)
+Seat 3: ad426fe5 (8,585 in chips)
+Seat 4: ed526fc3 (13,139 in chips)
+Seat 5: 5f72a5a9 (6,076 in chips)
+Seat 6: Hero (11,106 in chips)
+Seat 7: 77b2c4a3 (8,031 in chips)
+Seat 8: feff6285 (4,220 in chips)
+77b2c4a3: posts the ante 45
+ed526fc3: posts the ante 45
+deb9446e: posts the ante 45
+c28ea122: posts the ante 45
+ad426fe5: posts the ante 45
+feff6285: posts the ante 45
+5f72a5a9: posts the ante 45
+Hero: posts the ante 45
+ed526fc3: posts small blind 150
+5f72a5a9: posts big blind 300
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Kc Ks]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+Hero: raises 450 to 750
+77b2c4a3: folds
+feff6285: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: raises 5,281 to 6,031 and is all-in
+Hero: calls 5,281
+5f72a5a9: shows [Qh Qc]
+Hero: shows [Kc Ks]
+*** FLOP *** [Ah Jd Js]
+*** TURN *** [Ah Jd Js] [9h]
+*** RIVER *** [Ah Jd Js 9h] [2c]
+*** SHOWDOWN ***
+Hero collected 12,572 from pot
+*** SUMMARY ***
+Total pot 12,572 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ah Jd Js 9h 2c]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 (button) folded before Flop
+Seat 4: ed526fc3 (small blind) folded before Flop
+Seat 5: 5f72a5a9 (big blind) showed [Qh Qc] and lost with Pair of Queens and Pair of Jacks
+Seat 6: Hero showed [Kc Ks] and won (12,572) with Pair of Kings and Pair of Jacks
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: feff6285 folded before Flop
+
+
+Poker Hand #TM3516164160: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level7(150/300) - 2024/07/24 20:33:48
+Table '15' 8-max Seat #2 is the button
+Seat 1: deb9446e (9,049 in chips)
+Seat 2: c28ea122 (3,203 in chips)
+Seat 3: ad426fe5 (7,370 in chips)
+Seat 4: ed526fc3 (13,484 in chips)
+Seat 5: 5f72a5a9 (6,121 in chips)
+Seat 6: Hero (11,151 in chips)
+Seat 7: 77b2c4a3 (8,376 in chips)
+Seat 8: feff6285 (4,565 in chips)
+77b2c4a3: posts the ante 45
+ed526fc3: posts the ante 45
+deb9446e: posts the ante 45
+c28ea122: posts the ante 45
+ad426fe5: posts the ante 45
+feff6285: posts the ante 45
+5f72a5a9: posts the ante 45
+Hero: posts the ante 45
+ad426fe5: posts small blind 150
+ed526fc3: posts big blind 300
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Qh 3h]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+5f72a5a9: folds
+Hero: folds
+77b2c4a3: calls 300
+feff6285: calls 300
+deb9446e: folds
+c28ea122: folds
+ad426fe5: raises 1,500 to 1,800
+ed526fc3: folds
+77b2c4a3: folds
+feff6285: folds
+Uncalled bet (1,500) returned to ad426fe5
+*** SHOWDOWN ***
+ad426fe5 collected 1,560 from pot
+*** SUMMARY ***
+Total pot 1,560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 (button) folded before Flop
+Seat 3: ad426fe5 (small blind) collected (1,560)
+Seat 4: ed526fc3 (big blind) folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: feff6285 folded before Flop
+
+
+Poker Hand #TM3516164066: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level7(150/300) - 2024/07/24 20:32:48
+Table '15' 8-max Seat #1 is the button
+Seat 1: deb9446e (9,994 in chips)
+Seat 2: c28ea122 (3,398 in chips)
+Seat 3: ad426fe5 (6,005 in chips)
+Seat 4: ed526fc3 (13,529 in chips)
+Seat 5: 5f72a5a9 (6,166 in chips)
+Seat 6: Hero (11,196 in chips)
+Seat 7: 77b2c4a3 (8,421 in chips)
+Seat 8: feff6285 (4,610 in chips)
+77b2c4a3: posts the ante 45
+ed526fc3: posts the ante 45
+deb9446e: posts the ante 45
+c28ea122: posts the ante 45
+ad426fe5: posts the ante 45
+feff6285: posts the ante 45
+5f72a5a9: posts the ante 45
+Hero: posts the ante 45
+c28ea122: posts small blind 150
+ad426fe5: posts big blind 300
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [5h Kh]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+ed526fc3: folds
+5f72a5a9: folds
+Hero: folds
+77b2c4a3: folds
+feff6285: folds
+deb9446e: raises 600 to 900
+c28ea122: folds
+ad426fe5: calls 600
+*** FLOP *** [8c 4h 4d]
+ad426fe5: checks
+deb9446e: checks
+*** TURN *** [8c 4h 4d] [Jh]
+ad426fe5: checks
+deb9446e: checks
+*** RIVER *** [8c 4h 4d Jh] [6h]
+ad426fe5: bets 763
+deb9446e: folds
+Uncalled bet (763) returned to ad426fe5
+*** SHOWDOWN ***
+ad426fe5 collected 2,310 from pot
+*** SUMMARY ***
+Total pot 2,310 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c 4h 4d Jh 6h]
+Seat 1: deb9446e (button) folded on the River
+Seat 2: c28ea122 (small blind) folded before Flop
+Seat 3: ad426fe5 (big blind) won (2,310)
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: feff6285 folded before Flop
+
+
+Poker Hand #TM3516163999: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level7(150/300) - 2024/07/24 20:32:06
+Table '15' 8-max Seat #8 is the button
+Seat 1: deb9446e (10,189 in chips)
+Seat 2: c28ea122 (3,743 in chips)
+Seat 3: ad426fe5 (6,050 in chips)
+Seat 4: ed526fc3 (13,574 in chips)
+Seat 5: 5f72a5a9 (6,211 in chips)
+Seat 6: Hero (10,431 in chips)
+Seat 7: 77b2c4a3 (8,466 in chips)
+Seat 8: feff6285 (4,655 in chips)
+77b2c4a3: posts the ante 45
+ed526fc3: posts the ante 45
+deb9446e: posts the ante 45
+c28ea122: posts the ante 45
+ad426fe5: posts the ante 45
+feff6285: posts the ante 45
+5f72a5a9: posts the ante 45
+Hero: posts the ante 45
+deb9446e: posts small blind 150
+c28ea122: posts big blind 300
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Kc Kd]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: folds
+Hero: raises 450 to 750
+77b2c4a3: folds
+feff6285: folds
+deb9446e: folds
+c28ea122: folds
+Uncalled bet (450) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,110 from pot
+*** SUMMARY ***
+Total pot 1,110 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e (small blind) folded before Flop
+Seat 2: c28ea122 (big blind) folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero collected (1,110)
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: feff6285 (button) folded before Flop
+
+
+Poker Hand #TM3516163944: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level7(150/300) - 2024/07/24 20:31:33
+Table '15' 8-max Seat #7 is the button
+Seat 1: deb9446e (9,424 in chips)
+Seat 2: c28ea122 (3,788 in chips)
+Seat 3: ad426fe5 (6,095 in chips)
+Seat 4: ed526fc3 (13,619 in chips)
+Seat 5: 5f72a5a9 (6,556 in chips)
+Seat 6: Hero (10,476 in chips)
+Seat 7: 77b2c4a3 (8,511 in chips)
+Seat 8: feff6285 (4,850 in chips)
+77b2c4a3: posts the ante 45
+ed526fc3: posts the ante 45
+deb9446e: posts the ante 45
+c28ea122: posts the ante 45
+ad426fe5: posts the ante 45
+feff6285: posts the ante 45
+5f72a5a9: posts the ante 45
+Hero: posts the ante 45
+feff6285: posts small blind 150
+deb9446e: posts big blind 300
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [2s Js]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: calls 300
+Hero: folds
+77b2c4a3: folds
+feff6285: folds
+deb9446e: checks
+*** FLOP *** [7s Kd 3h]
+deb9446e: bets 1,110
+5f72a5a9: folds
+Uncalled bet (1,110) returned to deb9446e
+*** SHOWDOWN ***
+deb9446e collected 1,110 from pot
+*** SUMMARY ***
+Total pot 1,110 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7s Kd 3h]
+Seat 1: deb9446e (big blind) won (1,110)
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded on the Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 (button) folded before Flop
+Seat 8: feff6285 (small blind) folded before Flop
+
+
+Poker Hand #TM3516163890: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level7(150/300) - 2024/07/24 20:31:05
+Table '15' 8-max Seat #6 is the button
+Seat 1: deb9446e (9,469 in chips)
+Seat 2: c28ea122 (3,833 in chips)
+Seat 3: ad426fe5 (6,140 in chips)
+Seat 4: ed526fc3 (13,664 in chips)
+Seat 5: 5f72a5a9 (6,601 in chips)
+Seat 6: Hero (10,521 in chips)
+Seat 7: 77b2c4a3 (7,896 in chips)
+Seat 8: feff6285 (5,195 in chips)
+ed526fc3: posts the ante 45
+77b2c4a3: posts the ante 45
+deb9446e: posts the ante 45
+c28ea122: posts the ante 45
+ad426fe5: posts the ante 45
+feff6285: posts the ante 45
+5f72a5a9: posts the ante 45
+Hero: posts the ante 45
+77b2c4a3: posts small blind 150
+feff6285: posts big blind 300
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Jd 4c]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: folds
+Hero: folds
+77b2c4a3: calls 150
+feff6285: checks
+*** FLOP *** [As Jh Th]
+77b2c4a3: checks
+feff6285: checks
+*** TURN *** [As Jh Th] [6h]
+77b2c4a3: checks
+feff6285: checks
+*** RIVER *** [As Jh Th 6h] [7s]
+77b2c4a3: checks
+feff6285: checks
+77b2c4a3: shows [8s Kc] (Ace-High)
+feff6285: shows [5d Qs] (Ace-High)
+*** SHOWDOWN ***
+77b2c4a3 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [As Jh Th 6h 7s]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero (button) folded before Flop
+Seat 7: 77b2c4a3 (small blind) showed [8s Kc] and won (960) with Ace-High
+Seat 8: feff6285 (big blind) showed [5d Qs] and lost with Ace-High
+
+
+Poker Hand #TM3516163865: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level7(150/300) - 2024/07/24 20:30:46
+Table '15' 8-max Seat #5 is the button
+Seat 1: deb9446e (9,514 in chips)
+Seat 2: c28ea122 (3,878 in chips)
+Seat 3: ad426fe5 (6,185 in chips)
+Seat 4: ed526fc3 (13,709 in chips)
+Seat 5: 5f72a5a9 (6,646 in chips)
+Seat 6: Hero (10,716 in chips)
+Seat 7: 77b2c4a3 (7,431 in chips)
+Seat 8: feff6285 (5,240 in chips)
+ed526fc3: posts the ante 45
+77b2c4a3: posts the ante 45
+deb9446e: posts the ante 45
+c28ea122: posts the ante 45
+ad426fe5: posts the ante 45
+feff6285: posts the ante 45
+5f72a5a9: posts the ante 45
+Hero: posts the ante 45
+Hero: posts small blind 150
+77b2c4a3: posts big blind 300
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [2h 6d]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+feff6285: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: folds
+Hero: folds
+Uncalled bet (150) returned to 77b2c4a3
+*** SHOWDOWN ***
+77b2c4a3 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 (button) folded before Flop
+Seat 6: Hero (small blind) folded before Flop
+Seat 7: 77b2c4a3 (big blind) collected (660)
+Seat 8: feff6285 folded before Flop
+
+
+Poker Hand #TM3516163774: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level6(125/250) - 2024/07/24 20:29:52
+Table '15' 8-max Seat #4 is the button
+Seat 1: deb9446e (9,552 in chips)
+Seat 2: c28ea122 (3,916 in chips)
+Seat 3: ad426fe5 (5,544 in chips)
+Seat 4: ed526fc3 (13,747 in chips)
+Seat 5: 5f72a5a9 (6,809 in chips)
+Seat 6: Hero (11,004 in chips)
+Seat 7: 77b2c4a3 (7,469 in chips)
+Seat 8: feff6285 (5,278 in chips)
+ed526fc3: posts the ante 38
+77b2c4a3: posts the ante 38
+deb9446e: posts the ante 38
+c28ea122: posts the ante 38
+ad426fe5: posts the ante 38
+feff6285: posts the ante 38
+5f72a5a9: posts the ante 38
+Hero: posts the ante 38
+5f72a5a9: posts small blind 125
+Hero: posts big blind 250
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [5d 5c]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+77b2c4a3: folds
+feff6285: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: raises 5,256 to 5,506 and is all-in
+ed526fc3: folds
+5f72a5a9: folds
+Hero: folds
+Uncalled bet (5,256) returned to ad426fe5
+*** SHOWDOWN ***
+ad426fe5 collected 929 from pot
+*** SUMMARY ***
+Total pot 929 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 collected (929)
+Seat 4: ed526fc3 (button) folded before Flop
+Seat 5: 5f72a5a9 (small blind) folded before Flop
+Seat 6: Hero (big blind) folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: feff6285 folded before Flop
+
+
+Poker Hand #TM3516163641: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level6(125/250) - 2024/07/24 20:28:31
+Table '15' 8-max Seat #3 is the button
+Seat 1: deb9446e (9,590 in chips)
+Seat 2: c28ea122 (3,954 in chips)
+Seat 3: ad426fe5 (5,582 in chips)
+Seat 4: ed526fc3 (12,731 in chips)
+Seat 5: 5f72a5a9 (7,347 in chips)
+Seat 6: Hero (11,042 in chips)
+Seat 7: 77b2c4a3 (7,507 in chips)
+Seat 8: feff6285 (5,566 in chips)
+77b2c4a3: posts the ante 38
+ed526fc3: posts the ante 38
+deb9446e: posts the ante 38
+c28ea122: posts the ante 38
+ad426fe5: posts the ante 38
+feff6285: posts the ante 38
+5f72a5a9: posts the ante 38
+Hero: posts the ante 38
+ed526fc3: posts small blind 125
+5f72a5a9: posts big blind 250
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [8h 4d]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+Hero: folds
+77b2c4a3: folds
+feff6285: calls 250
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: calls 125
+5f72a5a9: raises 250 to 500
+feff6285: folds
+ed526fc3: calls 250
+*** FLOP *** [9d Ad 6c]
+ed526fc3: checks
+5f72a5a9: checks
+*** TURN *** [9d Ad 6c] [2d]
+ed526fc3: checks
+5f72a5a9: checks
+*** RIVER *** [9d Ad 6c 2d] [9s]
+ed526fc3: bets 1,166
+5f72a5a9: folds
+Uncalled bet (1,166) returned to ed526fc3
+*** SHOWDOWN ***
+ed526fc3 collected 1,554 from pot
+*** SUMMARY ***
+Total pot 1,554 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9d Ad 6c 2d 9s]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 (button) folded before Flop
+Seat 4: ed526fc3 (small blind) won (1,554)
+Seat 5: 5f72a5a9 (big blind) folded on the River
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: feff6285 folded before Flop
+
+
+Poker Hand #TM3516163575: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level6(125/250) - 2024/07/24 20:27:53
+Table '15' 8-max Seat #2 is the button
+Seat 1: deb9446e (9,628 in chips)
+Seat 2: c28ea122 (3,992 in chips)
+Seat 3: ad426fe5 (5,745 in chips)
+Seat 4: ed526fc3 (13,019 in chips)
+Seat 5: 5f72a5a9 (7,385 in chips)
+Seat 6: Hero (11,080 in chips)
+Seat 7: 77b2c4a3 (6,866 in chips)
+Seat 8: feff6285 (5,604 in chips)
+77b2c4a3: posts the ante 38
+ed526fc3: posts the ante 38
+deb9446e: posts the ante 38
+c28ea122: posts the ante 38
+ad426fe5: posts the ante 38
+feff6285: posts the ante 38
+5f72a5a9: posts the ante 38
+Hero: posts the ante 38
+ad426fe5: posts small blind 125
+ed526fc3: posts big blind 250
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [7s Kh]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+5f72a5a9: folds
+Hero: folds
+77b2c4a3: raises 250 to 500
+feff6285: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+Uncalled bet (250) returned to 77b2c4a3
+*** SHOWDOWN ***
+77b2c4a3 collected 929 from pot
+*** SUMMARY ***
+Total pot 929 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 (button) folded before Flop
+Seat 3: ad426fe5 (small blind) folded before Flop
+Seat 4: ed526fc3 (big blind) folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 collected (929)
+Seat 8: feff6285 folded before Flop
+
+
+Poker Hand #TM3516163474: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level6(125/250) - 2024/07/24 20:26:52
+Table '15' 8-max Seat #1 is the button
+Seat 1: deb9446e (9,666 in chips)
+Seat 2: c28ea122 (4,155 in chips)
+Seat 3: ad426fe5 (4,854 in chips)
+Seat 4: ed526fc3 (13,057 in chips)
+Seat 5: 5f72a5a9 (7,673 in chips)
+Seat 6: Hero (11,118 in chips)
+Seat 7: 77b2c4a3 (7,154 in chips)
+Seat 8: feff6285 (5,642 in chips)
+77b2c4a3: posts the ante 38
+ed526fc3: posts the ante 38
+deb9446e: posts the ante 38
+c28ea122: posts the ante 38
+ad426fe5: posts the ante 38
+feff6285: posts the ante 38
+5f72a5a9: posts the ante 38
+Hero: posts the ante 38
+c28ea122: posts small blind 125
+ad426fe5: posts big blind 250
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [8h Kd]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+ed526fc3: folds
+5f72a5a9: calls 250
+Hero: folds
+77b2c4a3: calls 250
+feff6285: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: raises 4,566 to 4,816 and is all-in
+5f72a5a9: folds
+77b2c4a3: folds
+Uncalled bet (4,566) returned to ad426fe5
+*** SHOWDOWN ***
+ad426fe5 collected 1,179 from pot
+*** SUMMARY ***
+Total pot 1,179 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e (button) folded before Flop
+Seat 2: c28ea122 (small blind) folded before Flop
+Seat 3: ad426fe5 (big blind) collected (1,179)
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: feff6285 folded before Flop
+
+
+Poker Hand #TM3516163372: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level6(125/250) - 2024/07/24 20:25:45
+Table '15' 8-max Seat #8 is the button
+Seat 1: deb9446e (9,829 in chips)
+Seat 2: c28ea122 (3,264 in chips)
+Seat 3: ad426fe5 (4,892 in chips)
+Seat 4: ed526fc3 (13,095 in chips)
+Seat 5: 5f72a5a9 (7,961 in chips)
+Seat 6: Hero (11,156 in chips)
+Seat 7: 77b2c4a3 (7,192 in chips)
+Seat 8: feff6285 (5,930 in chips)
+77b2c4a3: posts the ante 38
+ed526fc3: posts the ante 38
+deb9446e: posts the ante 38
+c28ea122: posts the ante 38
+ad426fe5: posts the ante 38
+feff6285: posts the ante 38
+5f72a5a9: posts the ante 38
+Hero: posts the ante 38
+deb9446e: posts small blind 125
+c28ea122: posts big blind 250
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [6s Qd]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: calls 250
+Hero: folds
+77b2c4a3: folds
+feff6285: calls 250
+deb9446e: folds
+c28ea122: checks
+*** FLOP *** [Jh 5d 7d]
+c28ea122: checks
+5f72a5a9: checks
+feff6285: checks
+*** TURN *** [Jh 5d 7d] [2d]
+c28ea122: checks
+5f72a5a9: checks
+feff6285: checks
+*** RIVER *** [Jh 5d 7d 2d] [5c]
+c28ea122: checks
+5f72a5a9: checks
+feff6285: checks
+c28ea122: shows [5h 4c] (Three Fives)
+5f72a5a9: shows [9s Qc] (Pair of Fives)
+feff6285: shows [Ad 9c] (Pair of Fives)
+*** SHOWDOWN ***
+c28ea122 collected 1,179 from pot
+*** SUMMARY ***
+Total pot 1,179 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh 5d 7d 2d 5c]
+Seat 1: deb9446e (small blind) folded before Flop
+Seat 2: c28ea122 (big blind) showed [5h 4c] and won (1,179) with Three Fives
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 showed [9s Qc] and lost with Pair of Fives
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: feff6285 (button) showed [Ad 9c] and lost with Pair of Fives
+
+
+Poker Hand #TM3516163287: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level5(100/200) - 2024/07/24 20:24:54
+Table '15' 8-max Seat #7 is the button
+Seat 1: deb9446e (10,065 in chips)
+Seat 2: c28ea122 (3,300 in chips)
+Seat 3: ad426fe5 (4,928 in chips)
+Seat 4: ed526fc3 (13,131 in chips)
+Seat 5: 5f72a5a9 (8,197 in chips)
+Seat 6: Hero (11,192 in chips)
+Seat 7: 77b2c4a3 (7,228 in chips)
+Seat 8: feff6285 (5,278 in chips)
+77b2c4a3: posts the ante 36
+ed526fc3: posts the ante 36
+deb9446e: posts the ante 36
+c28ea122: posts the ante 36
+ad426fe5: posts the ante 36
+feff6285: posts the ante 36
+5f72a5a9: posts the ante 36
+Hero: posts the ante 36
+feff6285: posts small blind 100
+deb9446e: posts big blind 200
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [4s 6d]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: calls 200
+Hero: folds
+77b2c4a3: folds
+feff6285: calls 100
+deb9446e: checks
+*** FLOP *** [5c 2h Ac]
+feff6285: checks
+deb9446e: checks
+5f72a5a9: checks
+*** TURN *** [5c 2h Ac] [8h]
+feff6285: checks
+deb9446e: checks
+5f72a5a9: checks
+*** RIVER *** [5c 2h Ac 8h] [5s]
+feff6285: bets 888
+deb9446e: folds
+5f72a5a9: folds
+Uncalled bet (888) returned to feff6285
+*** SHOWDOWN ***
+feff6285 collected 888 from pot
+*** SUMMARY ***
+Total pot 888 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c 2h Ac 8h 5s]
+Seat 1: deb9446e (big blind) folded on the River
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded on the River
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 (button) folded before Flop
+Seat 8: feff6285 (small blind) won (888)
+
+
+Poker Hand #TM3516163216: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level5(100/200) - 2024/07/24 20:24:04
+Table '15' 8-max Seat #6 is the button
+Seat 1: deb9446e (10,101 in chips)
+Seat 2: c28ea122 (3,336 in chips)
+Seat 3: ad426fe5 (4,964 in chips)
+Seat 4: ed526fc3 (13,167 in chips)
+Seat 5: 5f72a5a9 (10,609 in chips)
+Seat 6: Hero (11,428 in chips)
+Seat 7: 77b2c4a3 (4,200 in chips)
+Seat 8: feff6285 (5,514 in chips)
+ed526fc3: posts the ante 36
+77b2c4a3: posts the ante 36
+deb9446e: posts the ante 36
+c28ea122: posts the ante 36
+ad426fe5: posts the ante 36
+feff6285: posts the ante 36
+5f72a5a9: posts the ante 36
+Hero: posts the ante 36
+77b2c4a3: posts small blind 100
+feff6285: posts big blind 200
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [8s 6s]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: calls 200
+Hero: calls 200
+77b2c4a3: calls 100
+feff6285: checks
+*** FLOP *** [4d 3d Ks]
+77b2c4a3: bets 544
+feff6285: folds
+5f72a5a9: calls 544
+Hero: folds
+*** TURN *** [4d 3d Ks] [5s]
+77b2c4a3: bets 1,632
+5f72a5a9: calls 1,632
+*** RIVER *** [4d 3d Ks 5s] [4c]
+77b2c4a3: bets 1,788 and is all-in
+5f72a5a9: folds
+Uncalled bet (1,788) returned to 77b2c4a3
+*** SHOWDOWN ***
+77b2c4a3 collected 5,440 from pot
+*** SUMMARY ***
+Total pot 5,440 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4d 3d Ks 5s 4c]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded on the River
+Seat 6: Hero (button) folded on the Flop
+Seat 7: 77b2c4a3 (small blind) won (5,440)
+Seat 8: feff6285 (big blind) folded on the Flop
+
+
+Poker Hand #TM3516163166: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level5(100/200) - 2024/07/24 20:23:37
+Table '15' 8-max Seat #5 is the button
+Seat 1: deb9446e (10,137 in chips)
+Seat 2: c28ea122 (3,372 in chips)
+Seat 3: ad426fe5 (5,000 in chips)
+Seat 4: ed526fc3 (12,415 in chips)
+Seat 5: 5f72a5a9 (10,645 in chips)
+Seat 6: Hero (11,564 in chips)
+Seat 7: 77b2c4a3 (4,636 in chips)
+Seat 8: feff6285 (5,550 in chips)
+ed526fc3: posts the ante 36
+77b2c4a3: posts the ante 36
+deb9446e: posts the ante 36
+c28ea122: posts the ante 36
+ad426fe5: posts the ante 36
+feff6285: posts the ante 36
+5f72a5a9: posts the ante 36
+Hero: posts the ante 36
+Hero: posts small blind 100
+77b2c4a3: posts big blind 200
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Kc 5d]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+feff6285: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: raises 200 to 400
+5f72a5a9: folds
+Hero: folds
+77b2c4a3: calls 200
+*** FLOP *** [4c 6d 8h]
+77b2c4a3: checks
+ed526fc3: bets 594
+77b2c4a3: folds
+Uncalled bet (594) returned to ed526fc3
+*** SHOWDOWN ***
+ed526fc3 collected 1,188 from pot
+*** SUMMARY ***
+Total pot 1,188 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c 6d 8h]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 won (1,188)
+Seat 5: 5f72a5a9 (button) folded before Flop
+Seat 6: Hero (small blind) folded before Flop
+Seat 7: 77b2c4a3 (big blind) folded on the Flop
+Seat 8: feff6285 folded before Flop
+
+
+Poker Hand #TM3516163035: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level5(100/200) - 2024/07/24 20:22:14
+Table '15' 8-max Seat #4 is the button
+Seat 1: deb9446e (10,173 in chips)
+Seat 2: c28ea122 (3,408 in chips)
+Seat 3: ad426fe5 (3,074 in chips)
+Seat 4: ed526fc3 (12,451 in chips)
+Seat 5: 5f72a5a9 (14,800 in chips)
+Seat 6: Hero (4,155 in chips)
+Seat 7: 77b2c4a3 (4,672 in chips)
+Seat 8: feff6285 (5,586 in chips)
+ed526fc3: posts the ante 36
+77b2c4a3: posts the ante 36
+deb9446e: posts the ante 36
+c28ea122: posts the ante 36
+ad426fe5: posts the ante 36
+feff6285: posts the ante 36
+5f72a5a9: posts the ante 36
+Hero: posts the ante 36
+5f72a5a9: posts small blind 100
+Hero: posts big blind 200
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Tc Td]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+77b2c4a3: folds
+feff6285: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: raises 2,838 to 3,038 and is all-in
+ed526fc3: folds
+5f72a5a9: calls 2,938
+Hero: raises 1,081 to 4,119 and is all-in
+5f72a5a9: calls 1,081
+Hero: shows [Tc Td]
+ad426fe5: shows [Ah Jh]
+5f72a5a9: shows [9d As]
+*** FLOP *** [Kh 3c 6d]
+*** TURN *** [Kh 3c 6d] [4h]
+*** RIVER *** [Kh 3c 6d 4h] [4c]
+*** SHOWDOWN ***
+Hero collected 9,402 from pot
+Hero collected 2,162 from pot
+*** SUMMARY ***
+Total pot 11,564 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kh 3c 6d 4h 4c]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 showed [Ah Jh] and lost with Pair of Fours
+Seat 4: ed526fc3 (button) folded before Flop
+Seat 5: 5f72a5a9 (small blind) showed [9d As] and lost with Pair of Fours
+Seat 6: Hero (big blind) showed [Tc Td] and won (11,564) with Pair of Tens and Pair of Fours
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: feff6285 folded before Flop
+
+
+Poker Hand #TM3516162934: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level5(100/200) - 2024/07/24 20:21:10
+Table '15' 8-max Seat #3 is the button
+Seat 1: deb9446e (10,209 in chips)
+Seat 2: c28ea122 (3,444 in chips)
+Seat 3: ad426fe5 (6,862 in chips)
+Seat 4: ed526fc3 (12,587 in chips)
+Seat 5: 5f72a5a9 (10,696 in chips)
+Seat 6: Hero (4,191 in chips)
+Seat 7: 77b2c4a3 (4,708 in chips)
+Seat 8: feff6285 (5,622 in chips)
+77b2c4a3: posts the ante 36
+ed526fc3: posts the ante 36
+deb9446e: posts the ante 36
+c28ea122: posts the ante 36
+ad426fe5: posts the ante 36
+feff6285: posts the ante 36
+5f72a5a9: posts the ante 36
+Hero: posts the ante 36
+ed526fc3: posts small blind 100
+5f72a5a9: posts big blind 200
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [5s Ks]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+Hero: folds
+77b2c4a3: folds
+feff6285: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: raises 200 to 400
+ed526fc3: folds
+5f72a5a9: calls 200
+*** FLOP *** [Kh 9s 3d]
+5f72a5a9: bets 594
+ad426fe5: raises 785 to 1,379
+5f72a5a9: calls 785
+*** TURN *** [Kh 9s 3d] [4d]
+5f72a5a9: checks
+ad426fe5: bets 1,973
+5f72a5a9: calls 1,973
+*** RIVER *** [Kh 9s 3d 4d] [7h]
+5f72a5a9: checks
+ad426fe5: checks
+5f72a5a9: shows [Jd 9d] (Pair of Nines)
+ad426fe5: shows [Jh Ts] (King-High)
+*** SHOWDOWN ***
+5f72a5a9 collected 7,892 from pot
+*** SUMMARY ***
+Total pot 7,892 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kh 9s 3d 4d 7h]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 (button) showed [Jh Ts] and lost with King-High
+Seat 4: ed526fc3 (small blind) folded before Flop
+Seat 5: 5f72a5a9 (big blind) showed [Jd 9d] and won (7,892) with Pair of Nines
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: feff6285 folded before Flop
+
+
+Poker Hand #TM3516162913: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level5(100/200) - 2024/07/24 20:20:55
+Table '15' 8-max Seat #2 is the button
+Seat 1: deb9446e (10,245 in chips)
+Seat 2: c28ea122 (3,480 in chips)
+Seat 3: ad426fe5 (6,998 in chips)
+Seat 4: ed526fc3 (12,235 in chips)
+Seat 5: 5f72a5a9 (10,732 in chips)
+Seat 6: Hero (4,227 in chips)
+Seat 7: 77b2c4a3 (4,744 in chips)
+Seat 8: feff6285 (5,658 in chips)
+77b2c4a3: posts the ante 36
+ed526fc3: posts the ante 36
+deb9446e: posts the ante 36
+c28ea122: posts the ante 36
+ad426fe5: posts the ante 36
+feff6285: posts the ante 36
+5f72a5a9: posts the ante 36
+Hero: posts the ante 36
+ad426fe5: posts small blind 100
+ed526fc3: posts big blind 200
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [5d 4h]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+5f72a5a9: folds
+Hero: folds
+77b2c4a3: folds
+feff6285: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+Uncalled bet (100) returned to ed526fc3
+*** SHOWDOWN ***
+ed526fc3 collected 488 from pot
+*** SUMMARY ***
+Total pot 488 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 (button) folded before Flop
+Seat 3: ad426fe5 (small blind) folded before Flop
+Seat 4: ed526fc3 (big blind) collected (488)
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: feff6285 folded before Flop
+
+
+Poker Hand #TM3516162876: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level5(100/200) - 2024/07/24 20:20:38
+Table '15' 8-max Seat #1 is the button
+Seat 1: deb9446e (10,281 in chips)
+Seat 2: c28ea122 (3,616 in chips)
+Seat 3: ad426fe5 (7,234 in chips)
+Seat 4: ed526fc3 (12,271 in chips)
+Seat 5: 5f72a5a9 (10,180 in chips)
+Seat 6: Hero (4,263 in chips)
+Seat 7: 77b2c4a3 (4,780 in chips)
+Seat 8: feff6285 (5,694 in chips)
+77b2c4a3: posts the ante 36
+ed526fc3: posts the ante 36
+deb9446e: posts the ante 36
+c28ea122: posts the ante 36
+ad426fe5: posts the ante 36
+feff6285: posts the ante 36
+5f72a5a9: posts the ante 36
+Hero: posts the ante 36
+c28ea122: posts small blind 100
+ad426fe5: posts big blind 200
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [6d 3h]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+ed526fc3: folds
+5f72a5a9: raises 200 to 400
+Hero: folds
+77b2c4a3: folds
+feff6285: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+Uncalled bet (200) returned to 5f72a5a9
+*** SHOWDOWN ***
+5f72a5a9 collected 788 from pot
+*** SUMMARY ***
+Total pot 788 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e (button) folded before Flop
+Seat 2: c28ea122 (small blind) folded before Flop
+Seat 3: ad426fe5 (big blind) folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 collected (788)
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: feff6285 folded before Flop
+
+
+Poker Hand #TM3516162852: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level5(100/200) - 2024/07/24 20:20:22
+Table '15' 8-max Seat #8 is the button
+Seat 1: deb9446e (9,829 in chips)
+Seat 2: c28ea122 (3,852 in chips)
+Seat 3: ad426fe5 (7,270 in chips)
+Seat 4: ed526fc3 (12,307 in chips)
+Seat 5: 5f72a5a9 (10,216 in chips)
+Seat 6: Hero (4,299 in chips)
+Seat 7: 77b2c4a3 (4,816 in chips)
+Seat 8: feff6285 (5,730 in chips)
+77b2c4a3: posts the ante 36
+ed526fc3: posts the ante 36
+deb9446e: posts the ante 36
+c28ea122: posts the ante 36
+ad426fe5: posts the ante 36
+feff6285: posts the ante 36
+5f72a5a9: posts the ante 36
+Hero: posts the ante 36
+deb9446e: posts small blind 100
+c28ea122: posts big blind 200
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [6c As]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: folds
+Hero: folds
+77b2c4a3: folds
+feff6285: folds
+deb9446e: raises 688 to 888
+c28ea122: folds
+Uncalled bet (688) returned to deb9446e
+*** SHOWDOWN ***
+deb9446e collected 688 from pot
+*** SUMMARY ***
+Total pot 688 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e (small blind) collected (688)
+Seat 2: c28ea122 (big blind) folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: feff6285 (button) folded before Flop
+
+
+Poker Hand #TM3516162780: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level4(90/180) - 2024/07/24 20:19:40
+Table '15' 8-max Seat #7 is the button
+Seat 1: deb9446e (8,809 in chips)
+Seat 2: c28ea122 (3,882 in chips)
+Seat 3: ad426fe5 (7,300 in chips)
+Seat 4: ed526fc3 (12,697 in chips)
+Seat 5: 5f72a5a9 (10,606 in chips)
+Seat 6: Hero (4,329 in chips)
+Seat 7: 77b2c4a3 (4,846 in chips)
+Seat 8: feff6285 (5,850 in chips)
+77b2c4a3: posts the ante 30
+ed526fc3: posts the ante 30
+deb9446e: posts the ante 30
+c28ea122: posts the ante 30
+ad426fe5: posts the ante 30
+feff6285: posts the ante 30
+5f72a5a9: posts the ante 30
+Hero: posts the ante 30
+feff6285: posts small blind 90
+deb9446e: posts big blind 180
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [3d 7s]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: raises 180 to 360
+5f72a5a9: calls 360
+Hero: folds
+77b2c4a3: folds
+feff6285: folds
+deb9446e: raises 1,410 to 1,770
+ed526fc3: folds
+5f72a5a9: folds
+Uncalled bet (1,410) returned to deb9446e
+*** SHOWDOWN ***
+deb9446e collected 1,410 from pot
+*** SUMMARY ***
+Total pot 1,410 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e (big blind) collected (1,410)
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 (button) folded before Flop
+Seat 8: feff6285 (small blind) folded before Flop
+
+
+Poker Hand #TM3516162690: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level4(90/180) - 2024/07/24 20:18:40
+Table '15' 8-max Seat #6 is the button
+Seat 1: deb9446e (8,839 in chips)
+Seat 2: c28ea122 (3,912 in chips)
+Seat 3: ad426fe5 (8,485 in chips)
+Seat 4: ed526fc3 (12,727 in chips)
+Seat 5: 5f72a5a9 (7,816 in chips)
+Seat 6: Hero (5,514 in chips)
+Seat 7: 77b2c4a3 (4,966 in chips)
+Seat 8: feff6285 (6,060 in chips)
+ed526fc3: posts the ante 30
+77b2c4a3: posts the ante 30
+deb9446e: posts the ante 30
+c28ea122: posts the ante 30
+ad426fe5: posts the ante 30
+feff6285: posts the ante 30
+5f72a5a9: posts the ante 30
+Hero: posts the ante 30
+77b2c4a3: posts small blind 90
+feff6285: posts big blind 180
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Ad Kc]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+deb9446e: folds
+c28ea122: folds
+ad426fe5: raises 180 to 360
+ed526fc3: folds
+5f72a5a9: calls 360
+Hero: raises 795 to 1,155
+77b2c4a3: folds
+feff6285: folds
+ad426fe5: calls 795
+5f72a5a9: calls 795
+*** FLOP *** [5h Tc 5d]
+ad426fe5: checks
+5f72a5a9: bets 1,312
+Hero: folds
+ad426fe5: folds
+Uncalled bet (1,312) returned to 5f72a5a9
+*** SHOWDOWN ***
+5f72a5a9 collected 3,975 from pot
+*** SUMMARY ***
+Total pot 3,975 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h Tc 5d]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded on the Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 won (3,975)
+Seat 6: Hero (button) folded on the Flop
+Seat 7: 77b2c4a3 (small blind) folded before Flop
+Seat 8: feff6285 (big blind) folded before Flop
+
+
+Poker Hand #TM3516162641: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level4(90/180) - 2024/07/24 20:18:09
+Table '15' 8-max Seat #5 is the button
+Seat 1: deb9446e (8,869 in chips)
+Seat 2: c28ea122 (3,942 in chips)
+Seat 3: ad426fe5 (8,515 in chips)
+Seat 4: ed526fc3 (11,887 in chips)
+Seat 5: 5f72a5a9 (8,206 in chips)
+Seat 6: Hero (5,634 in chips)
+Seat 7: 77b2c4a3 (5,176 in chips)
+Seat 8: feff6285 (6,090 in chips)
+ed526fc3: posts the ante 30
+77b2c4a3: posts the ante 30
+deb9446e: posts the ante 30
+c28ea122: posts the ante 30
+ad426fe5: posts the ante 30
+feff6285: posts the ante 30
+5f72a5a9: posts the ante 30
+Hero: posts the ante 30
+Hero: posts small blind 90
+77b2c4a3: posts big blind 180
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Qh 3h]
+Dealt to 77b2c4a3 
+Dealt to feff6285 
+feff6285: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: raises 180 to 360
+5f72a5a9: calls 360
+Hero: folds
+77b2c4a3: folds
+*** FLOP *** [Ks 6h 4c]
+ed526fc3: bets 615
+5f72a5a9: folds
+Uncalled bet (615) returned to ed526fc3
+*** SHOWDOWN ***
+ed526fc3 collected 1,230 from pot
+*** SUMMARY ***
+Total pot 1,230 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks 6h 4c]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 won (1,230)
+Seat 5: 5f72a5a9 (button) folded on the Flop
+Seat 6: Hero (small blind) folded before Flop
+Seat 7: 77b2c4a3 (big blind) folded before Flop
+Seat 8: feff6285 folded before Flop
+
+
+Poker Hand #TM3516162514: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level4(90/180) - 2024/07/24 20:16:44
+Table '15' 8-max Seat #4 is the button
+Seat 1: deb9446e (9,439 in chips)
+Seat 2: c28ea122 (3,972 in chips)
+Seat 3: ad426fe5 (9,085 in chips)
+Seat 4: ed526fc3 (11,917 in chips)
+Seat 5: 5f72a5a9 (8,776 in chips)
+Seat 6: Hero (3,834 in chips)
+Seat 7: 77b2c4a3 (5,206 in chips)
+ed526fc3: posts the ante 30
+77b2c4a3: posts the ante 30
+deb9446e: posts the ante 30
+c28ea122: posts the ante 30
+ad426fe5: posts the ante 30
+5f72a5a9: posts the ante 30
+Hero: posts the ante 30
+5f72a5a9: posts small blind 90
+Hero: posts big blind 180
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Qh Jd]
+Dealt to 77b2c4a3 
+77b2c4a3: folds
+deb9446e: raises 360 to 540
+c28ea122: folds
+ad426fe5: calls 540
+ed526fc3: folds
+5f72a5a9: calls 450
+Hero: calls 360
+*** FLOP *** [6d 5c 7d]
+5f72a5a9: checks
+Hero: checks
+deb9446e: checks
+ad426fe5: checks
+*** TURN *** [6d 5c 7d] [2s]
+5f72a5a9: checks
+Hero: checks
+deb9446e: checks
+ad426fe5: checks
+*** RIVER *** [6d 5c 7d 2s] [Jh]
+5f72a5a9: checks
+Hero: bets 1,185
+deb9446e: folds
+ad426fe5: folds
+5f72a5a9: folds
+Uncalled bet (1,185) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,370 from pot
+*** SUMMARY ***
+Total pot 2,370 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d 5c 7d 2s Jh]
+Seat 1: deb9446e folded on the River
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded on the River
+Seat 4: ed526fc3 (button) folded before Flop
+Seat 5: 5f72a5a9 (small blind) folded on the River
+Seat 6: Hero (big blind) won (2,370)
+Seat 7: 77b2c4a3 folded before Flop
+
+
+Poker Hand #TM3516162460: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level4(90/180) - 2024/07/24 20:16:12
+Table '15' 8-max Seat #3 is the button
+Seat 1: deb9446e (9,469 in chips)
+Seat 2: c28ea122 (4,002 in chips)
+Seat 3: ad426fe5 (9,115 in chips)
+Seat 4: ed526fc3 (12,037 in chips)
+Seat 5: 5f72a5a9 (8,986 in chips)
+Seat 6: Hero (3,864 in chips)
+Seat 7: 77b2c4a3 (4,756 in chips)
+77b2c4a3: posts the ante 30
+ed526fc3: posts the ante 30
+deb9446e: posts the ante 30
+c28ea122: posts the ante 30
+ad426fe5: posts the ante 30
+5f72a5a9: posts the ante 30
+Hero: posts the ante 30
+ed526fc3: posts small blind 90
+5f72a5a9: posts big blind 180
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [7s Ad]
+Dealt to 77b2c4a3 
+Hero: folds
+77b2c4a3: raises 360 to 540
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: folds
+Uncalled bet (360) returned to 77b2c4a3
+*** SHOWDOWN ***
+77b2c4a3 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 (button) folded before Flop
+Seat 4: ed526fc3 (small blind) folded before Flop
+Seat 5: 5f72a5a9 (big blind) folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 collected (660)
+
+
+Poker Hand #TM3516162323: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level3(80/160) - 2024/07/24 20:14:50
+Table '15' 8-max Seat #2 is the button
+Seat 1: deb9446e (9,494 in chips)
+Seat 2: c28ea122 (4,027 in chips)
+Seat 3: ad426fe5 (9,689 in chips)
+Seat 4: ed526fc3 (12,270 in chips)
+Seat 5: 5f72a5a9 (7,846 in chips)
+Seat 6: Hero (3,889 in chips)
+Seat 7: 77b2c4a3 (4,781 in chips)
+Seat 8: 897f95f5 (233 in chips)
+77b2c4a3: posts the ante 25
+ed526fc3: posts the ante 25
+deb9446e: posts the ante 25
+c28ea122: posts the ante 25
+ad426fe5: posts the ante 25
+897f95f5: posts the ante 25
+5f72a5a9: posts the ante 25
+Hero: posts the ante 25
+ad426fe5: posts small blind 80
+ed526fc3: posts big blind 160
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [9h 2d]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+5f72a5a9: calls 160
+Hero: folds
+77b2c4a3: folds
+897f95f5: raises 48 to 208 and is all-in
+deb9446e: folds
+c28ea122: folds
+ad426fe5: calls 128
+ed526fc3: calls 48
+5f72a5a9: calls 48
+*** FLOP *** [9d Qs Qh]
+ad426fe5: checks
+ed526fc3: checks
+5f72a5a9: checks
+*** TURN *** [9d Qs Qh] [4s]
+ad426fe5: checks
+ed526fc3: checks
+5f72a5a9: checks
+*** RIVER *** [9d Qs Qh 4s] [6d]
+ad426fe5: checks
+ed526fc3: checks
+5f72a5a9: bets 341
+ad426fe5: calls 341
+ed526fc3: folds
+5f72a5a9: shows [7d 7c] (Pair of Queens and Pair of Sevens)
+897f95f5: shows [Jd Tc] (Pair of Queens)
+ad426fe5: shows [6h 8h] (Pair of Queens and Pair of Sixes)
+*** SHOWDOWN ***
+5f72a5a9 collected 1,032 from pot
+5f72a5a9 collected 682 from pot
+*** SUMMARY ***
+Total pot 1,714 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9d Qs Qh 4s 6d]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 (button) folded before Flop
+Seat 3: ad426fe5 (small blind) showed [6h 8h] and lost with Pair of Queens and Pair of Sixes
+Seat 4: ed526fc3 (big blind) folded on the River
+Seat 5: 5f72a5a9 showed [7d 7c] and won (1,714) with Pair of Queens and Pair of Sevens
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: 897f95f5 showed [Jd Tc] and lost with Pair of Queens
+
+
+Poker Hand #TM3516162257: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level3(80/160) - 2024/07/24 20:14:07
+Table '15' 8-max Seat #1 is the button
+Seat 1: deb9446e (9,519 in chips)
+Seat 2: c28ea122 (4,132 in chips)
+Seat 3: ad426fe5 (9,874 in chips)
+Seat 4: ed526fc3 (5,860 in chips)
+Seat 5: 5f72a5a9 (8,031 in chips)
+Seat 6: Hero (3,914 in chips)
+Seat 7: 77b2c4a3 (4,806 in chips)
+Seat 8: 897f95f5 (6,093 in chips)
+77b2c4a3: posts the ante 25
+ed526fc3: posts the ante 25
+deb9446e: posts the ante 25
+c28ea122: posts the ante 25
+ad426fe5: posts the ante 25
+897f95f5: posts the ante 25
+5f72a5a9: posts the ante 25
+Hero: posts the ante 25
+c28ea122: posts small blind 80
+ad426fe5: posts big blind 160
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [6s 8c]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+ed526fc3: calls 160
+5f72a5a9: calls 160
+Hero: folds
+77b2c4a3: folds
+897f95f5: raises 5,908 to 6,068 and is all-in
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: calls 5,675 and is all-in
+5f72a5a9: folds
+Uncalled bet (233) returned to 897f95f5
+897f95f5: shows [4c Ks]
+ed526fc3: shows [Ac 2c]
+*** FLOP *** [2s Jd Td]
+*** TURN *** [2s Jd Td] [5s]
+*** RIVER *** [2s Jd Td 5s] [9d]
+*** SHOWDOWN ***
+ed526fc3 collected 12,270 from pot
+*** SUMMARY ***
+Total pot 12,270 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2s Jd Td 5s 9d]
+Seat 1: deb9446e (button) folded before Flop
+Seat 2: c28ea122 (small blind) folded before Flop
+Seat 3: ad426fe5 (big blind) folded before Flop
+Seat 4: ed526fc3 showed [Ac 2c] and won (12,270) with Pair of Twos
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: 897f95f5 showed [4c Ks] and lost with King-High
+
+
+Poker Hand #TM3516162202: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level3(80/160) - 2024/07/24 20:13:27
+Table '15' 8-max Seat #8 is the button
+Seat 1: deb9446e (9,624 in chips)
+Seat 2: c28ea122 (4,317 in chips)
+Seat 3: ad426fe5 (9,899 in chips)
+Seat 4: ed526fc3 (5,885 in chips)
+Seat 5: 5f72a5a9 (8,216 in chips)
+Seat 6: Hero (3,939 in chips)
+Seat 7: 77b2c4a3 (4,991 in chips)
+Seat 8: 897f95f5 (5,358 in chips)
+77b2c4a3: posts the ante 25
+ed526fc3: posts the ante 25
+deb9446e: posts the ante 25
+c28ea122: posts the ante 25
+ad426fe5: posts the ante 25
+897f95f5: posts the ante 25
+5f72a5a9: posts the ante 25
+Hero: posts the ante 25
+deb9446e: posts small blind 80
+c28ea122: posts big blind 160
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Th 7d]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: calls 160
+Hero: folds
+77b2c4a3: calls 160
+897f95f5: raises 5,173 to 5,333 and is all-in
+deb9446e: folds
+c28ea122: folds
+5f72a5a9: folds
+77b2c4a3: folds
+Uncalled bet (5,173) returned to 897f95f5
+*** SHOWDOWN ***
+897f95f5 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e (small blind) folded before Flop
+Seat 2: c28ea122 (big blind) folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: 897f95f5 (button) collected (920)
+
+
+Poker Hand #TM3516162155: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level3(80/160) - 2024/07/24 20:12:54
+Table '15' 8-max Seat #7 is the button
+Seat 1: deb9446e (9,809 in chips)
+Seat 2: c28ea122 (4,342 in chips)
+Seat 3: ad426fe5 (9,924 in chips)
+Seat 4: ed526fc3 (6,230 in chips)
+Seat 5: 5f72a5a9 (8,561 in chips)
+Seat 6: Hero (3,964 in chips)
+Seat 7: 77b2c4a3 (5,016 in chips)
+Seat 8: 897f95f5 (4,383 in chips)
+77b2c4a3: posts the ante 25
+ed526fc3: posts the ante 25
+deb9446e: posts the ante 25
+c28ea122: posts the ante 25
+ad426fe5: posts the ante 25
+897f95f5: posts the ante 25
+5f72a5a9: posts the ante 25
+Hero: posts the ante 25
+897f95f5: posts small blind 80
+deb9446e: posts big blind 160
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [3s Qs]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: raises 160 to 320
+5f72a5a9: calls 320
+Hero: folds
+77b2c4a3: folds
+897f95f5: raises 4,038 to 4,358 and is all-in
+deb9446e: folds
+ed526fc3: folds
+5f72a5a9: folds
+Uncalled bet (4,038) returned to 897f95f5
+*** SHOWDOWN ***
+897f95f5 collected 1,320 from pot
+*** SUMMARY ***
+Total pot 1,320 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e (big blind) folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 (button) folded before Flop
+Seat 8: 897f95f5 (small blind) collected (1,320)
+
+
+Poker Hand #TM3516162059: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level3(80/160) - 2024/07/24 20:11:58
+Table '15' 8-max Seat #6 is the button
+Seat 1: deb9446e (9,834 in chips)
+Seat 2: c28ea122 (4,367 in chips)
+Seat 3: ad426fe5 (4,527 in chips)
+Seat 4: ed526fc3 (6,255 in chips)
+Seat 5: 5f72a5a9 (8,906 in chips)
+Seat 6: Hero (4,309 in chips)
+Seat 7: 77b2c4a3 (5,121 in chips)
+Seat 8: 897f95f5 (8,910 in chips)
+ed526fc3: posts the ante 25
+77b2c4a3: posts the ante 25
+deb9446e: posts the ante 25
+c28ea122: posts the ante 25
+ad426fe5: posts the ante 25
+897f95f5: posts the ante 25
+5f72a5a9: posts the ante 25
+Hero: posts the ante 25
+77b2c4a3: posts small blind 80
+897f95f5: posts big blind 160
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Qd 9c]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+deb9446e: folds
+c28ea122: folds
+ad426fe5: raises 160 to 320
+ed526fc3: folds
+5f72a5a9: calls 320
+Hero: calls 320
+77b2c4a3: folds
+897f95f5: raises 8,565 to 8,885 and is all-in
+ad426fe5: calls 4,182 and is all-in
+5f72a5a9: folds
+Hero: folds
+Uncalled bet (4,383) returned to 897f95f5
+897f95f5: shows [7d As]
+ad426fe5: shows [Ks Ah]
+*** FLOP *** [7s Th 6d]
+*** TURN *** [7s Th 6d] [2d]
+*** RIVER *** [7s Th 6d 2d] [Kd]
+*** SHOWDOWN ***
+ad426fe5 collected 9,924 from pot
+*** SUMMARY ***
+Total pot 9,924 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7s Th 6d 2d Kd]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 showed [Ks Ah] and won (9,924) with Pair of Kings
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero (button) folded before Flop
+Seat 7: 77b2c4a3 (small blind) folded before Flop
+Seat 8: 897f95f5 (big blind) showed [7d As] and lost with Pair of Sevens
+
+
+Poker Hand #TM3516162022: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level3(80/160) - 2024/07/24 20:11:36
+Table '15' 8-max Seat #5 is the button
+Seat 1: deb9446e (9,859 in chips)
+Seat 2: c28ea122 (4,392 in chips)
+Seat 3: ad426fe5 (4,552 in chips)
+Seat 4: ed526fc3 (6,280 in chips)
+Seat 5: 5f72a5a9 (8,931 in chips)
+Seat 6: Hero (4,414 in chips)
+Seat 7: 77b2c4a3 (5,306 in chips)
+Seat 8: 897f95f5 (8,495 in chips)
+ed526fc3: posts the ante 25
+77b2c4a3: posts the ante 25
+deb9446e: posts the ante 25
+c28ea122: posts the ante 25
+ad426fe5: posts the ante 25
+897f95f5: posts the ante 25
+5f72a5a9: posts the ante 25
+Hero: posts the ante 25
+Hero: posts small blind 80
+77b2c4a3: posts big blind 160
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [As 3h]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+897f95f5: raises 8,310 to 8,470 and is all-in
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: folds
+Hero: folds
+77b2c4a3: folds
+Uncalled bet (8,310) returned to 897f95f5
+*** SHOWDOWN ***
+897f95f5 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 (button) folded before Flop
+Seat 6: Hero (small blind) folded before Flop
+Seat 7: 77b2c4a3 (big blind) folded before Flop
+Seat 8: 897f95f5 collected (600)
+
+
+Poker Hand #TM3516161978: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level3(80/160) - 2024/07/24 20:11:03
+Table '15' 8-max Seat #4 is the button
+Seat 1: deb9446e (10,364 in chips)
+Seat 2: c28ea122 (4,417 in chips)
+Seat 3: ad426fe5 (4,577 in chips)
+Seat 4: ed526fc3 (6,305 in chips)
+Seat 5: 5f72a5a9 (8,116 in chips)
+Seat 6: Hero (4,599 in chips)
+Seat 7: 77b2c4a3 (5,331 in chips)
+Seat 8: 897f95f5 (8,520 in chips)
+ed526fc3: posts the ante 25
+77b2c4a3: posts the ante 25
+deb9446e: posts the ante 25
+c28ea122: posts the ante 25
+ad426fe5: posts the ante 25
+897f95f5: posts the ante 25
+5f72a5a9: posts the ante 25
+Hero: posts the ante 25
+5f72a5a9: posts small blind 80
+Hero: posts big blind 160
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Kd 3s]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+77b2c4a3: folds
+897f95f5: folds
+deb9446e: raises 320 to 480
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: calls 400
+Hero: folds
+*** FLOP *** [Qc Qd Jh]
+5f72a5a9: bets 660
+deb9446e: folds
+Uncalled bet (660) returned to 5f72a5a9
+*** SHOWDOWN ***
+5f72a5a9 collected 1,320 from pot
+*** SUMMARY ***
+Total pot 1,320 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qc Qd Jh]
+Seat 1: deb9446e folded on the Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 (button) folded before Flop
+Seat 5: 5f72a5a9 (small blind) won (1,320)
+Seat 6: Hero (big blind) folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: 897f95f5 folded before Flop
+
+
+Poker Hand #TM3516161925: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level3(80/160) - 2024/07/24 20:10:33
+Table '15' 8-max Seat #3 is the button
+Seat 1: deb9446e (10,389 in chips)
+Seat 2: c28ea122 (4,442 in chips)
+Seat 3: ad426fe5 (4,922 in chips)
+Seat 4: ed526fc3 (6,410 in chips)
+Seat 5: 5f72a5a9 (7,541 in chips)
+Seat 6: Hero (4,624 in chips)
+Seat 7: 77b2c4a3 (5,356 in chips)
+Seat 8: 897f95f5 (8,545 in chips)
+77b2c4a3: posts the ante 25
+ed526fc3: posts the ante 25
+deb9446e: posts the ante 25
+c28ea122: posts the ante 25
+ad426fe5: posts the ante 25
+897f95f5: posts the ante 25
+5f72a5a9: posts the ante 25
+Hero: posts the ante 25
+ed526fc3: posts small blind 80
+5f72a5a9: posts big blind 160
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Ks 9c]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+Hero: folds
+77b2c4a3: folds
+897f95f5: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: raises 160 to 320
+ed526fc3: folds
+5f72a5a9: calls 160
+*** FLOP *** [Kd 4c 9h]
+5f72a5a9: bets 304
+ad426fe5: folds
+Uncalled bet (304) returned to 5f72a5a9
+*** SHOWDOWN ***
+5f72a5a9 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kd 4c 9h]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 (button) folded on the Flop
+Seat 4: ed526fc3 (small blind) folded before Flop
+Seat 5: 5f72a5a9 (big blind) won (920)
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: 897f95f5 folded before Flop
+
+
+Poker Hand #TM3516161814: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level2(60/120) - 2024/07/24 20:09:25
+Table '15' 8-max Seat #2 is the button
+Seat 1: deb9446e (10,407 in chips)
+Seat 2: c28ea122 (4,460 in chips)
+Seat 3: ad426fe5 (5,000 in chips)
+Seat 4: ed526fc3 (5,216 in chips)
+Seat 5: 5f72a5a9 (7,559 in chips)
+Seat 6: Hero (4,642 in chips)
+Seat 7: 77b2c4a3 (6,382 in chips)
+Seat 8: 897f95f5 (8,563 in chips)
+77b2c4a3: posts the ante 18
+ed526fc3: posts the ante 18
+deb9446e: posts the ante 18
+c28ea122: posts the ante 18
+ad426fe5: posts the ante 18
+897f95f5: posts the ante 18
+5f72a5a9: posts the ante 18
+Hero: posts the ante 18
+ad426fe5: posts small blind 60
+ed526fc3: posts big blind 120
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [2s 7d]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+5f72a5a9: folds
+Hero: folds
+77b2c4a3: calls 120
+897f95f5: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: checks
+*** FLOP *** [6c 4s 9h]
+ed526fc3: checks
+77b2c4a3: checks
+*** TURN *** [6c 4s 9h] [3c]
+ed526fc3: bets 222
+77b2c4a3: calls 222
+*** RIVER *** [6c 4s 9h 3c] [8s]
+ed526fc3: checks
+77b2c4a3: bets 666
+ed526fc3: calls 666
+77b2c4a3: shows [Qs Jd] (Queen-High)
+ed526fc3: shows [2c 6s] (Pair of Sixes)
+*** SHOWDOWN ***
+ed526fc3 collected 2,220 from pot
+*** SUMMARY ***
+Total pot 2,220 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6c 4s 9h 3c 8s]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 (button) folded before Flop
+Seat 3: ad426fe5 (small blind) folded before Flop
+Seat 4: ed526fc3 (big blind) showed [2c 6s] and won (2,220) with Pair of Sixes
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 showed [Qs Jd] and lost with Queen-High
+Seat 8: 897f95f5 folded before Flop
+
+
+Poker Hand #TM3516161686: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level2(60/120) - 2024/07/24 20:08:01
+Table '15' 8-max Seat #1 is the button
+Seat 1: deb9446e (5,118 in chips)
+Seat 2: c28ea122 (4,538 in chips)
+Seat 3: ad426fe5 (4,881 in chips)
+Seat 4: ed526fc3 (5,234 in chips)
+Seat 5: 5f72a5a9 (7,697 in chips)
+Seat 6: Hero (4,780 in chips)
+Seat 7: 77b2c4a3 (6,400 in chips)
+Seat 8: 897f95f5 (8,581 in chips)
+77b2c4a3: posts the ante 18
+ed526fc3: posts the ante 18
+deb9446e: posts the ante 18
+c28ea122: posts the ante 18
+ad426fe5: posts the ante 18
+897f95f5: posts the ante 18
+5f72a5a9: posts the ante 18
+Hero: posts the ante 18
+c28ea122: posts small blind 60
+ad426fe5: posts big blind 120
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [8h Td]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+ed526fc3: folds
+5f72a5a9: calls 120
+Hero: calls 120
+77b2c4a3: folds
+897f95f5: folds
+deb9446e: raises 684 to 804
+c28ea122: folds
+ad426fe5: raises 4,059 to 4,863 and is all-in
+5f72a5a9: folds
+Hero: folds
+deb9446e: calls 4,059
+ad426fe5: shows [Ad Kh]
+deb9446e: shows [As Qs]
+*** FLOP *** [Jc 8s 7c]
+*** TURN *** [Jc 8s 7c] [9h]
+*** RIVER *** [Jc 8s 7c 9h] [Qh]
+*** SHOWDOWN ***
+deb9446e collected 10,170 from pot
+*** SUMMARY ***
+Total pot 10,170 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jc 8s 7c 9h Qh]
+Seat 1: deb9446e (button) showed [As Qs] and won (10,170) with Pair of Queens
+Seat 2: c28ea122 (small blind) folded before Flop
+Seat 3: ad426fe5 (big blind) showed [Ad Kh] and lost with Ace-High
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: 897f95f5 folded before Flop
+
+
+Poker Hand #TM3516161575: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level2(60/120) - 2024/07/24 20:06:45
+Table '15' 8-max Seat #8 is the button
+Seat 1: deb9446e (5,196 in chips)
+Seat 2: c28ea122 (4,676 in chips)
+Seat 3: ad426fe5 (5,259 in chips)
+Seat 4: ed526fc3 (5,252 in chips)
+Seat 5: 5f72a5a9 (7,193 in chips)
+Seat 6: Hero (4,276 in chips)
+Seat 7: 77b2c4a3 (6,418 in chips)
+Seat 8: 897f95f5 (8,959 in chips)
+77b2c4a3: posts the ante 18
+ed526fc3: posts the ante 18
+deb9446e: posts the ante 18
+c28ea122: posts the ante 18
+ad426fe5: posts the ante 18
+897f95f5: posts the ante 18
+5f72a5a9: posts the ante 18
+Hero: posts the ante 18
+deb9446e: posts small blind 60
+c28ea122: posts big blind 120
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [Jc Qs]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+ad426fe5: raises 120 to 240
+ed526fc3: folds
+5f72a5a9: calls 240
+Hero: raises 120 to 360
+77b2c4a3: folds
+897f95f5: calls 360
+deb9446e: folds
+c28ea122: folds
+ad426fe5: calls 120
+5f72a5a9: calls 120
+*** FLOP *** [6c 3c Qh]
+ad426fe5: checks
+5f72a5a9: bets 882
+Hero: calls 882
+897f95f5: folds
+ad426fe5: folds
+*** TURN *** [6c 3c Qh] [5s]
+5f72a5a9: bets 1,165
+Hero: raises 1,851 to 3,016 and is all-in
+5f72a5a9: calls 1,851
+Hero: shows [Jc Qs] (Pair of Queens)
+5f72a5a9: shows [Qc Jh] (Pair of Queens)
+*** RIVER *** [6c 3c Qh 5s] [6h]
+*** SHOWDOWN ***
+Hero collected 4,780 from pot
+5f72a5a9 collected 4,780 from pot
+*** SUMMARY ***
+Total pot 9,560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6c 3c Qh 5s 6h]
+Seat 1: deb9446e (small blind) folded before Flop
+Seat 2: c28ea122 (big blind) folded before Flop
+Seat 3: ad426fe5 folded on the Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 showed [Qc Jh] and won (4,780) with Pair of Queens and Pair of Sixes
+Seat 6: Hero showed [Jc Qs] and won (4,780) with Pair of Queens and Pair of Sixes
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: 897f95f5 (button) folded on the Flop
+
+
+Poker Hand #TM3516161529: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level2(60/120) - 2024/07/24 20:06:12
+Table '15' 8-max Seat #7 is the button
+Seat 1: deb9446e (5,334 in chips)
+Seat 2: c28ea122 (4,694 in chips)
+Seat 3: ad426fe5 (5,277 in chips)
+Seat 4: ed526fc3 (5,270 in chips)
+Seat 5: 5f72a5a9 (7,211 in chips)
+Seat 6: Hero (4,534 in chips)
+Seat 7: 77b2c4a3 (5,872 in chips)
+Seat 8: 897f95f5 (9,037 in chips)
+77b2c4a3: posts the ante 18
+ed526fc3: posts the ante 18
+deb9446e: posts the ante 18
+c28ea122: posts the ante 18
+ad426fe5: posts the ante 18
+897f95f5: posts the ante 18
+5f72a5a9: posts the ante 18
+Hero: posts the ante 18
+897f95f5: posts small blind 60
+deb9446e: posts big blind 120
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [8d Ad]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: folds
+Hero: raises 120 to 240
+77b2c4a3: calls 240
+897f95f5: folds
+deb9446e: folds
+*** FLOP *** [6s 6c 9h]
+Hero: checks
+77b2c4a3: bets 266
+Hero: folds
+Uncalled bet (266) returned to 77b2c4a3
+*** SHOWDOWN ***
+77b2c4a3 collected 804 from pot
+*** SUMMARY ***
+Total pot 804 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s 6c 9h]
+Seat 1: deb9446e (big blind) folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero folded on the Flop
+Seat 7: 77b2c4a3 (button) won (804)
+Seat 8: 897f95f5 (small blind) folded before Flop
+
+
+Poker Hand #TM3516161483: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level2(60/120) - 2024/07/24 20:05:47
+Table '15' 8-max Seat #6 is the button
+Seat 1: deb9446e (5,352 in chips)
+Seat 2: c28ea122 (4,712 in chips)
+Seat 3: ad426fe5 (5,295 in chips)
+Seat 4: ed526fc3 (5,288 in chips)
+Seat 5: 5f72a5a9 (7,229 in chips)
+Seat 6: Hero (4,552 in chips)
+Seat 7: 77b2c4a3 (5,626 in chips)
+Seat 8: 897f95f5 (9,175 in chips)
+ed526fc3: posts the ante 18
+77b2c4a3: posts the ante 18
+deb9446e: posts the ante 18
+c28ea122: posts the ante 18
+ad426fe5: posts the ante 18
+897f95f5: posts the ante 18
+5f72a5a9: posts the ante 18
+Hero: posts the ante 18
+77b2c4a3: posts small blind 60
+897f95f5: posts big blind 120
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 5f72a5a9 
+Dealt to Hero [2h Qs]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+5f72a5a9: folds
+Hero: folds
+77b2c4a3: raises 120 to 240
+897f95f5: folds
+Uncalled bet (120) returned to 77b2c4a3
+*** SHOWDOWN ***
+77b2c4a3 collected 384 from pot
+*** SUMMARY ***
+Total pot 384 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 5f72a5a9 folded before Flop
+Seat 6: Hero (button) folded before Flop
+Seat 7: 77b2c4a3 (small blind) collected (384)
+Seat 8: 897f95f5 (big blind) folded before Flop
+
+
+Poker Hand #TM3516161440: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level2(60/120) - 2024/07/24 20:05:17
+Table '15' 8-max Seat #4 is the button
+Seat 1: deb9446e (5,370 in chips)
+Seat 2: c28ea122 (4,730 in chips)
+Seat 3: ad426fe5 (5,313 in chips)
+Seat 4: ed526fc3 (5,000 in chips)
+Seat 6: Hero (4,630 in chips)
+Seat 7: 77b2c4a3 (5,764 in chips)
+Seat 8: 897f95f5 (9,193 in chips)
+ed526fc3: posts the ante 18
+77b2c4a3: posts the ante 18
+deb9446e: posts the ante 18
+c28ea122: posts the ante 18
+ad426fe5: posts the ante 18
+897f95f5: posts the ante 18
+Hero: posts the ante 18
+Hero: posts small blind 60
+77b2c4a3: posts big blind 120
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to Hero [4s Tc]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+897f95f5: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: raises 240 to 360
+Hero: folds
+77b2c4a3: folds
+Uncalled bet (240) returned to ed526fc3
+*** SHOWDOWN ***
+ed526fc3 collected 426 from pot
+*** SUMMARY ***
+Total pot 426 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 (button) collected (426)
+Seat 6: Hero (small blind) folded before Flop
+Seat 7: 77b2c4a3 (big blind) folded before Flop
+Seat 8: 897f95f5 folded before Flop
+
+
+Poker Hand #TM3516161379: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level1(50/100) - 2024/07/24 20:04:33
+Table '15' 8-max Seat #3 is the button
+Seat 1: deb9446e (5,385 in chips)
+Seat 2: c28ea122 (4,745 in chips)
+Seat 3: ad426fe5 (5,328 in chips)
+Seat 4: ed526fc3 (5,065 in chips)
+Seat 5: 28342b99 (4,508 in chips)
+Seat 6: Hero (4,645 in chips)
+Seat 7: 77b2c4a3 (5,779 in chips)
+Seat 8: 897f95f5 (4,545 in chips)
+77b2c4a3: posts the ante 15
+ed526fc3: posts the ante 15
+deb9446e: posts the ante 15
+c28ea122: posts the ante 15
+ad426fe5: posts the ante 15
+897f95f5: posts the ante 15
+28342b99: posts the ante 15
+Hero: posts the ante 15
+ed526fc3: posts small blind 50
+28342b99: posts big blind 100
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 28342b99 
+Dealt to Hero [6d Qd]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+Hero: folds
+77b2c4a3: folds
+897f95f5: raises 370 to 470
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+28342b99: calls 370
+*** FLOP *** [9s Jc 8c]
+28342b99: bets 4,023 and is all-in
+897f95f5: calls 4,023
+28342b99: shows [Qs 9h] (Pair of Nines)
+897f95f5: shows [As Jd] (Pair of Jacks)
+*** TURN *** [9s Jc 8c] [Ks]
+*** RIVER *** [9s Jc 8c Ks] [2c]
+*** SHOWDOWN ***
+897f95f5 collected 9,156 from pot
+*** SUMMARY ***
+Total pot 9,156 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9s Jc 8c Ks 2c]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 (button) folded before Flop
+Seat 4: ed526fc3 (small blind) folded before Flop
+Seat 5: 28342b99 (big blind) showed [Qs 9h] and lost with Pair of Nines
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: 897f95f5 showed [As Jd] and won (9,156) with Pair of Jacks
+
+
+Poker Hand #TM3516161293: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level1(50/100) - 2024/07/24 20:03:33
+Table '15' 8-max Seat #2 is the button
+Seat 1: deb9446e (5,400 in chips)
+Seat 2: c28ea122 (4,760 in chips)
+Seat 3: ad426fe5 (5,615 in chips)
+Seat 4: ed526fc3 (5,180 in chips)
+Seat 5: 28342b99 (4,795 in chips)
+Seat 6: Hero (4,660 in chips)
+Seat 7: 77b2c4a3 (5,030 in chips)
+Seat 8: 897f95f5 (4,560 in chips)
+77b2c4a3: posts the ante 15
+ed526fc3: posts the ante 15
+deb9446e: posts the ante 15
+c28ea122: posts the ante 15
+ad426fe5: posts the ante 15
+897f95f5: posts the ante 15
+28342b99: posts the ante 15
+Hero: posts the ante 15
+ad426fe5: posts small blind 50
+ed526fc3: posts big blind 100
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 28342b99 
+Dealt to Hero [As 8h]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+28342b99: calls 100
+Hero: folds
+77b2c4a3: calls 100
+897f95f5: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: calls 50
+ed526fc3: checks
+*** FLOP *** [3c Th 3d]
+ad426fe5: checks
+ed526fc3: checks
+28342b99: checks
+77b2c4a3: checks
+*** TURN *** [3c Th 3d] [4h]
+ad426fe5: bets 172
+ed526fc3: folds
+28342b99: calls 172
+77b2c4a3: calls 172
+*** RIVER *** [3c Th 3d 4h] [Qs]
+ad426fe5: checks
+28342b99: checks
+77b2c4a3: checks
+ad426fe5: shows [9c 9s] (Pair of Nines and Pair of Treys)
+28342b99: shows [5d Ad] (Pair of Treys)
+77b2c4a3: shows [Ts Jd] (Pair of Tens and Pair of Treys)
+*** SHOWDOWN ***
+77b2c4a3 collected 1,036 from pot
+*** SUMMARY ***
+Total pot 1,036 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c Th 3d 4h Qs]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 (button) folded before Flop
+Seat 3: ad426fe5 (small blind) showed [9c 9s] and lost with Pair of Nines and Pair of Treys
+Seat 4: ed526fc3 (big blind) folded on the Turn
+Seat 5: 28342b99 showed [5d Ad] and lost with Pair of Treys
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 showed [Ts Jd] and won (1,036) with Pair of Tens and Pair of Treys
+Seat 8: 897f95f5 folded before Flop
+
+
+Poker Hand #TM3516161260: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level1(50/100) - 2024/07/24 20:03:09
+Table '15' 8-max Seat #1 is the button
+Seat 1: deb9446e (5,415 in chips)
+Seat 2: c28ea122 (4,825 in chips)
+Seat 3: ad426fe5 (5,730 in chips)
+Seat 4: ed526fc3 (5,195 in chips)
+Seat 5: 28342b99 (4,810 in chips)
+Seat 6: Hero (4,675 in chips)
+Seat 7: 77b2c4a3 (4,775 in chips)
+Seat 8: 897f95f5 (4,575 in chips)
+77b2c4a3: posts the ante 15
+ed526fc3: posts the ante 15
+deb9446e: posts the ante 15
+c28ea122: posts the ante 15
+ad426fe5: posts the ante 15
+897f95f5: posts the ante 15
+28342b99: posts the ante 15
+Hero: posts the ante 15
+c28ea122: posts small blind 50
+ad426fe5: posts big blind 100
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 28342b99 
+Dealt to Hero [8d Jc]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+ed526fc3: folds
+28342b99: folds
+Hero: folds
+77b2c4a3: raises 370 to 470
+897f95f5: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+Uncalled bet (370) returned to 77b2c4a3
+*** SHOWDOWN ***
+77b2c4a3 collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e (button) folded before Flop
+Seat 2: c28ea122 (small blind) folded before Flop
+Seat 3: ad426fe5 (big blind) folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 28342b99 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 collected (370)
+Seat 8: 897f95f5 folded before Flop
+
+
+Poker Hand #TM3516161221: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level1(50/100) - 2024/07/24 20:02:42
+Table '15' 8-max Seat #8 is the button
+Seat 1: deb9446e (5,480 in chips)
+Seat 2: c28ea122 (4,940 in chips)
+Seat 3: ad426fe5 (5,745 in chips)
+Seat 4: ed526fc3 (5,210 in chips)
+Seat 5: 28342b99 (4,825 in chips)
+Seat 6: Hero (4,790 in chips)
+Seat 7: 77b2c4a3 (4,790 in chips)
+Seat 8: 897f95f5 (4,220 in chips)
+77b2c4a3: posts the ante 15
+ed526fc3: posts the ante 15
+deb9446e: posts the ante 15
+c28ea122: posts the ante 15
+ad426fe5: posts the ante 15
+897f95f5: posts the ante 15
+28342b99: posts the ante 15
+Hero: posts the ante 15
+deb9446e: posts small blind 50
+c28ea122: posts big blind 100
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 28342b99 
+Dealt to Hero [7s 5s]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+ad426fe5: folds
+ed526fc3: folds
+28342b99: folds
+Hero: calls 100
+77b2c4a3: folds
+897f95f5: raises 470 to 570
+deb9446e: folds
+c28ea122: folds
+Hero: folds
+Uncalled bet (470) returned to 897f95f5
+*** SHOWDOWN ***
+897f95f5 collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e (small blind) folded before Flop
+Seat 2: c28ea122 (big blind) folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 28342b99 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: 897f95f5 (button) collected (470)
+
+
+Poker Hand #TM3516161201: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level1(50/100) - 2024/07/24 20:02:27
+Table '15' 8-max Seat #7 is the button
+Seat 1: deb9446e (4,955 in chips)
+Seat 2: c28ea122 (4,955 in chips)
+Seat 3: ad426fe5 (5,760 in chips)
+Seat 4: ed526fc3 (5,225 in chips)
+Seat 5: 28342b99 (4,840 in chips)
+Seat 6: Hero (4,805 in chips)
+Seat 7: 77b2c4a3 (4,805 in chips)
+Seat 8: 897f95f5 (4,655 in chips)
+77b2c4a3: posts the ante 15
+ed526fc3: posts the ante 15
+deb9446e: posts the ante 15
+c28ea122: posts the ante 15
+ad426fe5: posts the ante 15
+897f95f5: posts the ante 15
+28342b99: posts the ante 15
+Hero: posts the ante 15
+897f95f5: posts small blind 50
+deb9446e: posts big blind 100
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 28342b99 
+Dealt to Hero [5h 6s]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+28342b99: folds
+Hero: folds
+77b2c4a3: folds
+897f95f5: raises 320 to 420
+deb9446e: raises 960 to 1,380
+897f95f5: folds
+Uncalled bet (960) returned to deb9446e
+*** SHOWDOWN ***
+deb9446e collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e (big blind) collected (960)
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 28342b99 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 77b2c4a3 (button) folded before Flop
+Seat 8: 897f95f5 (small blind) folded before Flop
+
+
+Poker Hand #TM3516161123: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level1(50/100) - 2024/07/24 20:01:25
+Table '15' 8-max Seat #6 is the button
+Seat 1: deb9446e (4,970 in chips)
+Seat 2: c28ea122 (4,970 in chips)
+Seat 3: ad426fe5 (5,775 in chips)
+Seat 4: ed526fc3 (5,240 in chips)
+Seat 5: 28342b99 (4,385 in chips)
+Seat 6: Hero (4,820 in chips)
+Seat 7: 77b2c4a3 (4,870 in chips)
+Seat 8: 897f95f5 (4,970 in chips)
+ed526fc3: posts the ante 15
+77b2c4a3: posts the ante 15
+deb9446e: posts the ante 15
+c28ea122: posts the ante 15
+ad426fe5: posts the ante 15
+897f95f5: posts the ante 15
+28342b99: posts the ante 15
+Hero: posts the ante 15
+77b2c4a3: posts small blind 50
+897f95f5: posts big blind 100
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 28342b99 
+Dealt to Hero [Kh 6s]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: folds
+28342b99: raises 200 to 300
+Hero: folds
+77b2c4a3: folds
+897f95f5: calls 200
+*** FLOP *** [8h 4d 2s]
+897f95f5: checks
+28342b99: bets 578
+897f95f5: folds
+Uncalled bet (578) returned to 28342b99
+*** SHOWDOWN ***
+28342b99 collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8h 4d 2s]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 28342b99 won (770)
+Seat 6: Hero (button) folded before Flop
+Seat 7: 77b2c4a3 (small blind) folded before Flop
+Seat 8: 897f95f5 (big blind) folded on the Flop
+
+
+Poker Hand #TM3516161090: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level1(50/100) - 2024/07/24 20:00:53
+Table '15' 8-max Seat #5 is the button
+Seat 1: deb9446e (4,985 in chips)
+Seat 2: c28ea122 (4,985 in chips)
+Seat 3: ad426fe5 (4,985 in chips)
+Seat 4: ed526fc3 (5,255 in chips)
+Seat 5: 28342b99 (4,935 in chips)
+Seat 6: Hero (4,885 in chips)
+Seat 7: 77b2c4a3 (4,985 in chips)
+Seat 8: 897f95f5 (4,985 in chips)
+ed526fc3: posts the ante 15
+77b2c4a3: posts the ante 15
+deb9446e: posts the ante 15
+c28ea122: posts the ante 15
+ad426fe5: posts the ante 15
+897f95f5: posts the ante 15
+28342b99: posts the ante 15
+Hero: posts the ante 15
+Hero: posts small blind 50
+77b2c4a3: posts big blind 100
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 28342b99 
+Dealt to Hero [Kh 5d]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+897f95f5: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: raises 100 to 200
+ed526fc3: folds
+28342b99: calls 200
+Hero: folds
+77b2c4a3: folds
+*** FLOP *** [Jd 9d 4s]
+ad426fe5: checks
+28342b99: checks
+*** TURN *** [Jd 9d 4s] [4h]
+ad426fe5: checks
+28342b99: bets 335
+ad426fe5: calls 335
+*** RIVER *** [Jd 9d 4s 4h] [3c]
+ad426fe5: checks
+28342b99: checks
+ad426fe5: shows [Ac Qs] (Pair of Fours)
+28342b99: shows [2d As] (Pair of Fours)
+*** SHOWDOWN ***
+ad426fe5 collected 1,340 from pot
+*** SUMMARY ***
+Total pot 1,340 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jd 9d 4s 4h 3c]
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 showed [Ac Qs] and won (1,340) with Pair of Fours
+Seat 4: ed526fc3 folded before Flop
+Seat 5: 28342b99 (button) showed [2d As] and lost with Pair of Fours
+Seat 6: Hero (small blind) folded before Flop
+Seat 7: 77b2c4a3 (big blind) folded before Flop
+Seat 8: 897f95f5 folded before Flop
+
+
+Poker Hand #TM3516161075: Tournament #154114513, Magyar Facebook Freeroll Hold'em No Limit - Level1(50/100) - 2024/07/24 20:00:02
+Table '15' 8-max Seat #4 is the button
+Seat 1: deb9446e (5,000 in chips)
+Seat 2: c28ea122 (5,000 in chips)
+Seat 3: ad426fe5 (5,000 in chips)
+Seat 4: ed526fc3 (5,000 in chips)
+Seat 5: 28342b99 (5,000 in chips)
+Seat 6: Hero (5,000 in chips)
+Seat 7: 77b2c4a3 (5,000 in chips)
+Seat 8: 897f95f5 (5,000 in chips)
+ed526fc3: posts the ante 15
+77b2c4a3: posts the ante 15
+deb9446e: posts the ante 15
+c28ea122: posts the ante 15
+ad426fe5: posts the ante 15
+897f95f5: posts the ante 15
+28342b99: posts the ante 15
+Hero: posts the ante 15
+28342b99: posts small blind 50
+Hero: posts big blind 100
+*** HOLE CARDS ***
+Dealt to deb9446e 
+Dealt to c28ea122 
+Dealt to ad426fe5 
+Dealt to ed526fc3 
+Dealt to 28342b99 
+Dealt to Hero [3d 7s]
+Dealt to 77b2c4a3 
+Dealt to 897f95f5 
+77b2c4a3: folds
+897f95f5: folds
+deb9446e: folds
+c28ea122: folds
+ad426fe5: folds
+ed526fc3: raises 100 to 200
+28342b99: folds
+Hero: folds
+Uncalled bet (100) returned to ed526fc3
+*** SHOWDOWN ***
+ed526fc3 collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: deb9446e folded before Flop
+Seat 2: c28ea122 folded before Flop
+Seat 3: ad426fe5 folded before Flop
+Seat 4: ed526fc3 (button) collected (370)
+Seat 5: 28342b99 (small blind) folded before Flop
+Seat 6: Hero (big blind) folded before Flop
+Seat 7: 77b2c4a3 folded before Flop
+Seat 8: 897f95f5 folded before Flop
+
+

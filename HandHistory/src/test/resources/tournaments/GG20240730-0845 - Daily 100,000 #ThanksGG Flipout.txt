@@ -1,0 +1,69 @@
+Poker Hand #TM3533728005: Tournament #155558193, Daily $100,000 #ThanksGG Flipout Hold'em No Limit - Level1(500/1,000) - 2024/07/30 10:45:04
+Table '654' 9-max Seat #4 is the button
+Seat 1: 63648f9b (18,378 in chips)
+Seat 2: a4196865 (4,099 in chips)
+Seat 3: 2a421d63 (6,453 in chips)
+Seat 4: 8c0479c7 (10,933 in chips)
+Seat 5: b6444c73 (127,511 in chips)
+Seat 6: e676ab97 (28,110 in chips)
+Seat 7: Hero (1,050 in chips)
+Seat 8: 8f0c376f (8,945 in chips)
+Seat 9: 98c1fd06 (9,370 in chips)
+63648f9b: posts the ante 18,378
+98c1fd06: posts the ante 9,370
+e676ab97: posts the ante 28,110
+8c0479c7: posts the ante 10,933
+8f0c376f: posts the ante 8,945
+b6444c73: posts the ante 127,511
+2a421d63: posts the ante 6,453
+Hero: posts the ante 1,050
+a4196865: posts the ante 4,099
+b6444c73: posts small blind 500
+e676ab97: posts big blind 0
+*** HOLE CARDS ***
+Dealt to 63648f9b 
+Dealt to a4196865 
+Dealt to 2a421d63 
+Dealt to 8c0479c7 
+Dealt to b6444c73 
+Dealt to e676ab97 
+Dealt to Hero [6d 7h]
+Dealt to 8f0c376f 
+Dealt to 98c1fd06 
+Uncalled bet (99,401) returned to b6444c73
+Uncalled bet (500) returned to b6444c73
+b6444c73: shows [3c Js]
+e676ab97: shows [8h 9c]
+Hero: shows [6d 7h]
+8f0c376f: shows [Ah 4d]
+98c1fd06: shows [Qd Ac]
+63648f9b: shows [9d Th]
+a4196865: shows [9h 6s]
+2a421d63: shows [5d Ks]
+8c0479c7: shows [Jh 8s]
+*** FLOP *** [5s 2s 7d]
+*** TURN *** [5s 2s 7d] [Qh]
+*** RIVER *** [5s 2s 7d Qh] [As]
+*** SHOWDOWN ***
+98c1fd06 collected 9,450 from pot
+98c1fd06 collected 24,392 from pot
+98c1fd06 collected 16,478 from pot
+98c1fd06 collected 14,952 from pot
+98c1fd06 collected 2,125 from pot
+8c0479c7 collected 6,252 from pot
+b6444c73 collected 22,335 from pot
+b6444c73 collected 19,464 from pot
+*** SUMMARY ***
+Total pot 115,448 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s 2s 7d Qh As]
+Seat 1: 63648f9b showed [9d Th] and lost with Ace-High
+Seat 2: a4196865 showed [9h 6s] and lost with Ace-High
+Seat 3: 2a421d63 showed [5d Ks] and lost with Pair of Fives
+Seat 4: 8c0479c7 (button) showed [Jh 8s] and won (6,252) with Ace-High
+Seat 5: b6444c73 (small blind) showed [3c Js] and won (41,799) with Ace-High
+Seat 6: e676ab97 (big blind) showed [8h 9c] and lost with Ace-High
+Seat 7: Hero showed [6d 7h] and lost with Pair of Sevens
+Seat 8: 8f0c376f showed [Ah 4d] and lost with Pair of Aces
+Seat 9: 98c1fd06 showed [Qd Ac] and won (67,397) with Pair of Aces and Pair of Queens
+
+

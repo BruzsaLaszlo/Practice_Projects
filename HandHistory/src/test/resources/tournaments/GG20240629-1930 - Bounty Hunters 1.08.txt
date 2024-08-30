@@ -1,0 +1,118 @@
+Poker Hand #TM3436301967: Tournament #149056143, Bounty Hunters $1.08 Hold'em No Limit - Level1(50/100) - 2024/06/29 21:31:10
+Table '21' 8-max Seat #6 is the button
+Seat 2: d334b26d (9,985 in chips)
+Seat 3: 6d24b4ff (9,985 in chips)
+Seat 4: 3b47822 (9,985 in chips)
+Seat 5: 989ffb04 (9,785 in chips)
+Seat 6: Hero (9,785 in chips)
+Seat 7: 9c9802aa (20,490 in chips)
+Seat 8: 2f86a196 (9,985 in chips)
+6d24b4ff: posts the ante 15
+2f86a196: posts the ante 15
+d334b26d: posts the ante 15
+3b47822: posts the ante 15
+Hero: posts the ante 15
+989ffb04: posts the ante 15
+9c9802aa: posts the ante 15
+9c9802aa: posts small blind 50
+2f86a196: posts big blind 100
+*** HOLE CARDS ***
+Dealt to d334b26d 
+Dealt to 6d24b4ff 
+Dealt to 3b47822 
+Dealt to 989ffb04 
+Dealt to Hero [9s 9h]
+Dealt to 9c9802aa 
+Dealt to 2f86a196 
+d334b26d: folds
+6d24b4ff: folds
+3b47822: raises 150 to 250
+989ffb04: calls 250
+Hero: raises 550 to 800
+9c9802aa: folds
+2f86a196: folds
+3b47822: raises 9,170 to 9,970 and is all-in
+989ffb04: folds
+Hero: calls 8,970 and is all-in
+Uncalled bet (200) returned to 3b47822
+3b47822: shows [Jh Jc]
+Hero: shows [9s 9h]
+*** FLOP *** [Ad 6h 6c]
+*** TURN *** [Ad 6h 6c] [7s]
+*** RIVER *** [Ad 6h 6c 7s] [6d]
+*** SHOWDOWN ***
+3b47822 collected 20,045 from pot
+*** SUMMARY ***
+Total pot 20,045 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ad 6h 6c 7s 6d]
+Seat 2: d334b26d folded before Flop
+Seat 3: 6d24b4ff folded before Flop
+Seat 4: 3b47822 showed [Jh Jc] and won (20,045) with Sixes Full over Jacks
+Seat 5: 989ffb04 folded before Flop
+Seat 6: Hero (button) showed [9s 9h] and lost with Sixes Full over Nines
+Seat 7: 9c9802aa (small blind) folded before Flop
+Seat 8: 2f86a196 (big blind) folded before Flop
+
+
+Poker Hand #TM3436301925: Tournament #149056143, Bounty Hunters $1.08 Hold'em No Limit - Level1(50/100) - 2024/06/29 21:30:02
+Table '21' 8-max Seat #5 is the button
+Seat 1: ddd84a8c (10,000 in chips)
+Seat 2: d334b26d (10,000 in chips)
+Seat 3: 6d24b4ff (10,000 in chips)
+Seat 4: 3b47822 (10,000 in chips)
+Seat 5: 989ffb04 (10,000 in chips)
+Seat 6: Hero (10,000 in chips)
+Seat 7: 9c9802aa (10,000 in chips)
+Seat 8: 2f86a196 (10,000 in chips)
+6d24b4ff: posts the ante 15
+2f86a196: posts the ante 15
+d334b26d: posts the ante 15
+ddd84a8c: posts the ante 15
+3b47822: posts the ante 15
+989ffb04: posts the ante 15
+Hero: posts the ante 15
+9c9802aa: posts the ante 15
+Hero: posts small blind 50
+9c9802aa: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ddd84a8c 
+Dealt to d334b26d 
+Dealt to 6d24b4ff 
+Dealt to 3b47822 
+Dealt to 989ffb04 
+Dealt to Hero [Kh 2h]
+Dealt to 9c9802aa 
+Dealt to 2f86a196 
+2f86a196: folds
+ddd84a8c: raises 100 to 200
+d334b26d: folds
+6d24b4ff: folds
+3b47822: folds
+989ffb04: calls 200
+Hero: calls 150
+9c9802aa: calls 100
+*** FLOP *** [7h 9h 6s]
+Hero: checks
+9c9802aa: bets 9,785 and is all-in
+ddd84a8c: calls 9,785 and is all-in
+989ffb04: folds
+Hero: folds
+9c9802aa: shows [9s 6c] (Pair of Nines and Pair of Sixes)
+ddd84a8c: shows [8d 7d] (Pair of Sevens)
+*** TURN *** [7h 9h 6s] [3d]
+*** RIVER *** [7h 9h 6s 3d] [2s]
+*** SHOWDOWN ***
+9c9802aa collected 20,490 from pot
+*** SUMMARY ***
+Total pot 20,490 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h 9h 6s 3d 2s]
+Seat 1: ddd84a8c showed [8d 7d] and lost with Pair of Sevens
+Seat 2: d334b26d folded before Flop
+Seat 3: 6d24b4ff folded before Flop
+Seat 4: 3b47822 folded before Flop
+Seat 5: 989ffb04 (button) folded on the Flop
+Seat 6: Hero (small blind) folded on the Flop
+Seat 7: 9c9802aa (big blind) showed [9s 6c] and won (20,490) with Pair of Nines and Pair of Sixes
+Seat 8: 2f86a196 folded before Flop
+
+
