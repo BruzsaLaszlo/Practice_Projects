@@ -1,9 +1,16 @@
 package model;
 
+import analysis.AnalyseHand;
+import analysis.Statics;
+import model.entities.Game;
+import model.entities.hand.Hand;
+import model.parsers.GGPokerHandParser;
+import model.parsers.GGPokerSummaryParser;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.nio.file.Path;
+import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Map;
 
@@ -13,52 +20,65 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class StaticsTest {
 
-    Path handsFolder = Path.of("src/test/resources/tournaments");
-    Path summaryFolder = Path.of("src/test/resources/summaries");
-    List<Game> gamesh;
+    Path handsFolder = Path.of("D:\\OneDrive\\Documents\\poker\\tournaments\\hand histories");
+    Path summaryFolder = Path.of("D:\\OneDrive\\Documents\\poker\\tournaments\\summaries");
+    Map<String, List<Hand>> handsByGameId;
     List<Game> games;
     Statics statics;
+    static int n;
 
     @BeforeEach
     void setUp() {
-        gamesh = new GGPokerHandParser().getGamesFromFolder(handsFolder);
+        handsByGameId = new GGPokerHandParser().getGamesFromFolder(handsFolder);
+        System.out.println("Hand lists size: " + handsByGameId.size());
         games = new GGPokerSummaryParser().getGamesFromFolder(summaryFolder);
-        for (Game game : games) {
-            gamesh.stream()
-                    .filter(g -> g.getId().equals(game.getId()))
-                    .findFirst().ifPresent(found -> game.setHands(found.getHands()));
-        }
+        System.out.println("Games size: " + games.size());
+        handsByGameId.values().forEach(hands -> {
+            boolean added = addHandsToGameSummaries(hands);
+            if (!added) games.add(new Game(hands));
+        });
         statics = new Statics(games.stream()
                 .filter(game -> game.getHands() != null)
                 .flatMap(game -> game.getHands().stream()).toList());
     }
 
+    private boolean addHandsToGameSummaries(List<Hand> hands) {
+        for (Game g : games) {
+            if (g.getId().equals(hands.getFirst().getId())) {
+                g.setHands(hands);
+                return true;
+            }
+        }
+        return false;
+    }
+
+
     @Test
     void basic() {
         Path folder = Path.of("src/test/resources/statics");
-        List<Game> games = new GGPokerHandParser().getGamesFromFolder(folder);
-        assertThat(games).isNotNull().hasSize(1);
-        assertThat(games.getFirst().getHands()).isNotNull().hasSize(73);
-        Statics statics = new Statics(games.getFirst().getHands());
-        assertEquals(13, statics.getHoleCardsAtLeastRank('T'));
+        Map<String, List<Hand>> handsByGameId = new GGPokerHandParser().getGamesFromFolder(folder);
+        assertThat(handsByGameId).isNotNull().hasSize(1);
+        assertThat(handsByGameId.values().stream().findFirst()).isPresent().get().extracting(List::size).isEqualTo(73);
+        Statics statics = new Statics(handsByGameId.values().stream().findFirst().get());
+        assertEquals(13, statics.getHoleCardsAtLeastFrom('T'));
         assertEquals(3, statics.getSuitedConnectorsCountFrom('T'));
         assertEquals(3, statics.getPairCount());
         assertEquals(2, statics.getPairCount('6'));
         assertEquals(1, statics.getPairCount('A'));
-        stat(statics);
+        AnalyseHand.printStat(statics);
     }
 
     @Test
     void mostHand() {
         games.stream()
                 .sorted(comparingInt((Game o) -> o.getHands().size()).reversed())
-                .filter(game -> game.getHands().size() > 50)
-                .forEach(game -> stat(new Statics(game.getHands())));
+                .filter(game -> game.getHands().size() >= 168)
+                .forEach(game -> AnalyseHand.printStat(new Statics(game.getHands())));
     }
 
     @Test
     void getHoleCardCountStat() {
-        Map<Card, Integer> carsStat = statics.getHoleCardCountStat();
+        Map<Character, Long> carsStat = statics.getHoleCardCountStat();
 
         carsStat.entrySet().stream()
                 .sorted(Map.Entry.comparingByValue())
@@ -67,26 +87,20 @@ class StaticsTest {
                 });
     }
 
-    void stat(Statics statics) {
-        int handCount = statics.getHandsCount();
-        System.out.println("Hand count: " + handCount);
+    @Test
+    void getCardsFrom() {
+        LocalDateTime time = LocalDateTime.of(2024, 9, 3, 19, 0);
+        List<Hand> list = statics.getHands().stream()
+                .filter(hand -> hand.getDateTime().isAfter(time))
+                .toList();
+        Statics stat = new Statics(list);
+        System.out.println("hands count: " + stat.getHandsCount());
+        Map<Character, Long> carsStat = stat.getHoleCardCountStat();
 
-        long holeCardsIsBigger9Count = statics.getHoleCardsAtLeastRank('T');
-        int varianceBiggerThen9 = (int) (holeCardsIsBigger9Count - handCount * 0.143);
-        System.out.println("hole cards >=T: " + holeCardsIsBigger9Count + ", v:" + varianceBiggerThen9);
-
-        long suitedConnectors = statics.getSuitedConnectorsCountFrom('T');
-        int varianceSuitedConnectors = (int) (suitedConnectors - handCount * 0.0121);
-        System.out.println("suited connectors >=T " + suitedConnectors + ", v:" + varianceSuitedConnectors);
-
-        long bigPairCount = statics.getPairCount('T', 'J', 'Q', 'K', 'A');
-        int bigPairVariance = (int) (bigPairCount - handCount * 0.0226);
-        System.out.println("big pair: " + bigPairCount + ", v:" + bigPairVariance);
-
-        long pairCount = statics.getPairCount();
-        int pairVariance = (int) (pairCount - handCount * 0.0588);
-        System.out.println("pair count: " + pairCount + ", v:" + pairVariance);
-        CardRank.ranks.keySet().forEach(name -> System.out.println(name + ": " + statics.getPairCount(name)));
+        carsStat.entrySet().stream()
+                .sorted(Map.Entry.comparingByValue())
+                .forEach(cardIntegerEntry -> {
+                    System.out.println(cardIntegerEntry.getKey() + ": " + cardIntegerEntry.getValue());
+                });
     }
-
 }

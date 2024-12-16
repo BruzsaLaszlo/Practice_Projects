@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AAA/BenchmarkArray/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AAA/BenchmarkArray/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AAA/JPA/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AAA/JPA/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AAA/JPA/src/main/resources/Angol.txt" charset="UTF-8" />
@@ -9,8 +11,19 @@
     <file url="file://$PROJECT_DIR$/AAA/XML_Binding/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ApiNG/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ApiNG/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HandHistory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HandHistory/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HttpsServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lotto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lotto/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lotto/src/test/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PokerHands/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Solutions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Solutions/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring_Boot/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring_Boot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Test/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Webotlet/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Webotlet/src/main/resources" charset="UTF-8" />
   </component>

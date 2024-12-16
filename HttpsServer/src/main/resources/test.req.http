@@ -1,0 +1,4 @@
+GET http://localhost:80/laci.txt
+
+###
+GET http://localhost:80/login

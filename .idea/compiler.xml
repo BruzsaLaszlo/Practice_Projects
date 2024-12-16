@@ -7,25 +7,37 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="HackerRank" />
         <module name="Spring_Boot" />
-        <module name="SpringTest" />
-        <module name="XML_Binding" />
+        <module name="Webotlet" />
+        <module name="BenchmarkArray" />
+        <module name="webotlet" />
+        <module name="Lotto" />
+        <module name="Problems" />
+        <module name="PokerHands" />
+        <module name="Solutions" />
+        <module name="Test" />
         <module name="Benchmark" />
         <module name="JPA" />
         <module name="ApiNG" />
-        <module name="Webotlet" />
-        <module name="webotlet" />
+        <module name="HttpsServer" />
+        <module name="HandHistory" />
         <module name="OCR" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ApiNg" target="20" />
+      <module name="HandHistoryWeb" target="21" />
+      <module name="HandHistoryWeb.main" target="21" />
+      <module name="HandHistoryWeb.test" target="21" />
+      <module name="SpringTest" target="20" />
+      <module name="XML_Binding" target="20" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ApiNg" options="" />
+      <module name="HttpsServer" options="-parameters" />
+      <module name="PokerHands" options="-parameters" />
       <module name="SpringTest" options="-parameters" />
       <module name="Spring_Boot" options="-parameters" />
     </option>

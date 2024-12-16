@@ -1,5 +1,7 @@
 package model;
 
+import model.entities.Game;
+import model.parsers.GGPokerSummaryParser;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -28,7 +30,7 @@ class GGPokerSummaryParserTest {
         assertEquals(2.28, games.getFirst().getWinningPrize());
         assertEquals(646, games.getFirst().getTotalPrizePool());
         assertThat(games.getFirst().getStartTime()).hasYear(2024).hasMinute(30);
-        assertNull(games.getFirst().getHands());
+        assertTrue(games.getFirst().getHands().isEmpty());
     }
 
     @Test

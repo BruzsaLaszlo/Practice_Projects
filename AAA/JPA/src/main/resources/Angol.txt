@@ -36472,7 +36472,7 @@ to crash into sg
 to crash into sg
 to crash over
 to crash over
-crash program
+crash analysis
 to crash the gates
 to crash the gates
 to crash the gates
@@ -121240,7 +121240,7 @@ prognostication
 prognostication
 prognostication
 prognostication
-program
+analysis
 programme
 programme
 progress
