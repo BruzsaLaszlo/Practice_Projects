@@ -8,20 +8,20 @@ import java.nio.file.Path;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
-import static org.junit.jupiter.api.io.CleanupMode.ON_SUCCESS;
+import static org.junit.jupiter.api.io.CleanupMode.ALWAYS;
 
 class DeleteDuplicatesTest {
 
     @Test
-    void deleteInSecondTest(@TempDir(cleanup = ON_SUCCESS) Path temp1, @TempDir(cleanup = ON_SUCCESS) Path temp2) throws Exception {
+    void deleteInSecondTest(@TempDir(cleanup = ALWAYS) Path temp1, @TempDir(cleanup = ALWAYS) Path temp2) throws Exception {
         Path pathFirst = Files.createDirectory(temp1.resolve("first"));
         for (int i = 0; i < 5; i++) {
-            Files.writeString(pathFirst.resolve(pathFirst + "/file" + i + ".txt"), "contain" + i);
+            Files.writeString(pathFirst.resolve("file" + i + ".txt"), "contain" + i);
         }
 
         Path pathSecond = Files.createDirectory(temp2.resolve("second"));
         for (int i = 1; i < 6; i++) {
-            Files.writeString(pathSecond.resolve(pathSecond + "/file" + i + ".txt"), "contain" + i);
+            Files.writeString(pathSecond.resolve("file" + i + ".txt"), "contain" + i);
         }
 
 
@@ -31,11 +31,11 @@ class DeleteDuplicatesTest {
         assertTrue(Files.isDirectory(pathFirst));
         assertTrue(Files.isDirectory(pathSecond));
         for (int i = 0; i < 5; i++) {
-            assertTrue(Files.exists(pathFirst.resolve(pathFirst + "/file" + i + ".txt")));
+            assertTrue(Files.exists(pathFirst.resolve("file" + i + ".txt")));
         }
         for (int i = 1; i < 5; i++) {
-            assertFalse(Files.exists(pathSecond.resolve(pathSecond + "/file" + i + ".txt")));
-            assertTrue(Files.exists(pathSecond.resolve(pathSecond + "/file5.txt")));
+            assertFalse(Files.exists(pathSecond.resolve("file" + i + ".txt")));
+            assertTrue(Files.exists(pathSecond.resolve("file5.txt")));
         }
     }
 }
