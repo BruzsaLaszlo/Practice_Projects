@@ -16,7 +16,8 @@ public class DeleteDuplicates {
         FileSet filesMain = new FileSet(mainDir);
 
         try (Stream<Path> walk = Files.walk(secondDir)) {
-            List<File> listOfDeleted = walk.filter(Files::isRegularFile)
+            List<File> listOfDeleted = walk.parallel()
+                    .filter(Files::isRegularFile)
                     .map(File::new)
                     .filter(file -> filesMain.getSet().contains(file))
                     .toList();

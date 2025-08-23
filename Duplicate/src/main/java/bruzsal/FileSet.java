@@ -18,7 +18,8 @@ public class FileSet {
 
     public FileSet(Path directory) {
         try (Stream<Path> walk = Files.walk(directory)) {
-            set = walk.filter(Files::isRegularFile)
+            set = walk.parallel()
+                    .filter(Files::isRegularFile)
                     .map(File::new)
                     .collect(Collectors.toSet());
         } catch (IOException e) {
