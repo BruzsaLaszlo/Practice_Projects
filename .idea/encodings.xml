@@ -11,6 +11,8 @@
     <file url="file://$PROJECT_DIR$/AAA/XML_Binding/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ApiNG/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ApiNG/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Duplicate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Duplicate/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HandHistory/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HandHistory/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HttpsServer/src/main/java" charset="UTF-8" />
@@ -22,8 +24,11 @@
     <file url="file://$PROJECT_DIR$/Solutions/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring_Boot/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring_Boot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SslTest/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Test/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Thymeleaf/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Webotlet/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Webotlet/src/main/resources" charset="UTF-8" />
   </component>

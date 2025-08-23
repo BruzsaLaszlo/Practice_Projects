@@ -17,11 +17,22 @@
         <module name="Solutions" />
         <module name="Test" />
         <module name="Benchmark" />
+        <module name="Thymeleaf" />
+        <module name="Duplicate" />
         <module name="JPA" />
         <module name="ApiNG" />
         <module name="HttpsServer" />
         <module name="HandHistory" />
         <module name="OCR" />
+      </profile>
+      <profile name="Annotation profile for SslTest" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.36/lombok-1.18.36.jar" />
+        </processorPath>
+        <module name="SslTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -40,6 +51,7 @@
       <module name="PokerHands" options="-parameters" />
       <module name="SpringTest" options="-parameters" />
       <module name="Spring_Boot" options="-parameters" />
+      <module name="SslTest" options="-parameters" />
     </option>
   </component>
 </project>
