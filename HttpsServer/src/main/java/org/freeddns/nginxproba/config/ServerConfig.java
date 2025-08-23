@@ -38,4 +38,7 @@ public class ServerConfig {
         return connector;
     }
 
+    public ServerConfig() {
+
+    }
 }
